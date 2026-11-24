@@ -30,15 +30,25 @@ ui <- fluidPage(
 
     # For (0) - they want to select a particular knockout mouse 
     selectInput( "knockout_mouse",
-                  "Select particular knockout mouse:",
-                  choices = NULL,
-                  multiple = FALSE
-                  )
+      "Select particular knockout mouse:",
+      choices = NULL,
+      multiple = FALSE
+      ),
+    plotOutput("plot_1"),
+    verbatimTextOutput("debug")
     
 )
 
 # Define server logic required to draw a histogram
 server <- function(input, output, session) {
+
+output$debug <- renderPrint({
+  cat("Selected:", input$knockout_mouse, "\n")
+  d <- df_phynotype_statistical_scores_plot_1()
+  cat("Rows:", nrow(d), "\n")
+  str(d)
+})
+
   df_phynotype_statistical_scores <- data.frame(
     phenotype = c("Phenotype1", "Phenotype2", "Phenotype3"),
     p_value = c(0.01, 0.05, 0.001),
@@ -46,11 +56,11 @@ server <- function(input, output, session) {
   )
   updateSelectInput(session, "knockout_mouse", choices = unique( df_phynotype_statistical_scores$knockout ) )
   
-  df_phynotype_statistical_scores_plot_0 <- reactive (df_phynotype_statistical_scores %>% dplyr::select(. , knockout = input$knockout_mouse) )
+  df_phynotype_statistical_scores_plot_1 <- reactive (df_phynotype_statistical_scores %>% filter(. , knockout == input$knockout_mouse) )
   # df_phynotype_statistical_scores <- Here we should query the database to get a dataframe of p value + phenotype + knockout
-    output$plot_0 <- renderPlot({
+    output$plot_1 <- renderPlot({
       # p-value - numerical continious. visualising over the phenotypes and gene knockout. Violin plot
-      ggplot() + geom_violin(data = df_phynotype_statistical_scores, aes(
+      ggplot() + geom_violin(data = df_phynotype_statistical_scores_plot_1(), aes(
         x = phenotype ,
         y = p_value
       ))
