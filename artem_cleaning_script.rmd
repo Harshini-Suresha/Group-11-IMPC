@@ -1,0 +1,92 @@
+---
+title: "Group11_project"
+output: html_document
+date: "2026-11-10"
+---
+
+```{r}
+disease_information <- read.delim("Group_11/Group11/Disease_information.txt")
+IMPC_parameter_description <-read.delim2("Group_11/Group11/IMPC_parameter_description.txt" , sep = ",")
+IMPC_procedure <-read.delim2("Group_11/Group11/IMPC_procedure.txt" , sep = ",")
+IMPC_SOP <-read.csv("Group_11/Group11/IMPC_SOP.csv")
+query_genes <-read.csv("Group_11/Group11/query_genes.csv")
+
+```
+
+```{r}
+all_reads <- list()
+for (path_to_record in list.files("Group_11/Group11/data/", full.names = TRUE) ){
+   all_reads[[basename(path_to_record)]] <- read.csv(file = path_to_record, header = FALSE,
+  col.names = c("dataField", "value"))
+}
+```
+
+```{r}
+saveRDS(object = all_reads , file = "all_records.rds")
+```
+
+```{r}
+all_records <- readRDS(file = "all_records.rds")
+```
+
+
+
+
+
+
+We have 8 variables to check through SOP. 
+We have a list with all records - all_records . 
+Each variable will be compared consequently with SOP requirements, and the ones that are wrong - deleted from all_records.
+
+
+```{r}
+for (record_basename in names(all_records)){
+  analysed_df <- all_records[[record_basename]]
+  if (nrow(analysed_df) != 8) {
+    all_records[[record_basename]] <- NULL
+    next
+  }
+  for (row_number in seq_along(analysed_df$dataField)){
+    SOP_reference_row <- IMPC_SOP[IMPC_SOP$dataField == tolower(trimws(analysed_df$dataField[row_number])),] # In some of the records, the dataField value was from capital, so the tolower() lowers it. trimws() removes the spaces from the sides. 
+    min_value <- as.numeric(SOP_reference_row$minValue)
+    max_value <- as.numeric(SOP_reference_row$maxValue)
+    row_value <- analysed_df[,2][row_number]
+    if (SOP_reference_row$dataType == "String"){
+      row_value <- as.character(row_value)
+      n_characters <- nchar(row_value)
+      if (is.na(n_characters)) {
+        all_records[[record_basename]] <- NULL
+        break
+      }
+      if (min_value > n_characters | max_value < n_characters) {
+        all_records[[record_basename]] <- NULL
+        break
+      }
+    } else if (SOP_reference_row$dataType == "Float"){
+      row_value <- as.numeric(row_value)
+      if (is.na(row_value)) {
+      all_records[[record_basename]] <- NULL
+      break
+      }
+      if (min_value > row_value | max_value < row_value) {
+        all_records[[record_basename]] <- NULL
+        break
+      }
+    }
+  }
+
+}
+
+
+```
+
+
+```{r}
+saveRDS(object = all_records , file = "clean_records.rds")
+```
+
+```{r}
+clean_records <- readRDS(file = "clean_records.rds")
+```
+
+
