@@ -1,0 +1,348 @@
+---
+title: "DCDM_Coursework"
+format: html
+editor: visual
+---
+
+## Importing and Cleaning the Datasets
+
+```{r}
+setwd("~/Documents/Applied Bioinformatics MSc/Data Cleaning and Data Management/Group Project/Group11")
+impc_sop = read.csv("IMPC_SOP.csv", sep = ",", header = T)
+head(impc_sop, 5)
+```
+
+```{r}
+query_genes <- read.csv("query_genes.csv")
+```
+
+```{r}
+impc_proc <- read.csv("IMPC_procedure.txt")
+impc_param_desc <- read.csv("IMPC_parameter_description.txt")
+disease_info <- read.csv("Disease_information.txt")
+```
+
+```{r}
+gene_accession_0a2s62i2fp71c44 <- read.csv("data/0a2s62i2fp71c44.csv", header = FALSE)
+gene_accession_0a2x2imt0xp9bdz <- read.csv("data/0a2x2imt0xp9bdz.csv", header = FALSE)
+gene_accession_0a3qg129l10axg2 <- read.csv("data/0a3qg129l10axg2.csv", header = FALSE)
+gene_accession_0aeew11653j6ftb <- read.csv("data/0aeew11653j6ftb.csv", header = FALSE)
+```
+
+## Cleaning IMPC_Param_Desc
+
+```{r}
+# Check data types of each column
+glimpse(impc_param_desc)
+
+cat("\n")
+
+# Summarise the data to get a snapshot
+summary(impc_param_desc)
+```
+
+#ParameterID is our primary key, therefore it should have no duplicates
+
+```{r}
+cat("Total no. rows:\n")
+nrow(impc_param_desc) # total number of rows in table
+
+cat("Unique Parameter ID values:\n")
+length(unique(impc_param_desc$parameterId)) # number of unique parameter ID values
+
+cat("Non-unique Parameter ID values:\n")
+sum(duplicated(impc_param_desc$parameterId)) # number of duplicate (non-unique) parameter ID values
+
+cat("Total no. duplicate rows:\n")
+nrow(impc_param_desc[duplicated(impc_param_desc), ]) #number of duplicate rows
+
+cat("Total no. unique rows:\n")
+nrow(unique(impc_param_desc)) # number of unique rows
+```
+
+```{r}
+cat("Unique Orig Parameter ID values:\n")
+length(unique(impc_param_clean$impcParameterOrigId)) # number of unique orig parameter ID values
+
+impc_param_desc[duplicated(impc_param_clean$impcParameterOrigId), ] #display duplicates of orig paramID
+```
+
+```{r}
+impc_param_desc[duplicated(impc_param_desc), ] #display duplicate rows
+impc_param_desc[duplicated(impc_param_desc$parameterId), ] #display duplicates of paramID
+
+
+# remove whitespaces from all chr columns
+library(dplyr)
+
+impc_param_clean <- impc_param_desc %>%
+  mutate(across(where(is.character), trimws))
+
+impc_param_clean <- impc_param_clean[!duplicated(impc_param_clean$parameterId), ] #remove duplicates of paramID
+
+impc_param_clean[duplicated(impc_param_clean$parameterId), ]
+
+glimpse(impc_param_clean)
+
+cat("\n")
+
+summary(impc_param_clean)
+```
+
+### Saving the IMPC Param File
+
+```{r}
+# Installing and loading tidyverse
+#install.packages("tidyverse")
+library("tidyverse")
+
+
+write_csv(impc_param_clean, "Clean Files/impc_param_clean.csv")
+```
+
+## Cleaning IMPC_Proc
+
+```{r}
+# Check data types of each column
+glimpse(impc_proc)
+
+cat("\n")
+
+# Summarise the data to get a snapshot
+summary(impc_proc)
+```
+
+```{r}
+cat("Total no. rows:\n")
+nrow(impc_proc) # total number of rows in table
+
+cat("Unique Original Parameter ID values:\n")
+length(unique(impc_proc$impcParameterOrigId)) # number of unique Orig parameter ID values
+
+cat("Duplicate Original Parameter ID values:\n")
+sum(duplicated(impc_proc$impcParameterOrigId)) # number of duplicate (non-unique) Orig parameter ID values
+```
+
+```{r}
+# remove whitespaces from all chr columns
+library(dplyr)
+
+impc_proc_clean <- impc_proc %>%
+  mutate(across(where(is.character), trimws))
+
+
+glimpse(impc_proc_clean)
+
+cat("\n")
+
+summary(impc_proc_clean)
+```
+
+**Setting True and False values to 1 and 0**
+
+```{r}
+impc_proc_clean$isMandatory <- as.integer(toupper(trimws(impc_proc$isMandatory)) == "TRUE")
+
+# table(impc_proc$isMandatory, useNA = "ifany") 
+# table(impc_proc_clean$isMandatory, useNA = "ifany")
+
+```
+
+**Saving the IMPC Proc File**
+
+```{r}
+# Installing and loading tidyverse
+#install.packages("tidyverse")
+#library("tidyverse")
+
+
+write_csv(impc_proc_clean, "Clean Files/impc_proc_clean.csv")
+```
+
+## Batch import data files
+
+```{r}
+files <- list.files("data", pattern = "\\.csv$", full.names = TRUE)
+
+read_one <- function(f) {
+  read_csv(f, col_names = c("field", "value"),
+           col_types = "cc", trim_ws = TRUE, show_col_types = FALSE) %>%
+    mutate(field = tolower(field)) %>%   #lower case column names since there is inconsistency
+    pivot_wider(names_from = field, values_from = value)
+}
+
+raw <- map_dfr(files, read_one)
+
+results <- raw %>%
+  mutate(pvalue = as.numeric(pvalue))
+```
+
+```{r}
+glimpse(results)
+cat("\n")
+summary(results)
+```
+
+## Data Conversion
+
+**#Check whether values outside what is listed should be converted or excluded**
+
+```{r}
+unique(raw$mouse_strain) # Values are C57BL; B6J; C3H; 129SV
+```
+
+```{r}
+results %>%
+  filter(str_detect(results$mouse_strain, "C3H")) # Check for the above values in mouse_strain
+```
+
+NB: There is no mouse strain with value 'C3H'
+
+```{r}
+strain_values <- c("C57BL", "B6J", "C3H", "129SV")
+
+results %>%
+  filter(!mouse_strain %in% strain_values) %>%  # count each no. values outside the list
+  count(mouse_strain, sort = TRUE)
+```
+
+Keeping only values in SOP
+
+```{r}
+permissible_values <- results %>%
+  filter(mouse_strain %in% strain_values)
+```
+
+Converting the all values to values in SOP
+
+```{r}
+# Since values in mouse strain are C57BL; B6J; C3H; 129SV, correct values that aren't
+
+# results <- results %>%
+#   mutate(mouse_strain = recode(mouse_strain,
+#                                "C50BL" = "C57BL",
+#                                "C51BL" = "C57BL",
+#                                "C52BL" = "C57BL",
+#                                "C53BL" = "C57BL",
+#                                "C54BL" = "C57BL",
+#                                "C55BL" = "C57BL",
+#                                "C56BL" = "C57BL",
+#                                "C58BL" = "C57BL",
+#                                "C59BL" = "C57BL",
+#                                "B0J" = "B6J",
+#                                "B3J" = "B6J",
+#                                "B8J" = "B6J",
+#                                "126SV" = "129SV",
+#                                "128SV" = "129SV"
+#                                ))
+```
+
+**#Clean mouse_life_stage column. Standardize the casing.**
+
+```{r}
+unique(results$mouse_life_stage)  # Values are E12.5; E15.5; E18.5; E9.5; Early adult; Late adult; Middle aged adult
+
+
+permissible_values <- permissible_values %>%
+  mutate(mouse_life_stage = trimws(str_to_title(mouse_life_stage))) # Sentence case values in 'mouse_life_stage' column
+
+unique(permissible_values$mouse_life_stage) 
+
+
+permissible_values$mouse_life_stage[permissible_values$mouse_life_stage == "Na"] <- NA # Set 'Na' values to NA
+```
+
+```{r}
+
+sum(is.na(permissible_values$mouse_life_stage)) # count NA mouse_life_stage values
+permissible_values %>% filter(is.na(mouse_life_stage)) # show the above values
+```
+
+**Check for duplicate ID values and clean**
+
+```{r}
+permissible_values[duplicated(permissible_values), ] #display duplicate rows
+
+permissible_values[duplicated(permissible_values$analysis_id), ] #display duplicates of analysis_id
+
+permissible_values[duplicated(permissible_values$gene_accession_id), ] #display duplicates of gene_accession_id
+
+permissible_values[duplicated(permissible_values$parameter_id), ] #display duplicates of parameter_id
+```
+
+**Check for duplicates in gene symbol, since there duplicates in gene_accession_id**
+
+```{r}
+
+#display duplicates of gene_symbol
+permissible_values[duplicated(permissible_values$gene_symbol), ] 
+
+
+# display the number of gene symbols each gene_accession_id has
+permissible_values %>% distinct(gene_accession_id, gene_symbol) %>%  
+  count(gene_accession_id) %>% filter(n > 1)
+```
+
+NB: From our analysis, the gene symbols are only different because some are capitalised. All the gene_accession IDs say 'MGI', proving they are mouse genes. Hence we convert to title format.
+
+**Standardise casing in Gene_Symbol**
+
+```{r}
+# Convert the values in 'gene_symbol' to title format
+permissible_values <- permissible_values %>%
+  mutate(gene_symbol = trimws(str_to_title(gene_symbol)))
+```
+
+**Standardise Gene_Accession_ID and Parameter_ID values**
+
+```{r}
+permissible_values <- permissible_values %>%
+  mutate(gene_accession_id = trimws(str_to_upper(gene_accession_id)),
+         parameter_id = trimws(str_to_upper(parameter_id))
+         ) # Upper case the values in 'gene_accession_id' and parameter_id' columns
+```
+
+From our analysis, Gene_accession_ID and parameter_ID have duplicates due to inconsistent capitalisation. Hence, we standardise the casing.
+
+**Check if parameter_id has more than one parameter_name**
+
+```{r}
+permissible_values %>% distinct(parameter_id, parameter_name) %>%  
+  count(parameter_id) %>% filter(n > 1)
+```
+
+**Creating a new table with parameterID values from the batch data files and IMPC_param**
+
+```{r}
+# Combine paramID values from both tables into one
+parameter_clean <- bind_rows(
+  permissible_values %>% distinct(parameter_id, parameter_name),
+  impc_param_clean %>% distinct(parameter_id = parameterId)) %>%
+  
+  # group by param ID and keep one ID per grouping 
+  group_by(parameter_id) %>%
+  summarise(parameter_name = first(na.omit(parameter_name)), .groups = "drop")
+```
+
+### Saving results to .csv files
+
+```{r}
+# keeping unique sets of gene_accession_id and gene_symbol
+gene <- permissible_values %>% distinct(gene_accession_id, gene_symbol)
+
+# Save to .csv
+write_csv(gene, "Clean Files/gene_clean.csv")
+
+
+# Save parameter table to .csv
+write_csv(parameter_clean, "Clean Files/parameter_clean.csv")
+
+
+# each row of analysis_id is already unique
+analysis <- permissible_values %>% select(analysis_id, gene_accession_id, parameter_id,
+                               mouse_strain, mouse_life_stage, pvalue) 
+
+# Save to .csv
+write_csv(analysis, "Clean Files/analysis_clean.csv")
+
+```
