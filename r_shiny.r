@@ -62,6 +62,7 @@ df_phynotype_statistical_scores <- data.frame(
   
   df_phynotype_statistical_scores_plot_1 <- reactive (df_phynotype_statistical_scores %>% filter(. , knockout == input$knockout_mouse) )
   # df_phynotype_statistical_scores <- Here we should query the database to get a dataframe of p value + phenotype + knockout
+  plot_1_title <- reactive(paste0( "The statistical scores of all recorded ", input$knockout_mouse  , " mouse phenotypes") )
     output$plot_1 <- renderPlot({
       # p-value - numerical continious. visualising over the phenotypes and gene knockout. Violin plot
       ggplot() + geom_col(data = df_phynotype_statistical_scores_plot_1(), aes(
@@ -70,7 +71,17 @@ df_phynotype_statistical_scores <- data.frame(
           p_value
         ) ,
         y = p_value
-      ))
+      ),
+      colour = "black",
+      fill ="coral"
+      ) +
+      theme_minimal() +
+      labs(
+        title = plot_1_title(),
+        subtitle = "Smaller statistical value means higher correlation",
+        x = "Mouse phenotype", # FILL IT
+        y = " Statistical Score " # FILL IT
+      )
     })
 }
 
