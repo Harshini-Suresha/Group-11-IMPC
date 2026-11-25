@@ -58,6 +58,8 @@ df_phynotype_statistical_scores <- data.frame(
                 0.33,   0.81,  0.02,  0.49,  0.0005, 0.007, 0.62,  0.95,  0.18,  0.41),
     knockout = rep(c("Mouse1", "Mouse2", "Mouse3", "Mouse4"), each = 10)
   )
+ # df_phynotype_statistical_scores <- RMariaDB::dbConnect()
+
   updateSelectInput(session, "knockout_mouse", choices = unique( df_phynotype_statistical_scores$knockout ) )
   
   df_phynotype_statistical_scores_plot_1 <- reactive (df_phynotype_statistical_scores %>% filter(. , knockout == input$knockout_mouse) )
