@@ -35,8 +35,13 @@ ui <- fluidPage(
       multiple = FALSE
       ),
     plotOutput("plot_1"),
-    verbatimTextOutput("debug")
-    
+    verbatimTextOutput("debug"),
+     selectInput( "phenotype",
+      "Select particular phenotype:",
+      choices = NULL,
+      multiple = FALSE
+      ),
+    plotOutput("plot_2") 
 )
 
 # Define server logic required to draw a histogram
@@ -61,6 +66,7 @@ df_phynotype_statistical_scores <- data.frame(
  # df_phynotype_statistical_scores <- RMariaDB::dbConnect()
 
   updateSelectInput(session, "knockout_mouse", choices = unique( df_phynotype_statistical_scores$knockout ) )
+  updateSelectInput(session, "phenotype", choices = unique( df_phynotype_statistical_scores$phenotype ) )
   
   df_phynotype_statistical_scores_plot_1 <- reactive (df_phynotype_statistical_scores %>% filter(. , knockout == input$knockout_mouse) )
   # df_phynotype_statistical_scores <- Here we should query the database to get a dataframe of p value + phenotype + knockout
@@ -85,6 +91,23 @@ df_phynotype_statistical_scores <- data.frame(
         y = " Statistical Score " # FILL IT
       )
     })
+    df_plot_2 <- reactive({
+    req(input$phenotype)
+    df_phynotype_statistical_scores %>%
+      filter(phenotype == input$phenotype) %>%
+      mutate(neg_log_p = -log10(p_value),
+             significant = p_value < 0.05)
+  })
+
+  output$plot_2 <- renderPlot({
+    ggplot(df_plot_2(), aes(x = knockout, y = neg_log_p, fill = significant)) +
+      geom_col() +
+      geom_hline(yintercept = -log10(0.05), linetype = "dashed") +
+      scale_fill_manual(values = c("FALSE" = "grey70", "TRUE" = "firebrick")) +
+      labs(x = "Knockout mouse", y = "-log10(p-value)", fill = "p < 0.05",
+           title = paste("Phenotype:", input$phenotype)) +
+      theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  })
 }
 
 # Run the application 
