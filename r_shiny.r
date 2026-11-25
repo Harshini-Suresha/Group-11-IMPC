@@ -35,7 +35,6 @@ ui <- fluidPage(
       multiple = FALSE
       ),
     plotOutput("plot_1"),
-    verbatimTextOutput("debug"),
      selectInput( "phenotype",
       "Select particular phenotype:",
       choices = NULL,
@@ -46,13 +45,6 @@ ui <- fluidPage(
 
 # Define server logic required to draw a histogram
 server <- function(input, output, session) {
-  
-output$debug <- renderPrint({
-  cat("Selected:", input$knockout_mouse, "\n")
-  d <- df_phynotype_statistical_scores_plot_1()
-  cat("Rows:", nrow(d), "\n")
-  str(d)
-})
 
 df_phynotype_statistical_scores <- data.frame(
     phenotype = rep(c("Phenotype1", "Phenotype2", "Phenotype3", "Phenotype4", "Phenotype5",
@@ -67,31 +59,14 @@ df_phynotype_statistical_scores <- data.frame(
 
   updateSelectInput(session, "knockout_mouse", choices = unique( df_phynotype_statistical_scores$knockout ) )
   updateSelectInput(session, "phenotype", choices = unique( df_phynotype_statistical_scores$phenotype ) )
-  
-  df_phynotype_statistical_scores_plot_1 <- reactive (df_phynotype_statistical_scores %>% filter(. , knockout == input$knockout_mouse) )
-  # df_phynotype_statistical_scores <- Here we should query the database to get a dataframe of p value + phenotype + knockout
-  plot_1_title <- reactive(paste0( "The statistical scores of all recorded ", input$knockout_mouse  , " mouse phenotypes") )
-    output$plot_1 <- renderPlot({
-      # p-value - numerical continious. visualising over the phenotypes and gene knockout. Violin plot
-      ggplot() + geom_col(data = df_phynotype_statistical_scores_plot_1(), aes(
-        x = reorder(
-          phenotype,
-          p_value
-        ) ,
-        y = p_value
-      ),
-      colour = "black",
-      fill ="coral"
-      ) +
-      theme_minimal() +
-      labs(
-        title = plot_1_title(),
-        subtitle = "Smaller statistical value means higher correlation",
-        x = "Mouse phenotype", # FILL IT
-        y = " Statistical Score " # FILL IT
-      )
-    })
-    df_plot_2 <- reactive({
+    df_for_plots_1 <- reactive({
+    req(input$phenotype)
+    df_phynotype_statistical_scores %>%
+      filter(knockout == input$knockout_mouse) %>%
+      mutate(neg_log_p = -log10(p_value),
+             significant = p_value < 0.05)
+  })
+  df_for_plots_2 <- reactive({
     req(input$phenotype)
     df_phynotype_statistical_scores %>%
       filter(phenotype == input$phenotype) %>%
@@ -99,8 +74,31 @@ df_phynotype_statistical_scores <- data.frame(
              significant = p_value < 0.05)
   })
 
+  # df_phynotype_statistical_scores <- Here we should query the database to get a dataframe of p value + phenotype + knockout
+    output$plot_1 <- renderPlot({
+      # p-value - numerical continious. visualising over the phenotypes and gene knockout. Col plot.
+      ggplot() + geom_col(data = df_for_plots_1(), aes(
+        x = reorder(
+          phenotype,
+          -neg_log_p
+        ) ,
+        y = neg_log_p,
+        fill = significant
+      )) +
+      theme_minimal() +
+      geom_hline(yintercept = -log10(0.05), linetype = "dashed") +
+      scale_fill_manual(values = c("FALSE" = "grey70", "TRUE" = "firebrick")) +
+      labs(
+        title = paste0( "The statistical scores of all recorded ", input$knockout_mouse  , " mouse phenotypes"),
+        subtitle = "Smaller statistical value means higher correlation",
+        x = "Mouse phenotype", # FILL IT
+        y = " Statistical Score " # FILL IT
+      )
+    })
+
+
   output$plot_2 <- renderPlot({
-    ggplot(df_plot_2(), aes(x = knockout, y = neg_log_p, fill = significant)) +
+    ggplot(df_for_plots_2(), aes(x = reorder(knockout, -neg_log_p), y = neg_log_p, fill = significant)) +
       geom_col() +
       geom_hline(yintercept = -log10(0.05), linetype = "dashed") +
       scale_fill_manual(values = c("FALSE" = "grey70", "TRUE" = "firebrick")) +
