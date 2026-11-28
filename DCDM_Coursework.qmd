@@ -51,7 +51,7 @@ cat("\n")
 summary(impc_param_desc)
 ```
 
-#ParameterID is our primary key, therefore it should have no duplicates
+#Remove duplicates from ParameterID
 
 ```{r}
 cat("Total no. rows:\n")
