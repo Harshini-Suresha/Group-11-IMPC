@@ -51,7 +51,7 @@ cat("\n")
 summary(impc_param_desc)
 ```
 
-#Remove duplicates from ParameterID
+#Remove duplicate values from ParameterID
 
 ```{r}
 cat("Total no. rows:\n")
