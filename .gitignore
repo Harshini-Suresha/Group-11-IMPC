@@ -1,0 +1,9 @@
+.DS_Store
+.RData
+.Rhistory
+.Rproj.user/
+.vscode/
+DCDM-Group11-IMPC.R
+DCDM_Coursework_rough.qmd
+Group11.Rproj
+data/

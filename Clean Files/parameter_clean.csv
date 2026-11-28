@@ -1,0 +1,3660 @@
+parameter_id,parameter_name,parameter_group
+IMPC_GEO_017_002,Facial Cleft,other
+IMPC_HEM_007_001,Mean cell hemoglobin concentration,other
+IMPC_EYE_017_001,Lens Opacity,other
+ICS_FEA_019_001,% Freezing duration pre-cue-2,other
+UCDLA_IPG_011_001,Initial response to glucose challenge,other
+IMPC_GEL_064_001,Somite Morphology,other
+IMPC_CBC_007_001,Albumin,other
+IMPC_EYE_067_001,Left anterior chamber depth,other
+IMPC_CSD_036_001,Startle response,other
+IMPC_CSD_039_001,Limb grasp,other
+IMPC_HEM_038_001,Basophil differential count,other
+JAX_SLW_014_001,Breath rate during sleep standard deviation,other
+IMPC_OFD_017_001,Center average speed,other
+IMPC_GEO_043_002,spina bifida,other
+IMPC_HEM_035_001,Eosinophil differential count,other
+JAX_LDT_006_001,Fecal boli,other
+IMPC_HEM_029_001,Neutrophil differential count,other
+IMPC_CBC_018_001,Glucose,other
+IMPC_EYE_068_001,Left total retinal thickness,other
+IMPC_CBC_012_001,Aspartate aminotransferase,other
+IMPC_HEM_037_001,Basophil cell count,other
+IMPC_CSD_007_001,Coat - color - abdomen,other
+IMPC_XRY_001_001,Skull shape,other
+IMPC_OFD_016_001,Center permanence time,other
+IMPC_HEM_008_001,Platelet count,other
+IMPC_EYE_025_001,Retinal Blood Vessels Structure,other
+M-G-P_013_001_004,Left Retina Pigmentation,other
+IMPC_GRS_008_001,Forelimb grip strength measurement mean,Grip Strength
+IMPC_GEL_056_001,Edema,other
+ESLIM_021_001_002,Total cholesterol,other
+IMPC_GEO_011_001,Blood Vessel Morphology,other
+IMPC_EYE_092_002,Retina (combined),other
+JAX_OFD_012_001,Periphery permanence time,other
+MGP_CSD_027_001,Ventral coat/hair colour pattern,other
+MGP_CSD_026_001,Ventral coat/hair colour,other
+M-G-P_013_001_007,Right Retina,other
+IMPC_EYE_092_001,Retina (combined),other
+ESLIM_015_001_012,Lactate dehydrogenase,other
+IMPC_CSD_032_001,Locomotor activity,other
+JAX_OFD_013_001,Periphery average speed,other
+IMPC_ACS_033_001,% Pre-pulse inhibition - PPI1,other
+IMPC_ABR_002_001,Click-evoked ABR threshold,other
+IMPC_CBC_014_001,Alkaline phosphatase,other
+RBRCLA_HEM_027_001,Red blood cell distribution width,other
+IMPC_XRY_003_001,Maxilla/Pre-maxilla,other
+IMPC_LDT_007_001,Percent time in dark,other
+IMPC_DXA_003_001,Lean mass,other
+IMPC_ACS_035_001,% Pre-pulse inhibition - PPI3,other
+IMPC_ABR_008_001,18kHz-evoked ABR Threshold,other
+RBRCLA_HEM_007_001,Mean cell hemoglobin concentration,other
+JAX_LDT_003_001,Time mobile light side,other
+KMPCLA_OFD_009_001,Whole arena average speed,other
+KMPCLA_OFD_020_001,Distance travelled - total,other
+IMPC_CBC_020_001,Fructosamine,other
+IMPC_OFD_020_001,Distance travelled - total,other
+IMPC_HEM_032_001,Lymphocyte cell count,other
+IMPC_DXA_010_001,Bone Area,other
+M-G-P_013_001_001,Eye,other
+IMPC_CBC_058_001,Cholesterol ratio,other
+IMPC_ABR_010_001,24kHz-evoked ABR Threshold,other
+KMPCLA_CSD_012_001,Coat - hair distribution - head,other
+MGP_CSD_067_001,Snout size,other
+ESLIM_016_001_005,Mean cell volume,other
+IMPC_EYE_007_001,Cornea,other
+IMPC_CSD_016_001,Coat - hair texture / appearance - abdomen,other
+RBRCLA_HEM_002_001,Red blood cell count,other
+IMPC_DXA_007_001,BMC/Body weight,Weight
+IMPC_EYE_027_001,Persistence of hyaloid vascular system,other
+JAX_OFD_017_001,Center average speed,other
+IMPC_OFD_013_001,Periphery average speed,other
+IMPC_CSD_038_001,Trunk curl,other
+JAX_LDT_002_001,Light side time spent,other
+IMPC_OFD_012_001,Periphery permanence time,other
+IMPC_EYE_064_001,Right outer nuclear layer,other
+IMPC_IPG_011_001,Initial response to glucose challenge,other
+M-G-P_016_001_008,Platelets-count,other
+ESLIM_009_001_704,Forelimb and hindlimb grip strength normalised against body weight,Grip Strength
+IMPC_ABR_006_001,12kHz-evoked ABR Threshold,other
+IMPC_GEO_048_002,Anophthalmia,other
+IMPC_CBC_008_001,Total bilirubin,other
+JAX_OFD_016_001,Center permanence time,other
+JAX_LDT_008_001,Percent time in dark,other
+IMPC_CSD_012_001,Coat - hair distribution - head,other
+IMPC_DXA_002_001,Fat mass,other
+IMPC_GRS_011_001,Forelimb and hindlimb grip strength normalised against body weight,Grip Strength
+KMPCLA_HEM_019_001,Mean platelet volume,other
+IMPC_OFD_014_001,Center distance travelled,other
+IMPC_ABR_012_001,30kHz-evoked ABR Threshold,other
+IMPC_DXA_006_001,Body length,other
+IMPC_HEM_031_001,Lymphocyte differential count,other
+IMPC_HEM_002_001,Red blood cell count,other
+IMPC_CBC_017_001,Triglycerides,other
+M-G-P_013_001_003,Left Retina,other
+IMPC_DXA_005_001,Bone Mineral Content (excluding skull),other
+HRWLLA_GRS_011_001,Forelimb and hindlimb grip strength normalised against body weight,Grip Strength
+IMPC_GEL_058_001,Heart morphology,other
+IMPC_HWT_008_001,Heart weight,Weight
+IMPC_GRS_010_001,Forelimb grip strength normalised against body weight,Grip Strength
+IMPC_CSD_080_001,Head bobbing,other
+IMPC_CBC_011_001,Iron,other
+IMPC_FOR_001_001,Total duration of lick/bite behaviour,other
+IMPC_CBC_015_001,Total cholesterol,other
+IMPC_HEM_005_001,Mean cell volume,other
+IMPC_EYE_026_001,Retinal Blood Vessels Pattern,other
+IMPC_CBC_003_001,Chloride,other
+IMPC_CBC_009_001,Calcium,other
+IMPC_CBC_006_001,Total protein,other
+IMPC_IPG_010_001,Fasted blood glucose concentration,other
+MGP_CSD_008_001,Startle response,other
+IMPC_CSD_013_001,Coat - hair distribution - abdomen,other
+IMPC_DXA_009_001,Fat/Body weight,Weight
+IMPC_EYE_008_001,Corneal opacity,other
+IMPC_CBC_023_001,Alpha-amylase,other
+IMPC_ACS_006_001,Response amplitude - S,other
+IMPC_CBC_005_001,Creatinine,other
+IMPC_HEM_027_001,Red blood cell distribution width,other
+IMPC_CBC_016_001,HDL-cholesterol,other
+CCP_LFO_001_001,Weight,Weight
+IMPC_CBC_001_001,Sodium,other
+IMPC_CSD_028_001,Snout size,other
+IMPC_HEM_036_001,Eosinophil cell count,other
+CCP_XRY_058_001,Lordosis,other
+IMPC_GEO_009_002,Hemorrhage,other
+IMPC_OFD_007_001,Whole arena resting time,other
+IMPC_DXA_008_001,Lean/Body weight,Weight
+IMPC_CBC_004_001,Urea (Blood Urea Nitrogen - BUN),other
+RBRCLA_HEM_006_001,Mean corpuscular hemoglobin,other
+IMPC_IMM_005_002,NK cells (Panel A) - % of live leukocytes (Panel A),other
+JAX_LDT_004_001,Dark side time spent,other
+JAX_OFD_007_001,Whole arena resting time,other
+IMPC_EYE_024_001,Retinal Blood Vessels,other
+IMPC_CSD_030_001,Tremor,other
+JAX_OFD_009_001,Whole arena average speed,other
+IMPC_GRS_009_001,Forelimb and hindlimb grip strength measurement mean,Grip Strength
+IMPC_CSD_027_001,Ears,other
+ESLIM_021_001_005,HDL-cholesterol,other
+IMPC_GEO_069_001,Delayed embryonic development,other
+IMPC_HWT_002_001,Tibia length,other
+ESLIM_021_001_003,Triglycerides,other
+IMPC_ECH_007_001,LVAWd,other
+IMPC_ECH_012_001,LVPWs,other
+IMPC_EYE_016_001,Lens,other
+IMPC_OFD_009_001,Whole arena average speed,other
+ESLIM_022_001_001,Body Weight,Weight
+IMPC_HEM_004_001,Hematocrit,other
+IMPC_FEA_105_001,Difference in Context and Conditioning Baseline % Freezing,other
+IMPC_GEO_063_001,Craniofacial morphology,other
+MGP_CSD_066_001,Snout morphology,other
+MGP_CSD_074_001,Incisors morphology,other
+IMPC_OFD_022_001,Percentage center time,other
+ESLIM_012_001_001,Time of first response,other
+IMPC_LDT_008_001,Percent time in light,other
+IMPC_GPO_002_001,Placenta Morphology,other
+CCP_XRY_031_001,Digit integrity,other
+ESLIM_016_001_007,Mean cell haemoglobin concentration,other
+IMPC_OFD_019_001,Number of center entries,other
+M-G-P_013_001_008,Right Retina Pigmentation,other
+IMPC_EYE_062_001,Right total retinal thickness,other
+JAX_OFD_020_001,Distance travelled - total,other
+KMPCLA_OFD_007_001,Whole arena resting time,other
+JAX_LDT_001_001,Side changes,other
+IMPC_OFD_010_001,Periphery distance travelled,other
+IMPC_GEO_041_002,Exencephaly,other
+JAX_LDT_009_001,Percent time in light,other
+JAX_OFD_022_001,Percentage center time,other
+RBRCLA_HEM_005_001,Mean cell volume,other
+JAX_OFD_010_001,Periphery distance travelled,other
+ESLIM_005_001_701,BMC/Body weight,Weight
+IMPC_HEM_003_001,Hemoglobin,other
+JAX_OFD_011_001,Periphery resting time,other
+IMPC_ABR_004_001,6kHz-evoked ABR Threshold,other
+IMPC_HEM_001_001,White blood cell count,other
+IMPC_XRY_033_001,Tibia length,other
+IMPC_HEM_019_001,Mean platelet volume,other
+IMPC_HEM_006_001,Mean corpuscular hemoglobin,other
+IMPC_CSD_011_001,Coat - hair distribution - back,other
+M-G-P_005_001_004,Bone Mineral Density (excluding skull),other
+IMPC_XRY_005_001,Teeth,other
+IMPC_GEP_029_002,Cyanosis,other
+JAX_OFD_014_001,Center distance travelled,other
+IMPC_GEO_064_001,Edema,other
+IMPC_DXA_004_001,Bone Mineral Density (excluding skull),other
+IMPC_CSD_024_001,Vibrissae - appearance,other
+IMPC_XRY_019_001,Fusion of vertebrae,other
+IMPC_EYE_083_001,Vitreous,other
+MGP_PBI_008_001,CD4+ CD25+ alpha beta regulatory T cell percentage,other
+IMPC_GRS_001_001,Forelimb grip strength measurement,Grip Strength
+IMPC_GRS_002_001,Forelimb and hindlimb grip strength measurement,Grip Strength
+IMPC_GRS_003_001,Body weight,Weight
+IMPC_GRS_004_001,General comments about the mouse,other
+IMPC_GRS_005_001,Equipment ID,other
+IMPC_GRS_006_001,Equipment manufacturer,other
+IMPC_GRS_007_001,Grid model,other
+IMPC_GRS_012_001,Experimenter ID,other
+IMPC_GRS_013_001,Equipment model,other
+IMPC_GRS_014_001,Date equipment last calibrated,other
+IMPC_ALZ_001_001,Adrenal gland,other
+IMPC_ALZ_002_001,Lower Urinary Tract,other
+IMPC_ALZ_003_001,Brain,Brain
+IMPC_ALZ_004_001,Eye,other
+IMPC_ALZ_005_001,Heart,other
+IMPC_ALZ_006_001,Kidney,other
+IMPC_ALZ_007_001,Liver,other
+IMPC_ALZ_008_001,Lymph Node,other
+IMPC_ALZ_009_001,Mammary gland,other
+IMPC_ALZ_010_001,Ovary,other
+IMPC_ALZ_011_001,Oviduct,other
+IMPC_ALZ_012_001,Skin,other
+IMPC_ALZ_013_001,Stomach,other
+IMPC_ALZ_014_001,Testis,other
+IMPC_ALZ_015_001,Thymus,other
+IMPC_ALZ_016_001,Trachea,other
+IMPC_ALZ_017_001,Uterus,other
+IMPC_ALZ_018_001,Large Intestine,other
+IMPC_ALZ_019_001,Esophagus,other
+IMPC_ALZ_020_001,Spinal cord,other
+IMPC_ALZ_021_001,Thyroid gland,other
+IMPC_ALZ_022_001,Pituitary gland,other
+IMPC_ALZ_023_001,Skeletal Muscle,other
+IMPC_ALZ_024_001,Small Intestine,other
+IMPC_ALZ_025_001,White Adipose Tissue,other
+IMPC_ALZ_026_001,Lung,other
+IMPC_ALZ_027_001,Aorta,other
+IMPC_ALZ_028_001,Pancreas,other
+IMPC_ALZ_029_001,Prostate gland,other
+IMPC_ALZ_030_001,Spleen,other
+IMPC_ALZ_031_001,Brainstem,Brain
+IMPC_ALZ_032_001,Cartilage tissue,other
+IMPC_ALZ_033_001,Cerebral Cortex,other
+IMPC_ALZ_034_001,Cerebellum,other
+IMPC_ALZ_035_001,Hippocampus,other
+IMPC_ALZ_036_001,Hypothalamus,other
+IMPC_ALZ_037_001,Olfactory Lobe,other
+IMPC_ALZ_038_001,Peripheral Nervous System,other
+IMPC_ALZ_039_001,Peyers Patch,other
+IMPC_ALZ_040_001,Striatum,other
+IMPC_ALZ_041_001,Vascular System,other
+IMPC_ALZ_042_001,Urinary bladder,other
+IMPC_ALZ_043_001,Bone,other
+IMPC_ALZ_044_001,Cecum,other
+IMPC_ALZ_045_001,Colon,other
+IMPC_ALZ_046_001,Duodenum,other
+IMPC_ALZ_047_001,Ileum,other
+IMPC_ALZ_048_001,Jejunum,other
+IMPC_ALZ_049_001,Gonadal fat pad,other
+IMPC_ALZ_050_001,Bone  Marrow,other
+IMPC_ALZ_051_001,Vas Deferens,other
+IMPC_ALZ_052_001,Brown adipose tissue,other
+IMPC_ALZ_053_001,Mesenteric adipose tissue,other
+IMPC_ALZ_054_001,Blood,other
+IMPC_ALZ_055_001,Diaphragm,other
+IMPC_ALZ_056_001,Gall Bladder,other
+IMPC_ALZ_057_001,Harderian Gland,other
+IMPC_ALZ_058_001,Hindlimb,other
+IMPC_ALZ_059_001,Quadriceps,other
+IMPC_ALZ_060_001,Parathyroid gland,other
+IMPC_ALZ_061_001,Parotid gland,other
+IMPC_ALZ_062_001,Penis,other
+IMPC_ALZ_063_001,Stomach pyloric region,other
+IMPC_ALZ_064_001,Chest bone,other
+IMPC_ALZ_065_001,Sciatic nerve,other
+IMPC_ALZ_066_001,Cranium,other
+IMPC_ALZ_067_001,Sublingual Gland,other
+IMPC_ALZ_068_001,Submandibular Gland,other
+IMPC_ALZ_069_001,Tongue,other
+IMPC_ALZ_070_001,Trigeminal V nerve,other
+IMPC_ALZ_071_001,Vagina,other
+IMPC_ALZ_072_001,Vesicular Gland,other
+IMPC_ALZ_073_001,Mesenteric Lymph Node,other
+IMPC_ALZ_074_001,Oral epithelium,other
+IMPC_ALZ_075_001,LacZ Images Section,other
+IMPC_ALZ_076_001,LacZ Images Wholemount,other
+IMPC_ALZ_077_001,Free Ontology,other
+IMPC_ALZ_078_001,Free Ontology Annotation reason,other
+IMPC_ALZ_079_001,Free text comment,other
+IMPC_ALZ_080_001,Microscope equipment id,other
+IMPC_ALZ_081_001,Microscope equipment manufacturer,other
+IMPC_ALZ_082_001,Microscope equipment model,other
+IMPC_ALZ_083_001,Date Microscope last calibrated,other
+IMPC_ALZ_084_001,Detector equipment manufacturer,other
+IMPC_ALZ_085_001,Detector equipment model,other
+IMPC_ALZ_086_001,Objective equipment company,other
+IMPC_ALZ_087_001,Objective equipment model,other
+IMPC_ALZ_088_001,Objective magnification,other
+IMPC_ALZ_089_001,Illumination source manufacturer,other
+IMPC_ALZ_090_001,Illumination source model,other
+IMPC_ALZ_091_001,Sample preparation stain name,other
+IMPC_ALZ_092_001,Sample preparation reference impc,other
+IMPC_ALZ_093_001,Bit Depth,other
+IMPC_ALZ_094_001,Colorspace,other
+IMPC_ALZ_095_001,Experimental category,other
+IMPC_ALZ_096_001,Orientation,other
+IMPC_ALZ_097_001,Pixels per millimeter before processing,other
+IMPC_ALZ_098_001,Pixels per millimeter after processing,other
+IMPC_ALZ_099_001,Showcase image,other
+IMPC_ALZ_100_001,Date of Sacrifice,other
+IMPC_ALZ_101_001,Date of Perfusion,other
+IMPC_ALZ_102_001,Epididymis,other
+IMPC_ALZ_103_001,Main olfactory bulb,other
+IMPC_ALZ_104_001,Midbrain,Brain
+IMPC_ALZ_105_001,Thalamus,other
+IMPC_GEO_001_001,Alive,other
+IMPC_GEO_002_001,Scored,other
+IMPC_GEO_003_001,Cardiovascular System,other
+IMPC_GEO_004_001,Cardiovascular Development,other
+IMPC_GEO_005_001,Heart Development,other
+IMPC_GEO_006_001,Outflow tract development,other
+IMPC_GEO_008_001,Heart Morphology,other
+IMPC_GEO_012_001,Developmental Vascular Remodelling,other
+IMPC_GEO_013_001,Craniofacial,other
+IMPC_GEO_014_001,Craniofacial Development,other
+IMPC_GEO_015_001,Head shape,other
+IMPC_GEO_016_001,Head size,other
+IMPC_GEO_019_001,Embryo Size,other
+IMPC_GEO_020_001,Body wall morphology,other
+IMPC_GEO_021_001,Hearing/Vestibular/Ear,other
+IMPC_GEO_022_001,Ear Morphology,other
+IMPC_GEO_023_001,Ear Development,other
+IMPC_GEO_024_001,Homeostasis/metabolism,other
+IMPC_GEO_027_001,Integument,other
+IMPC_GEO_028_001,Vibrissa Morphology,other
+IMPC_GEO_029_001,Skin Appearance,other
+IMPC_GEO_030_001,Skin Coloration,other
+IMPC_GEO_031_001,Limb Bud Morphology,other
+IMPC_GEO_032_001,Limb Plate Morphology,other
+IMPC_GEO_033_001,Tail Morphology,other
+IMPC_GEO_035_001,Liver/Biliary,other
+IMPC_GEO_036_001,Liver Morphology,other
+IMPC_GEO_037_001,Liver Size,other
+IMPC_GEO_039_001,Nervous System,other
+IMPC_GEO_040_001,Brain Development,Brain
+IMPC_GEO_044_001,Vision/Eye,other
+IMPC_GEO_045_001,Eye Morphology,other
+IMPC_GEO_046_001,Eye Size,other
+IMPC_GEO_049_001,Comment on image,other
+IMPC_GEO_050_001,Images,other
+IMPC_GEO_051_001,Experimenter ID,other
+IMPC_GEO_052_001,Equipment ID,other
+IMPC_GEO_053_001,Equipment Manufacturer,other
+IMPC_GEO_054_001,Equipment Model,other
+IMPC_GEO_055_001,Fixative,other
+IMPC_GEO_056_001,Time of Dissection,other
+IMPC_GEO_057_001,Somite Stage,other
+IMPC_GEO_058_001,Time of dark cycle start,other
+IMPC_GEO_059_001,Time of dark cycle end,other
+IMPC_GEO_060_001,Date equipment last calibrated,other
+IMPC_GEO_007_002,Absent heartbeat,other
+IMPC_GEO_010_002,Skin Hemorrhage,other
+IMPC_GEO_018_002,Cleft Palate,other
+IMPC_GEO_025_002,Hydrops fetalis (fetal adema),other
+IMPC_GEO_026_002,Gastroschisis (herniated abdominal wall),other
+IMPC_GEO_034_002,Polydactyly,other
+IMPC_GEO_038_002,Pale Liver,other
+IMPC_GEO_042_002,Holoprosencephaly,other
+IMPC_GEO_047_002,Microphthalmia,other
+IMPC_GEO_061_001,Severely Dysmorphic,other
+IMPC_EVP_001_001,Outcome,other
+IMPC_EVP_002_001,Decision,other
+IMPC_EVP_003_001,Comment on Decision (in English),other
+IMPC_EVP_004_001,Total embryos,other
+IMPC_EVP_005_001,Total embryos heterozygous,other
+IMPC_EVP_006_001,Total embryos homozygous,other
+IMPC_EVP_007_001,Total dead embryos,other
+IMPC_EVP_008_001,Total dead WT,other
+IMPC_EVP_009_001,Total dead heterozygous,other
+IMPC_EVP_010_001,Total dead homozygous,other
+IMPC_EVP_011_001,Total gross defect at dissection (alive or dead) embryos,other
+IMPC_EVP_012_001,Total gross defect at dissection (alive or dead) WT,other
+IMPC_EVP_013_001,Total gross defect at dissection (alive or dead) heterozygous,other
+IMPC_EVP_014_001,Total gross defect at dissection (alive or dead) homozygous,other
+IMPC_EVP_015_001,Number of reabsorptions,other
+IMPC_EVP_016_001,Average Litter Size,other
+IMPC_EVP_017_001,% embryos WT,other
+IMPC_EVP_018_001,% embryos heterozygous,other
+IMPC_EVP_019_001,% embryos homozygous,other
+IMPC_EVP_020_001,Time of dark cycle start,other
+IMPC_EVP_021_001,Time of dark cycle end,other
+IMPC_EVP_022_001,Embryo medium,other
+IMPC_EVP_023_001,Total embryos WT,other
+IMPC_EVP_024_001,Total live embryos,other
+IMPC_EVP_025_001,Total live heterozygous,other
+IMPC_EVP_026_001,Total live WT,other
+IMPC_EVP_027_001,Total live homozygous,other
+IMPC_HOU_003_002,Pipeline ID(s),other
+IMPC_HOU_004_002,Date effective from,other
+IMPC_HOU_005_002,Date effective until,other
+IMPC_HOU_009_001,Housing - temperature regulated,other
+IMPC_HOU_068_001,Housing - temperature range,other
+IMPC_HOU_012_001,Housing - relative humidity regulated,other
+IMPC_HOU_069_001,Housing - relative humidity range,other
+IMPC_HOU_015_001,Housing - ventilation managed,other
+IMPC_HOU_070_001,Housing - air changes per hour in the room (range),other
+IMPC_HOU_019_001,Housing - IVC ventilation,other
+IMPC_HOU_071_001,Housing - air changes per hour in the IVC unit (range),other
+IMPC_HOU_023_001,Housing - light source,other
+IMPC_HOU_072_001,Housing - light intensity (range),other
+IMPC_HOU_027_001,Housing - time lights switched on,other
+IMPC_HOU_028_001,Housing - time lights switched off,other
+IMPC_HOU_073_001,Housing - cage manufacturer,other
+IMPC_HOU_074_001,Housing - cage model,other
+IMPC_HOU_075_001,Housing - Racking system manufacturer,other
+IMPC_HOU_076_001,Housing - cage dimensions (L x W x H in mm),other
+IMPC_HOU_077_001,Housing - animals per cage - Female maximum,other
+IMPC_HOU_078_001,Housing - animals per cage - Female minimum,other
+IMPC_HOU_079_001,Housing - animals per cage - Male maximum,other
+IMPC_HOU_080_001,Housing - animals per cage - Male minimum,other
+IMPC_HOU_035_002,Housing - bedding type,other
+IMPC_HOU_036_001,Housing - bedding pre-treatment,other
+IMPC_HOU_037_002,Housing - cage enrichment,other
+IMPC_HOU_038_001,Housing - frequency of cage cleaning,other
+IMPC_HOU_039_002,Housing - frequency of handling (excluding phenotyping),other
+IMPC_HOU_081_001,Housing - frequency of animal welfare assessments,other
+IMPC_HOU_082_001,Nutrition - supplier of diet,other
+IMPC_HOU_083_001,Nutrition - product ID of diet,other
+IMPC_HOU_041_001,Nutrition - diet type,other
+IMPC_HOU_043_002,Nutrition - average composition (based on mass) - Carbohydrate,other
+IMPC_HOU_044_002,Nutrition - average composition (based on mass) - Fat,other
+IMPC_HOU_045_002,Nutrition - average composition (based on mass) - Protein,other
+IMPC_HOU_050_001,Nutrition - feeding regime (excluding fasting periods),other
+IMPC_HOU_051_002,Nutrition - source of lipids,other
+IMPC_HOU_053_002,Water - pre-treatment,other
+IMPC_HOU_054_001,Water - schedule (quantity),other
+IMPC_HOU_055_001,Water - supply method,other
+IMPC_HOU_056_001,Microbiological status - status of your centre,other
+IMPC_HOU_084_001,Microbiological status - pathogens testing frequency,other
+IMPC_HOU_085_001,Phenotyping lifestage,other
+IMPC_HOU_052_001,Water - quality monitored,other
+IMPC_HOU_086_001,Submission Identifier,other
+IMPC_GEP_001_001,Alive,other
+IMPC_GEP_002_001,Scored,other
+IMPC_GEP_003_001,Behavior/neurological,other
+IMPC_GEP_006_001,Cardiovascular System,other
+IMPC_GEP_007_001,Cardiovascular Development,other
+IMPC_GEP_008_001,Heart Development,other
+IMPC_GEP_009_001,Outflow tract development,other
+IMPC_GEP_010_001,Heart Morphology,other
+IMPC_GEP_013_001,Blood Vessel Morphology,other
+IMPC_GEP_014_001,Craniofacial,other
+IMPC_GEP_015_001,Head shape,other
+IMPC_GEP_016_001,Head size,other
+IMPC_GEP_017_001,Facial Morphology,other
+IMPC_GEP_020_001,Digestive/alimentary,other
+IMPC_GEP_021_001,Digestive System Morphology,other
+IMPC_GEP_022_001,Embryo Size,other
+IMPC_GEP_023_001,Embryo weight,Weight
+IMPC_GEP_024_001,Body wall morphology,other
+IMPC_GEP_025_001,Hearing/Vestibular/Ear,other
+IMPC_GEP_026_001,Outer ear morpholgy,other
+IMPC_GEP_027_001,Ear Development,other
+IMPC_GEP_028_001,Homeostasis/metabolism,other
+IMPC_GEP_032_001,Integument,other
+IMPC_GEP_033_001,Vibrissa Morphology,other
+IMPC_GEP_034_001,Skin Appearance,other
+IMPC_GEP_036_001,Skin Coloration,other
+IMPC_GEP_037_001,Limb Morphology,other
+IMPC_GEP_038_001,Tail Morphology,other
+IMPC_GEP_040_001,Liver/Biliary,other
+IMPC_GEP_041_001,Liver Morphology,other
+IMPC_GEP_042_001,Liver Size,other
+IMPC_GEP_043_001,Muscle,other
+IMPC_GEP_044_001,Diaphragm Morphology,other
+IMPC_GEP_045_001,Nervous System,other
+IMPC_GEP_046_001,Brain Development,Brain
+IMPC_GEP_050_001,Renal/Urinary,other
+IMPC_GEP_051_001,Kidney,other
+IMPC_GEP_052_001,Respiratory System,other
+IMPC_GEP_053_001,Lung Morphology,other
+IMPC_GEP_054_001,Lung Development,other
+IMPC_GEP_056_001,Vision/Eye,other
+IMPC_GEP_057_001,Eye Morphology,other
+IMPC_GEP_058_001,Eye Size,other
+IMPC_GEP_062_001,Number of cervical vertebrae,other
+IMPC_GEP_063_001,Comment on image,other
+IMPC_GEP_064_001,Images,other
+IMPC_GEP_065_001,Experimenter ID,other
+IMPC_GEP_066_001,Equipment ID,other
+IMPC_GEP_067_001,Equipment Manufacturer,other
+IMPC_GEP_068_001,Equipment Model,other
+IMPC_GEP_069_001,Fixative,other
+IMPC_GEP_070_001,Time of Dissection,other
+IMPC_GEP_071_001,Somite Stage,other
+IMPC_GEP_072_001,Time of dark cycle start,other
+IMPC_GEP_073_001,Time of dark cycle end,other
+IMPC_GEP_074_001,Date equipment last calibrated,other
+IMPC_GEP_004_002,Spontaneous movement,other
+IMPC_GEP_005_002,Responsive to tactile stimuli,other
+IMPC_GEP_011_002,Hemorrhage,other
+IMPC_GEP_012_002,Skin Hemorrhage,other
+IMPC_GEP_018_002,Facial Cleft,other
+IMPC_GEP_019_002,Cleft Palate,other
+IMPC_GEP_030_002,Edema,other
+IMPC_GEP_031_002,Hydrops fetalis (fetal adema),other
+IMPC_GEP_035_002,Pallor,other
+IMPC_GEP_039_002,Polydactyly,other
+IMPC_GEP_047_002,Exencephaly,other
+IMPC_GEP_048_002,Holoprosencephaly,other
+IMPC_GEP_049_002,spina bifida,other
+IMPC_GEP_055_002,Respiratory Failure,other
+IMPC_GEP_059_002,Microphthalmia,other
+IMPC_GEP_060_002,Anophthalmia,other
+IMPC_GEP_061_002,Failure of Eyelid Fusion,other
+IMPC_GEP_075_001,Severely Dysmorphic,other
+IMPC_EMA_001_001,Embryo reconstruction,other
+IMPC_EMA_002_001,Experimenter ID,other
+IMPC_EMA_003_001,Equipment ID,other
+IMPC_EMA_004_001,Equipment Manufacturer,other
+IMPC_EMA_005_001,Equipment Model,other
+IMPC_EMA_006_001,Equipment Version,other
+IMPC_EMA_007_001,Image Pixel Size,other
+IMPC_EMA_008_001,E18.5 MicroCT Preparation protocol,other
+IMPC_EMA_009_001,Date equipment last calibrated,other
+IMPC_EMA_010_001,Date of Sacrifice,other
+IMPC_EMA_011_001,Date Preparation Finished,other
+IMPC_EMA_012_001,Date of Scan,other
+IMPC_EMA_013_001,Source Voltage,other
+IMPC_EMA_014_001,Source Current,other
+IMPC_EMA_015_001,Object to Source,other
+IMPC_EMA_016_001,Camera to Source,other
+IMPC_EMA_017_001,Screenshots,other
+IMPC_EMA_018_001,Limb digits,other
+IMPC_EMA_019_001,Tail,other
+IMPC_EMA_020_001,Limbs,other
+IMPC_EMA_021_001,Pinna,other
+IMPC_EMA_022_001,Vibrissa,other
+IMPC_EMA_023_001,Edema,other
+IMPC_EMA_024_001,Embryo size,other
+IMPC_EMA_025_001,Spinal Cord,other
+IMPC_EMA_026_001,Spine curvature,other
+IMPC_EMA_027_001,Craniofacial morphology,other
+IMPC_EMA_028_001,Hindbrain subarachnoid space,Brain
+IMPC_EMA_029_001,Midbrain roof plate,Brain
+IMPC_EMA_030_001,Midbrain,Brain
+IMPC_EMA_031_001,Cerebellum,other
+IMPC_EMA_032_001,Cerebral cortex,other
+IMPC_EMA_033_001,Thalamus,other
+IMPC_EMA_034_001,Corpus striatum,other
+IMPC_EMA_035_001,Hippocampus,other
+IMPC_EMA_036_001,Hypothalamus,other
+IMPC_EMA_037_001,Pineal gland,other
+IMPC_EMA_038_001,Pons,other
+IMPC_EMA_039_001,Medulla oblongata,other
+IMPC_EMA_040_001,Lateral ventricles,other
+IMPC_EMA_041_001,Lateral ventricle choroid plexus,other
+IMPC_EMA_042_001,4th ventricle choroid plexus,other
+IMPC_EMA_043_001,4th Ventricle,other
+IMPC_EMA_044_001,Cerebral aqueduct,other
+IMPC_EMA_045_001,Median sulcus,other
+IMPC_EMA_046_001,3rd ventricle,other
+IMPC_EMA_047_001,Olfactory lobe,other
+IMPC_EMA_048_001,Trigeminal ganglion,other
+IMPC_EMA_049_001,Pituitary gland,other
+IMPC_EMA_050_001,Spinal cord cervical region,other
+IMPC_EMA_051_001,Dorsal root ganglion,other
+IMPC_EMA_052_001,Cochlea,other
+IMPC_EMA_053_001,Nasal septum,other
+IMPC_EMA_054_001,Nasal cavity,other
+IMPC_EMA_055_001,Nasopharynx,other
+IMPC_EMA_056_001,Vomeronasal organ,other
+IMPC_EMA_057_001,Oropharynx,other
+IMPC_EMA_058_001,Oral cavity,other
+IMPC_EMA_059_001,Optic nerve,other
+IMPC_EMA_060_001,Intraretinal space,other
+IMPC_EMA_061_001,Hyaloid cavity,other
+IMPC_EMA_062_001,Cornea,other
+IMPC_EMA_063_001,Lens,other
+IMPC_EMA_064_001,Eyelids,other
+IMPC_EMA_065_001,Temporal bone,other
+IMPC_EMA_066_001,Pharyngo-tympanic tube,other
+IMPC_EMA_067_001,Palate,other
+IMPC_EMA_068_001,Epiglottis,other
+IMPC_EMA_069_001,Tongue,other
+IMPC_EMA_070_001,Mandible,other
+IMPC_EMA_071_001,Lower jaw molar,other
+IMPC_EMA_072_001,Upper jaw molar,other
+IMPC_EMA_073_001,Sphenoid bone,other
+IMPC_EMA_074_001,Thyroid gland,other
+IMPC_EMA_075_001,Submandibular gland,other
+IMPC_EMA_076_001,Brown fat,other
+IMPC_EMA_077_001,Vertebrae,other
+IMPC_EMA_078_001,Esophagus,other
+IMPC_EMA_079_001,Clavicle,other
+IMPC_EMA_080_001,Scapula,other
+IMPC_EMA_081_001,Ulna,other
+IMPC_EMA_082_001,Humerus,other
+IMPC_EMA_083_001,Arytenoid cartilage,other
+IMPC_EMA_084_001,Cricoid cartilage,other
+IMPC_EMA_085_001,Trachea,other
+IMPC_EMA_086_001,Carotid artery,other
+IMPC_EMA_087_001,Thymus,other
+IMPC_EMA_088_001,Sternum,other
+IMPC_EMA_089_001,Rib,other
+IMPC_EMA_090_001,T1 rib,other
+IMPC_EMA_091_001,Vena cava,other
+IMPC_EMA_092_001,Inferior vena cava,other
+IMPC_EMA_093_001,Superior vena cava,other
+IMPC_EMA_094_001,Jugular vein,other
+IMPC_EMA_095_001,Ductus arteriosus,other
+IMPC_EMA_096_001,Pulmonary valve,other
+IMPC_EMA_097_001,Pulmonary trunk,other
+IMPC_EMA_098_001,Dorsal aorta,other
+IMPC_EMA_099_001,Ductus venosus,other
+IMPC_EMA_100_001,Aorta,other
+IMPC_EMA_101_001,Aortic valve,other
+IMPC_EMA_102_001,Heart atrium,other
+IMPC_EMA_103_001,Heart ventricle,other
+IMPC_EMA_104_001,Tricuspid valve,other
+IMPC_EMA_105_001,Mitral valve,other
+IMPC_EMA_106_001,Interventricular septum,other
+IMPC_EMA_107_001,Pericardial cavity,other
+IMPC_EMA_108_001,Pericardium,other
+IMPC_EMA_109_001,Main bronchus,other
+IMPC_EMA_110_001,Bronchus,other
+IMPC_EMA_111_001,Right lung cranial lobe,other
+IMPC_EMA_112_001,Right lung middle lobe,other
+IMPC_EMA_113_001,Right lung caudal lobe,other
+IMPC_EMA_114_001,Right lung accessory lobe,other
+IMPC_EMA_115_001,Left lung,other
+IMPC_EMA_116_001,Diaphragm,other
+IMPC_EMA_117_001,Peritoneal cavity,other
+IMPC_EMA_118_001,Liver,other
+IMPC_EMA_119_001,Liver left lobe,other
+IMPC_EMA_120_001,Liver right lobe,other
+IMPC_EMA_121_001,Liver caudate lobe,other
+IMPC_EMA_122_001,Gallbladder,other
+IMPC_EMA_123_001,Liver lobar interzone,other
+IMPC_EMA_124_001,Pancreas,other
+IMPC_EMA_125_001,Stomach,other
+IMPC_EMA_126_001,Pyloric antrum,other
+IMPC_EMA_127_001,Stomach fundus,other
+IMPC_EMA_128_001,Stomach lumen,other
+IMPC_EMA_129_001,Small intestine,other
+IMPC_EMA_130_001,Hindgut,other
+IMPC_EMA_131_001,Midgut,other
+IMPC_EMA_132_001,Hip joint,other
+IMPC_EMA_133_001,Femur,other
+IMPC_EMA_134_001,Fibula,other
+IMPC_EMA_135_001,Tibia,other
+IMPC_EMA_136_001,Adrenal gland,other
+IMPC_EMA_137_001,Kidney,other
+IMPC_EMA_138_001,Renal calyx,other
+IMPC_EMA_139_001,Bladder,other
+IMPC_EMA_140_001,Rectum,other
+IMPC_EMA_141_001,Spleen,other
+IMPC_EMA_142_001,Ovary,other
+IMPC_EMA_143_001,Testes,other
+IMPC_EMA_144_001,Penis,other
+IMPC_EMA_145_001,Circumventricular organ,other
+IMPC_EMA_146_001,Hyoid,other
+IMPC_EMA_147_001,Severely dysmorphic,other
+IMPC_EMA_148_001,Delayed embryonic development,other
+IMPC_EMA_149_001,Annotator ID,other
+IMPC_EMA_150_001,Date of Annotation,other
+IMPC_ACS_001_001,Response amplitude - BN,other
+IMPC_ACS_002_001,Response amplitude - PP1,other
+IMPC_ACS_003_001,Response amplitude - PP2,other
+IMPC_ACS_004_001,Response amplitude - PP3,other
+IMPC_ACS_005_001,Response amplitude - PP4,other
+IMPC_ACS_007_001,Response amplitude - PP1_S,other
+IMPC_ACS_008_001,Response amplitude - PP2_S,other
+IMPC_ACS_009_001,Response amplitude - PP3_S,other
+IMPC_ACS_010_001,Response amplitude - PP4_S,other
+IMPC_ACS_011_001,Light level in chamber,other
+IMPC_ACS_012_001,Date and time,other
+IMPC_ACS_014_001,Experimenter ID,other
+IMPC_ACS_015_001,Startle stimulus,other
+IMPC_ACS_016_001,Background noise,other
+IMPC_ACS_017_001,Pre-pulse stimulus 1,other
+IMPC_ACS_018_001,Pre-pulse stimulus 2,other
+IMPC_ACS_019_001,Pre-pulse stimulus 3,other
+IMPC_ACS_020_001,Pre-pulse stimulus 4,other
+IMPC_ACS_021_001,Inter-trial interval,other
+IMPC_ACS_022_001,Number of trials,other
+IMPC_ACS_023_001,In-chamber adapt time,other
+IMPC_ACS_024_001,Stimulus order,other
+IMPC_ACS_025_001,Mouse chamber ID,other
+IMPC_ACS_026_001,Equipment ID,other
+IMPC_ACS_027_001,Equipment manufacturer,other
+IMPC_ACS_028_001,Equipment model,other
+IMPC_ACS_029_001,Software version,other
+IMPC_ACS_030_001,Mouse chamber dimension,other
+IMPC_ACS_031_001,Sound generator manufacturer,other
+IMPC_ACS_032_001,Sound-proof box dimension,other
+IMPC_ACS_034_001,% Pre-pulse inhibition - PPI2,other
+IMPC_ACS_036_001,% Pre-pulse inhibition - PPI4,other
+IMPC_ACS_037_001,% Pre-pulse inhibition - Global,other
+IMPC_ACS_038_001,Date equipment last calibrated,other
+IMPC_ACS_013_001,Inter PP-S stimulus interval,other
+IMPC_ACS_039_001,Sound generator model,other
+IMPC_ECG_001_001,Number of signals,other
+IMPC_ECG_002_001,HR,other
+IMPC_ECG_003_001,CV,other
+IMPC_ECG_004_001,RR,other
+IMPC_ECG_005_001,PQ,other
+IMPC_ECG_006_001,PR,other
+IMPC_ECG_007_001,QRS,other
+IMPC_ECG_008_001,ST,other
+IMPC_ECG_010_001,HRV,other
+IMPC_ECG_012_001,Mean SR amplitude,other
+IMPC_ECG_013_001,Mean R amplitude,other
+IMPC_ECG_014_001,rMSSD,other
+IMPC_ECG_015_001,pNN5(6>ms),other
+IMPC_ECG_016_001,Equipment ID,other
+IMPC_ECG_017_001,Equipment Manufacturer,other
+IMPC_ECG_018_001,Equipment Model,other
+IMPC_ECG_019_001,Anesthetic,other
+IMPC_ECG_020_001,Experimenter ID,other
+IMPC_ECG_021_001,Noise level,other
+IMPC_ECG_022_001,Light level,other
+IMPC_ECG_023_001,Date equipment last calibrated,other
+IMPC_ECG_009_002,QTc,other
+IMPC_ECG_024_001,Analysis Software,other
+IMPC_ECG_025_001,Waveform Image,other
+IMPC_ECG_026_001,Waveform Image Comment,other
+IMPC_ECG_027_001,Lead Configuration,other
+IMPC_ECG_028_001,QT,other
+IMPC_ECG_029_001,QT Dispersion,other
+IMPC_ECG_030_001,Data acquisition sampling rate,other
+IMPC_ECG_031_001,Abnormal ECG detected,other
+IMPC_PAT_001_002,Brain,Brain
+IMPC_PAT_002_002,Eye with optic nerve,other
+IMPC_PAT_003_002,Spinal cord,other
+IMPC_PAT_004_002,Thymus,other
+IMPC_PAT_005_002,Thyroid,other
+IMPC_PAT_006_002,Heart,other
+IMPC_PAT_007_002,Trachea,other
+IMPC_PAT_008_002,Esophagus,other
+IMPC_PAT_009_002,Lung,other
+IMPC_PAT_010_002,Liver,other
+IMPC_PAT_011_002,Gall bladder,other
+IMPC_PAT_012_002,Stomach,other
+IMPC_PAT_013_002,Small intestine,other
+IMPC_PAT_014_002,Large intestine,other
+IMPC_PAT_015_002,Pancreas,other
+IMPC_PAT_016_002,Spleen,other
+IMPC_PAT_017_002,Kidney,other
+IMPC_PAT_018_002,Adrenal gland,other
+IMPC_PAT_019_002,Mammary gland,other
+IMPC_PAT_020_002,Lymph node,other
+IMPC_PAT_021_002,Skin,other
+IMPC_PAT_022_002,Skeletal muscle,other
+IMPC_PAT_023_002,Urinary bladder,other
+IMPC_PAT_024_002,Testes,other
+IMPC_PAT_025_002,Epididymis,other
+IMPC_PAT_026_002,Prostate,other
+IMPC_PAT_027_002,Seminal vesicle,other
+IMPC_PAT_028_002,Ovary,other
+IMPC_PAT_029_002,Uterus,other
+IMPC_PAT_049_002,Body Weight,Weight
+IMPC_PAT_057_002,Images,other
+IMPC_PAT_032_002,Comments (in English),other
+IMPC_PAT_052_002,Experimenter ID,other
+IMPC_PAT_054_002,Method of sacrifice,other
+IMPC_PAT_055_002,Method of Blood Collection,other
+IMPC_PAT_056_002,Equipment ID,other
+IMPC_PAT_058_002,Fixative,other
+IMPC_PAT_059_002,Date equipment last calibrated,other
+IMPC_PAT_060_002,Equipment manufacturer,other
+IMPC_PAT_061_002,Equipment model,other
+IMPC_PAT_030_002,Date of sacrifice,other
+IMPC_PAT_031_002,ID for sample banking protocol,other
+IMPC_PAT_033_001,Balance manufacturer,other
+IMPC_PAT_034_001,Balance model,other
+IMPC_PAT_035_001,Camera resolution,other
+IMPC_PAT_036_001,Eye fixative,other
+IMPC_PAT_062_001,Salivary gland,other
+IMPC_PAT_063_001,Sternum,other
+IMPC_PAT_064_001,Femur,other
+IMPC_PAT_065_001,Bone marrow,other
+IMPC_PAT_066_001,Brown fat,other
+IMPC_PAT_067_001,Tibia,other
+IMPC_PAT_068_001,Knee joint,other
+IMPC_PAT_069_001,Trigeminal V nerve,other
+IMPC_PAT_070_001,Nasal cavity,other
+IMPC_PAT_071_001,Ear,other
+IMPC_PAT_072_001,Tooth,other
+IMPC_PAT_073_001,Tongue,other
+IMPC_PAT_074_001,Sciatic nerve,other
+IMPC_PAT_075_001,Bone,other
+IMPC_PAT_076_001,Tissue available for distribution,other
+IMPC_ECG_009_001,QTc,other
+IMPC_ECG_011_001,QTc Dispersion,other
+IMPC_MAA_001_001,Population average,other
+IMPC_MAA_002_001,T-statistics determinents,other
+IMPC_MAA_003_001,T-statistics intensities,other
+IMPC_MAA_004_001,FDR thresholds for determinents,other
+IMPC_MAA_005_001,FDR thresholds for intensities,other
+IMPC_MAA_006_001,Used WT specimen names,other
+IMPC_MAA_007_001,Used MUT specimen names,other
+IMPC_MAA_008_001,Version of pydpiper,other
+IMPC_MAA_009_001,Data analysis finished,other
+IMPC_GEM_007_001,Pericardium Morphology,other
+IMPC_GEM_017_001,Visceral yolk sac morphology,other
+IMPC_GEM_019_001,Embryo Size,other
+IMPC_GEM_021_001,Ear Morphology,other
+IMPC_GEM_024_001,Skin Appearance,other
+IMPC_GEM_027_001,Limb Bud Morphology,other
+IMPC_GEM_028_001,Limb Plate Morphology,other
+IMPC_GEM_029_001,Tail Morphology,other
+IMPC_GEM_032_001,Liver Size,other
+IMPC_GEM_036_001,Neural Tube Closure,other
+IMPC_GEM_041_001,Eye Morphology,other
+IMPC_GEM_047_001,Head shape,other
+IMPC_GEM_048_001,Comment on image,other
+IMPC_GEM_049_001,Images,other
+IMPC_GEM_050_001,Experimenter ID,other
+IMPC_GEM_051_001,Equipment ID,other
+IMPC_GEM_052_001,Equipment Manufacturer,other
+IMPC_GEM_053_001,Equipment Model,other
+IMPC_GEM_054_001,Fixative,other
+IMPC_GEM_055_001,Time of Dissection,other
+IMPC_GEM_056_001,Somite Stage,other
+IMPC_GEM_057_001,Time of dark cycle start,other
+IMPC_GEM_058_001,Time of dark cycle end,other
+IMPC_GEM_059_001,Date equipment last calibrated,other
+IMPC_GEM_016_002,Pale yolk sac,other
+IMPC_GEM_025_002,Pallor,other
+IMPC_GEM_026_002,Blebs,other
+IMPC_GEM_033_002,Pale Liver,other
+IMPC_GEM_043_002,Microphthalmia,other
+IMPC_GEM_044_002,Anophthalmia,other
+IMPC_GEM_060_001,Severely Dysmorphic,other
+IMPC_GEM_061_001,Abdominal wall,other
+IMPC_GEM_062_001,Craniofacial morphology,other
+IMPC_GEM_063_001,Facial cleft,other
+IMPC_GEM_064_001,Facial hypoplasia,other
+IMPC_GEM_065_001,Heart looping,other
+IMPC_GEM_066_001,Heart morphology,other
+IMPC_GEM_067_001,Left-right axis patterning,other
+IMPC_GEM_068_001,Forebrain morphology,Brain
+IMPC_GEM_069_001,Hindbrain morphology,Brain
+IMPC_GEM_070_001,Midbrain morphology,Brain
+IMPC_GEM_071_001,Microcephaly,other
+IMPC_GEM_072_001,Rostal-caudal patterning,other
+IMPC_GEM_073_001,Vascular morphology,other
+IMPC_GEM_074_001,CRL,other
+IMPC_GEM_075_001,Delayed embryonic development,other
+IMPC_GEM_076_001,Edema,other
+IMPC_GEM_077_001,Hemorrhage,other
+IMPC_GEM_078_001,Polydactyly,other
+IMPC_GEM_079_001,Exencephaly,other
+IMPC_CAL_001_001,Body weight before experiment,Weight
+IMPC_CAL_002_001,Body weight after experiment,Weight
+IMPC_CAL_003_001,Oxygen consumption,other
+IMPC_CAL_004_001,Carbon dioxide production,other
+IMPC_CAL_005_001,Heat production (metabolic rate),other
+IMPC_CAL_006_001,Ambulatory activity  (no. of beam cuts),other
+IMPC_CAL_007_001,Total activity  (no. of fine movement + no. of beam cuts),other
+IMPC_CAL_008_001,Total food intake,other
+IMPC_CAL_009_001,Cumulative food intake,other
+IMPC_CAL_010_001,Time of dark cycle start,other
+IMPC_CAL_011_001,Room temperature,other
+IMPC_CAL_012_001,Acclimation to respirometry cages,other
+IMPC_CAL_013_001,Duration of test,other
+IMPC_CAL_014_001,Equipment ID,other
+IMPC_CAL_015_001,Equipment manufacturer,other
+IMPC_CAL_016_001,Equipment model,other
+IMPC_CAL_017_001,Respiratory Exchange Ratio,other
+IMPC_CAL_018_001,Experimenter ID,other
+IMPC_CAL_019_001,Date equipment last calibrated,other
+IMPC_CAL_020_001,Time of dark cycle end,other
+IMPC_CAL_021_001,Total water intake,other
+IMPC_CAL_022_001,Cumulative water intake,other
+IMPC_ECH_001_001,End-Systolic Diameter,other
+IMPC_ECH_002_001,End-Diastolic Diameter,other
+IMPC_ECH_003_001,Stroke Volume,other
+IMPC_ECH_004_001,Ejection Fraction,other
+IMPC_ECH_005_001,Fractional Shortening,other
+IMPC_ECH_006_001,Cardiac Output,other
+IMPC_ECH_008_001,LVIDd,other
+IMPC_ECH_009_001,LVPWd,other
+IMPC_ECH_010_001,LVAWs,other
+IMPC_ECH_011_001,LVIDs,other
+IMPC_ECH_013_001,HR,other
+IMPC_ECH_014_001,Body Temp,other
+IMPC_ECH_015_001,VTI of aortic flow (Pulse wave doppler mode),other
+IMPC_ECH_016_001,Aortic diameter (Dao),other
+IMPC_ECH_017_001,Tpeak Tend Interval,other
+IMPC_ECH_018_001,Respiration Rate,other
+IMPC_ECH_019_001,Equipment ID,other
+IMPC_ECH_020_001,Equipment Manufacturer,other
+IMPC_ECH_021_001,Equipment Model,other
+IMPC_ECH_022_001,Anesthetic,other
+IMPC_ECH_023_001,Experimenter ID,other
+IMPC_ECH_024_001,Date equipment last calibrated,other
+IMPC_ECH_025_001,M-Mode Images,other
+IMPC_CBC_002_001,Potassium,other
+IMPC_CBC_010_001,Phosphorus,other
+IMPC_CBC_013_001,Alanine aminotransferase,other
+IMPC_CBC_019_001,LIH (Hemolysis Severity - available on AU analysers),other
+IMPC_CBC_021_001,Lipase,other
+IMPC_CBC_022_001,Lactate dehydrogenase,other
+IMPC_CBC_024_001,UIBC (unsaturated iron binding capacity),other
+IMPC_CBC_025_001,LDL-cholesterol,other
+IMPC_CBC_026_001,Free fatty acids,other
+IMPC_CBC_027_001,Glycerol,other
+IMPC_CBC_028_001,Creatine kinase,other
+IMPC_CBC_029_001,Uric acid,other
+IMPC_CBC_030_001,Ferritin,other
+IMPC_CBC_031_001,Transferrin,other
+IMPC_CBC_032_001,C-reactive protein,other
+IMPC_CBC_033_001,Equipment ID,other
+IMPC_CBC_034_001,Equipment manufacturer,other
+IMPC_CBC_035_001,Equipment model,other
+IMPC_CBC_036_001,Anesthesia used for blood collection,other
+IMPC_CBC_037_001,Method of blood collection,other
+IMPC_CBC_038_001,Anticoagulant,other
+IMPC_CBC_042_001,Samples kept on ice between collection and analysis,other
+IMPC_CBC_043_001,Sample status,other
+IMPC_CBC_044_001,Sample dilution,other
+IMPC_CBC_045_001,ID of blood collection SOP,other
+IMPC_CBC_046_001,Date and time of blood collection,other
+IMPC_CBC_048_001,Hemolysis status,other
+IMPC_CBC_049_001,Blood collection experimenter ID,other
+IMPC_CBC_050_001,Date equipment last calibrated,other
+IMPC_CBC_039_001,Blood collection tubes,other
+IMPC_CBC_040_001,Date and time of sacrifice,other
+IMPC_CBC_041_001,Storage temperature from blood collection till measurement,other
+IMPC_CBC_051_001,Blood analysis experimenter ID,other
+IMPC_CBC_052_001,Glycosilated hemoglobin A1c (HbA1c),other
+IMPC_CBC_053_001,Thyroxine,other
+IMPC_CBC_054_001,Magnesium,other
+IMPC_CBC_055_001,Difficult bleed,other
+IMPC_CBC_056_001,Sample type,other
+IMPC_CBC_057_001,Fasting,other
+IMPC_CBC_059_001,Reagent manufacturer,other
+IMPC_GEO_062_001,Abdominal wall,other
+IMPC_GEO_065_001,Limb morphology,other
+IMPC_GEO_066_001,Microcephaly,other
+IMPC_GEO_067_001,Syndactyly,other
+IMPC_GEO_068_001,CRL,other
+IMPC_GEO_070_001,Blebs,other
+IMPC_GEO_071_001,Facial hypoplasia,other
+IMPC_GEO_072_001,Pallor,other
+IMPC_IPG_001_001,Body Weight,Weight
+IMPC_IPG_002_001,Blood glucose concentration,other
+IMPC_IPG_003_001,Equipment ID,other
+IMPC_IPG_004_001,Equipment manufacturer,other
+IMPC_IPG_005_001,Equipment model,other
+IMPC_IPG_006_001,Mouse restrained,other
+IMPC_IPG_007_001,Type of strip,other
+IMPC_IPG_008_001,Experimenter ID,other
+IMPC_IPG_009_001,Date equipment last calibrated,other
+IMPC_IPG_012_001,Area under glucose response curve,other
+IMPC_IPG_013_001,Upper limit of the meter,other
+IMPC_INS_001_001,Insulin,other
+IMPC_INS_002_001,Type of kit,other
+IMPC_INS_003_001,Kit manufacturer,other
+IMPC_INS_004_001,Kit lot number,other
+IMPC_INS_005_001,Equipment ID,other
+IMPC_INS_006_001,Equipment manufacturer,other
+IMPC_INS_007_001,Equipment model,other
+IMPC_INS_008_001,Blood collection tubes,other
+IMPC_INS_009_001,Anesthesia used for blood collection,other
+IMPC_INS_010_001,Method of blood collection,other
+IMPC_INS_011_001,Anticoagulant,other
+IMPC_INS_012_001,Date and time of blood collection,other
+IMPC_INS_014_001,Sample status,other
+IMPC_INS_015_001,Samples kept on ice between collection and analysis,other
+IMPC_INS_016_001,Sample dilution,other
+IMPC_INS_017_001,Replicates,other
+IMPC_INS_018_001,ID of blood collection SOP,other
+IMPC_INS_019_001,Hemolysis status,other
+IMPC_INS_020_001,Blood collection experimenter ID,other
+IMPC_INS_021_001,Blood analysis experimenter ID,other
+IMPC_INS_022_001,Date equipment last calibrated,other
+IMPC_INS_023_001,Sample type,other
+IMPC_GEP_035_001,Pallor,other
+IMPC_GEP_076_001,Cleft palate,other
+IMPC_GEP_078_001,Curl or short tail,other
+IMPC_GEP_079_001,Facial hypoplasia,other
+IMPC_GEP_080_001,Microcephaly,other
+IMPC_GEP_081_001,Pale liver,other
+IMPC_GEP_082_001,Syndactyly,other
+IMPC_GEP_083_001,Tongue out,other
+IMPC_GEP_084_001,Limb morphology,other
+IMPC_GEP_085_001,CRL,other
+IMPC_GEP_086_001,Delayed embryonic development,other
+IMPC_GEP_087_001,Blebs,other
+IMPC_ABR_001_001,Body weight,Weight
+IMPC_ABR_003_001,Click-evoked ABR waveforms (numerical format),other
+IMPC_ABR_005_001,6kHz-evoked ABR waveforms (numerical format),other
+IMPC_ABR_007_001,12kHz-evoked ABR waveforms (numerical format),other
+IMPC_ABR_009_001,18kHz-evoked ABR waveforms (numerical format),other
+IMPC_ABR_011_001,24kHz-evoked ABR waveforms (numerical format),other
+IMPC_ABR_013_001,30kHz-evoked ABR waveforms (numerical format),other
+IMPC_ABR_014_001,Click-evoked + 6 to 30kHz tone waveforms (pdf format),other
+IMPC_ABR_015_001,Audiograms,other
+IMPC_ABR_016_001,Preyer Reflex,other
+IMPC_ABR_017_001,Click +20dB waveforms (numerical format),other
+IMPC_ABR_018_001,Click +50dB waveforms (numerical format),other
+IMPC_ABR_019_001,Click +20dB+50dB waveforms (pdf format),other
+IMPC_ABR_020_001,P1-N1 amplitude (at each stimulus level),other
+IMPC_ABR_021_001,P3-N3 amplitude (at each stimulus level),other
+IMPC_ABR_022_001,P1 Latency (at each stimulus level),other
+IMPC_ABR_023_001,N1 Latency (at each stimulus level),other
+IMPC_ABR_024_001,P3 Latency (at each stimulus level),other
+IMPC_ABR_025_001,N3 Latency (at each stimulus level),other
+IMPC_ABR_026_001,P1-P3 Interval (at each stimulus level),other
+IMPC_ABR_027_001,N1-N3 Interval (at each stimulus level),other
+IMPC_ABR_028_001,Range of test stimuli used,other
+IMPC_ABR_029_001,Range of stimulus levels used - Click,other
+IMPC_ABR_030_001,Range of stimulus levels used - 6kHz,other
+IMPC_ABR_031_001,Range of stimulus levels used - 12kHz,other
+IMPC_ABR_032_001,Range of stimulus levels used - 18kHz,other
+IMPC_ABR_033_001,Range of stimulus levels used - 24kHz,other
+IMPC_ABR_034_001,Range of stimulus levels used - 30kHz,other
+IMPC_ABR_035_001,Extension of stimulus levels,other
+IMPC_ABR_036_001,Stimulus level step size,other
+IMPC_ABR_037_001,Tone Pip Duration,other
+IMPC_ABR_038_001,Tone Pip rise/fall,other
+IMPC_ABR_039_001,Repetition Rate,other
+IMPC_ABR_040_001,Number averages,other
+IMPC_ABR_041_001,Recording Environment,other
+IMPC_ABR_042_001,Anesthetic agent 1,other
+IMPC_ABR_043_001,Anesthetic agent 2,other
+IMPC_ABR_044_001,Anesthetic agent 1 dosage,other
+IMPC_ABR_045_001,Anesthetic agent 2 dosage,other
+IMPC_ABR_046_001,Anesthetic administration route,other
+IMPC_ABR_048_001,Time of injection,other
+IMPC_ABR_049_001,Equipment ID,other
+IMPC_ABR_050_001,Equipment manufacturer,other
+IMPC_ABR_051_001,Equipment model,other
+IMPC_ABR_052_001,Software,other
+IMPC_ABR_053_001,Experimenter ID,other
+IMPC_ABR_054_001,Date equipment last calibrated,other
+IMPC_CHL_001_001,Body weight,Weight
+IMPC_CHL_002_001,Frequency of breathing (f),other
+IMPC_CHL_003_001,Tidal volume (TVb),other
+IMPC_CHL_004_001,Minute volume (MVb),other
+IMPC_CHL_005_001,Peak expiratory flow (PEFb),other
+IMPC_CHL_006_001,Peak inspiratory flow (PIFb),other
+IMPC_CHL_007_001,Pause (PAU),other
+IMPC_CHL_008_001,Inspiratory time (Ti),other
+IMPC_CHL_009_001,Expiratory time (Te),other
+IMPC_CHL_010_001,Relaxation time (Tr),other
+IMPC_CHL_011_001,Time of pause (Tp),other
+IMPC_CHL_012_001,Enhanced pause (Penh),other
+IMPC_CHL_013_001,Rejection index (Rinx),other
+IMPC_CHL_014_001,Rpef,other
+IMPC_CHL_015_001,TB,other
+IMPC_CHL_016_001,Compensation (Comp),other
+IMPC_CHL_017_001,Flow at point 50% TV expired (EF50),other
+IMPC_CHL_018_001,Equipment ID,other
+IMPC_CHL_019_001,Experimenter ID,other
+IMPC_CHL_020_001,Equipment manufacturer,other
+IMPC_CHL_021_001,Equipment model,other
+IMPC_CHL_022_001,Date equipment last calibrated,other
+IMPC_CHL_026_001,Chamber temperature (Tc),other
+IMPC_CHL_027_001,Relative Humidity (RH),other
+IMPC_CHL_029_001,Hypoxia challenge data present in submission,other
+IMPC_CHL_023_001,Methacholine challenge: duration of PBS measurement period,other
+IMPC_CHL_024_001,Methacholine challenge: duration of 12.5 mg/ml MCh measurement period,other
+IMPC_CHL_025_001,Methacholine challenge: duration of 25 mg/ml MCh measurement period,other
+IMPC_CHL_030_001,Methacholine challenge: duration of 50 mg/ml MCh measurement period,other
+IMPC_CHL_031_001,Methacholine challenge: start of PBS measurement timestamp,other
+IMPC_CHL_032_001,Methacholine challenge: end of PBS measurement timestamp,other
+IMPC_CHL_033_001,Methacholine challenge: start of 12.5 mg/ml MCh measurement timestamp,other
+IMPC_CHL_034_001,Methacholine challenge: end of 12.5 mg/ml MCh measurement timestamp,other
+IMPC_CHL_035_001,Methacholine challenge: start of 25 mg/ml MCh measurement timestamp,other
+IMPC_CHL_036_001,Methacholine challenge: end of 25 mg/ml MCh measurement timestamp,other
+IMPC_CHL_037_001,Methacholine challenge: start of 50 mg/ml MCh measurement timestamp,other
+IMPC_CHL_038_001,Methacholine challenge: end of 50 mg/ml MCh measurement timestamp,other
+IMPC_CHL_028_001,Hypoxia challenge: duration of Unchallenged measurement period,other
+IMPC_CHL_039_001,Hypoxia challenge: start of Unchallenged measurement timestamp,other
+IMPC_CHL_040_001,Hypoxia challenge: end of Unchallenged measurement timestamp,other
+IMPC_CHL_041_001,Hypoxia challenge: duration of 10% O2 measurement period,other
+IMPC_CHL_042_001,Hypoxia challenge: start of 10% O2 measurement timestamp,other
+IMPC_CHL_043_001,Hypoxia challenge: end of 10% O2 measurement timestamp,other
+IMPC_CHL_044_001,Hypoxia challenge: duration of 21% O2 measurement period,other
+IMPC_CHL_045_001,Hypoxia challenge: start of 21% O2 measurement timestamp,other
+IMPC_CHL_046_001,Hypoxia challenge: end of 21% O2 measurement timestamp,other
+IMPC_CHL_047_001,Hypoxia challenge: duration of Baseline measurement period,other
+IMPC_CHL_048_001,Hypoxia challenge: start of Baseline measurement timestamp,other
+IMPC_CHL_049_001,Hypoxia challenge: end of Baseline measurement timestamp,other
+IMPC_EYE_001_001,Eye,other
+IMPC_EYE_002_001,Bulging eye,other
+IMPC_EYE_003_001,Eye Hemorrhage or Blood Presence,other
+IMPC_EYE_004_001,Eyelid morphology,other
+IMPC_EYE_005_001,Eyelid closure,other
+IMPC_EYE_006_001,Narrow eye opening,other
+IMPC_EYE_009_001,Corneal vascularization,other
+IMPC_EYE_010_001,Iris/Pupil,other
+IMPC_EYE_011_001,Pupil Position,other
+IMPC_EYE_012_001,Pupil Shape,other
+IMPC_EYE_013_001,Pupil Dilation,other
+IMPC_EYE_014_001,Pupil Light Response,other
+IMPC_EYE_015_001,Iris Pigmentation,other
+IMPC_EYE_018_001,Fusion between cornea and lens,other
+IMPC_EYE_019_001,Synechia,other
+IMPC_EYE_023_001,Optic Disc,other
+IMPC_EYE_028_001,Slit Lamp observation,other
+IMPC_EYE_029_001,Ophthalmoscope Observation,other
+IMPC_EYE_030_001,Slit Lamp Equipment ID,other
+IMPC_EYE_031_001,Slit Lamp Equipment Manufacturer,other
+IMPC_EYE_032_001,Slit Lamp Equipment Model,other
+IMPC_EYE_033_001,Ophthalmoscope Equipment ID,other
+IMPC_EYE_034_001,Ophthalmoscope Equipment Manufacturer,other
+IMPC_EYE_035_001,Ophthalmoscope Equipment Model,other
+IMPC_EYE_036_001,Experimenter ID,other
+IMPC_EYE_037_001,Optical Coherence Tomography Equipment ID,other
+IMPC_EYE_038_001,Optical Coherence Tomography Equipment Manufacturer,other
+IMPC_EYE_039_001,Optical Coherence Tomography Equipment Model,other
+IMPC_EYE_040_001,Scheimpflug Equipment ID,other
+IMPC_EYE_041_001,Scheimpflug Equipment Manufacturer,other
+IMPC_EYE_042_001,Scheimpflug Equipment Model,other
+IMPC_EYE_043_001,Dilation Method,other
+IMPC_EYE_044_001,Topical Anesthetic,other
+IMPC_EYE_045_001,General Anesthetic,other
+IMPC_EYE_046_001,Date Slit Lamp equipment last calibrated,other
+IMPC_EYE_047_001,Date Ophthalmoscope equipment last calibrated,other
+IMPC_EYE_048_001,Date Scheimpflug equipment last calibrated,other
+IMPC_EYE_049_001,Date OCT equipment last calibrated,other
+IMPC_EYE_050_001,Images Ophthalmoscopy,other
+IMPC_EYE_051_001,Images Slit Lamp,other
+IMPC_EYE_052_001,Sheimpflug Lens description,other
+IMPC_EYE_053_001,Scheimpflug description,other
+IMPC_EYE_054_001,Min left eye lens density,other
+IMPC_EYE_055_001,Max left eye lens density,other
+IMPC_EYE_056_001,Mean left eye lens density,other
+IMPC_EYE_057_001,Min right eye lens density,other
+IMPC_EYE_058_001,Max right eye lens density,other
+IMPC_EYE_059_001,Mean right eye lens density,other
+IMPC_EYE_060_001,Right corneal thickness,other
+IMPC_EYE_061_001,Right anterior chamber depth,other
+IMPC_EYE_063_001,Right inner nuclear layer,other
+IMPC_EYE_065_001,Right posterior chamber depth,other
+IMPC_EYE_066_001,Left corneal thickness,other
+IMPC_EYE_069_001,Left inner nuclear layer,other
+IMPC_EYE_070_001,Left outer nuclear layer,other
+IMPC_EYE_071_001,Left posterior chamber depth,other
+IMPC_EYE_072_001,B-scan of right retina,other
+IMPC_EYE_073_001,B-scan of left retina,other
+IMPC_EYE_074_001,VIP of right fundus,other
+IMPC_EYE_075_001,VIP of left fundus,other
+IMPC_EYE_076_001,B-scan of right cornea and lens,other
+IMPC_EYE_077_001,B-scan of left cornea and lens,other
+IMPC_EYE_078_001,VIP of right eye,other
+IMPC_EYE_079_001,VIP of left eye,other
+IMPC_EYE_080_001,Corneal Sclerization,other
+IMPC_EYE_081_001,Corneal deposits,other
+IMPC_EYE_082_001,Iris transilumination,other
+IMPC_EYE_084_001,Corneal mineralization,other
+IMPC_EYE_085_001,Corneal ulcer,other
+IMPC_EYE_086_001,Lacrimation,other
+IMPC_EYE_087_001,Right vitreous humor thickness,other
+IMPC_EYE_088_001,Left vitreous humour thickness,other
+IMPC_EYE_089_001,Ophthalmoscope Lens Model,other
+IMPC_EYE_090_001,Right eye diameter,other
+IMPC_EYE_091_001,Left eye diameter,other
+IMPC_CSD_001_001,Tail - presence,other
+IMPC_CSD_002_001,Tail - length,other
+IMPC_CSD_003_001,Tail - thickness,other
+IMPC_CSD_004_001,Tail - morphology,other
+IMPC_CSD_005_001,Coat - color - back,other
+IMPC_CSD_006_001,Coat - color - head,other
+IMPC_CSD_008_001,Coat - color pattern - back,other
+IMPC_CSD_009_001,Coat - color pattern - head,other
+IMPC_CSD_010_001,Coat - color pattern - abdomen,other
+IMPC_CSD_014_001,Coat - hair texture / appearance - back,other
+IMPC_CSD_015_001,Coat - hair texture / appearance - head,other
+IMPC_CSD_017_001,Forelimbs - position,other
+IMPC_CSD_018_001,Forelimbs - shape,other
+IMPC_CSD_019_001,Forelimbs - size,other
+IMPC_CSD_020_001,Hindlimbs - position,other
+IMPC_CSD_021_001,Hindlimbs - shape,other
+IMPC_CSD_022_001,Hindlimbs - size,other
+IMPC_CSD_023_001,Vibrissae - presence,other
+IMPC_CSD_025_001,Head size,other
+IMPC_CSD_026_001,Head morphology,other
+IMPC_CSD_029_001,Activity (body position),other
+IMPC_CSD_031_001,Transfer arousal,other
+IMPC_CSD_033_001,Gait,other
+IMPC_CSD_034_001,Tail elevation,other
+IMPC_CSD_037_001,Unexpected behaviors,other
+IMPC_CSD_046_001,Forelimb digit - size,other
+IMPC_CSD_047_001,Hindlimb digit - size,other
+IMPC_CSD_056_001,Skin color - whole body,other
+IMPC_CSD_057_001,Skin color - snout,other
+IMPC_CSD_058_001,Skin color - ear,other
+IMPC_CSD_059_001,Skin color - front paws,other
+IMPC_CSD_060_001,Skin color - back paws,other
+IMPC_CSD_061_001,Skin color - tail,other
+IMPC_CSD_062_001,Skin texture - whole body,other
+IMPC_CSD_063_001,Skin texture - snout,other
+IMPC_CSD_064_001,Skin texture - ear,other
+IMPC_CSD_065_001,Skin texture - front paws,other
+IMPC_CSD_066_001,Skin texture - back paws,other
+IMPC_CSD_067_001,Skin texture - tail,other
+IMPC_CSD_068_001,Teeth presence,other
+IMPC_CSD_069_001,Upper teeth appearance,other
+IMPC_CSD_070_001,Lower teeth appearance,other
+IMPC_CSD_071_001,Genitalia - presence,other
+IMPC_CSD_072_001,Genitalia - size,other
+IMPC_CSD_073_001,Genitalia - morphology,other
+IMPC_CSD_074_001,Mouth morphology,other
+IMPC_CSD_075_001,Upper lip morphology,other
+IMPC_CSD_076_001,Lower lip morphology,other
+IMPC_CSD_077_001,Contact righting,other
+IMPC_CSD_078_001,Vocalization,other
+IMPC_CSD_079_001,Aggression,other
+IMPC_CSD_081_001,Experimenter ID,other
+IMPC_CSD_082_001,Location of test,other
+IMPC_CSD_083_001,Number of animals in cage,other
+IMPC_CSD_084_001,Number of days since cage changed,other
+IMPC_CSD_085_001,Images,other
+IMPC_CSD_086_001,Size of squares in arena,other
+IMPC_CSD_087_001,Comments (in English),other
+IMPC_CSD_040_002,Forepaw - size,other
+IMPC_CSD_041_002,Hindpaw - size,other
+IMPC_CSD_042_002,Forepaw - shape,other
+IMPC_CSD_043_002,Hindpaw - shape,other
+IMPC_CSD_044_002,Forelimb digit - number,other
+IMPC_CSD_045_002,Hindlimb digit - number,other
+IMPC_CSD_048_002,Forelimb digit - shape,other
+IMPC_CSD_049_002,Hindlimb digit - shape,other
+IMPC_CSD_050_002,Forelimb nail - number,other
+IMPC_CSD_051_002,Hindlimb nail - number,other
+IMPC_CSD_053_002,Hindlimb nail - length,other
+IMPC_CSD_052_002,Forelimb nail - length,other
+IMPC_CSD_054_002,Forelimb nail - shape,other
+IMPC_CSD_055_002,Hindlimb nail - shape,other
+IMPC_ABR_047_001,Date of Test,other
+IMPC_EXD_003_002,Pipeline ID(s),other
+IMPC_EXD_132_001,Phenotyping lifestage,other
+IMPC_EXD_133_001,Submission Identifier,other
+IMPC_EXD_004_002,Date effective from,other
+IMPC_EXD_005_002,Date effective until,other
+IMPC_EXD_006_001,Control design,other
+IMPC_EXD_007_001,Control phenotyping design,other
+IMPC_EXD_008_001,Minimum number of male controls,other
+IMPC_EXD_009_001,Minimum number of female controls,other
+IMPC_EXD_012_002,Control animal production location,other
+IMPC_EXD_013_001,Core colony source,other
+IMPC_EXD_014_001,Control stock management,other
+IMPC_EXD_098_002,Time effect strategy,other
+IMPC_EXD_127_001,Blinding strategy,other
+IMPC_EXD_128_001,Instrumentation bias management,other
+IMPC_EXD_129_001,Operator effect control strategy,other
+IMPC_EXD_130_001,Order effect control strategy,other
+IMPC_EXD_131_001,Subject selection strategy,other
+IMPC_EXD_134_001,Knockout animal production location,other
+IMPC_EXD_135_001,Maximum number of female controls,other
+IMPC_EXD_136_001,Maximum number of male controls,other
+IMPC_EXD_015_001,Knockout phenotyping design,other
+IMPC_HEM_009_001,Equipment ID,other
+IMPC_HEM_010_001,Equipment manufacturer,other
+IMPC_HEM_011_001,Equipment model,other
+IMPC_HEM_012_001,Anesthesia used for blood collection,other
+IMPC_HEM_013_001,Method of blood collection,other
+IMPC_HEM_014_001,Anticoagulant,other
+IMPC_HEM_018_001,Samples kept on ice between collection and analysis,other
+IMPC_HEM_020_001,ID for blood collection SOP,other
+IMPC_HEM_021_001,Date and time of blood collection,other
+IMPC_HEM_023_001,Chip card number,other
+IMPC_HEM_024_001,Blood collection experimenter ID,other
+IMPC_HEM_025_001,Date equipment last calibrated,other
+IMPC_HEM_026_001,Storage temperature from blood collection until measurement,other
+IMPC_HEM_015_001,Blood collection tubes,other
+IMPC_HEM_016_001,Date and time of sacrifice,other
+IMPC_HEM_017_001,Blood analysis experimenter ID,other
+IMPC_HEM_028_001,Fight wounds,other
+IMPC_HEM_030_001,Neutrophil cell count,other
+IMPC_HEM_033_001,Monocyte differential count,other
+IMPC_HEM_034_001,Monocyte cell count,other
+IMPC_HEM_039_001,Large Unstained Cell (LUC) count,other
+IMPC_HEM_040_001,Large Unstained Cell (LUC) differential count,other
+IMPC_HEM_041_001,Sample clotted,other
+IMPC_HEM_042_001,Service-related calibration start date,other
+IMPC_HEM_043_001,LIH (Hemolysis Severity - available on AU analysers),other
+IMPC_EXD_001_001,Submitter ID,other
+IMPC_EXD_002_001,Name of phenotyping project,other
+IMPC_EXD_003_001,Name of pipeline,other
+IMPC_EXD_004_001,Start date,other
+IMPC_EXD_005_001,End date,other
+IMPC_EXD_010_001,Genetic background,other
+IMPC_EXD_011_001,Controls and knockout same source,other
+IMPC_EXD_012_001,Control animal production location,other
+IMPC_EXD_016_001,Blinding  - Body Weight,Weight
+IMPC_EXD_017_001,Blinding  - CSD,other
+IMPC_EXD_018_001,Blinding  - Grip strength,Grip Strength
+IMPC_EXD_019_001,Blinding  - Acoustic startle,other
+IMPC_EXD_020_001,Blinding  - Calorimetry,other
+IMPC_EXD_021_001,Blinding  - IPGTT,other
+IMPC_EXD_022_001,Blinding  - ABR collection,other
+IMPC_EXD_023_001,Blinding  - ABR annotation,other
+IMPC_EXD_024_001,Blinding  - DEXA,other
+IMPC_EXD_025_001,Blinding  - X-ray imaging,other
+IMPC_EXD_026_001,Blinding  - X-ray annotation,other
+IMPC_EXD_027_001,Blinding  - Slit lamp collection,other
+IMPC_EXD_028_001,Blinding  - Slit lamp annotation,other
+IMPC_EXD_029_001,Blinding  - Ophthalmoscope collection,other
+IMPC_EXD_030_001,Blinding  - Ophthalmoscope annotation,other
+IMPC_EXD_031_001,Blinding  - Hematology,other
+IMPC_EXD_032_001,Blinding  - Clinical chemistry,other
+IMPC_EXD_033_001,Blinding  - Insulin,other
+IMPC_EXD_034_001,Blinding  - Immunophenotyping collection,other
+IMPC_EXD_035_001,Blinding  - Immunophenotyping annotation,other
+IMPC_EXD_036_001,Blinding  - Heart weight,Weight
+IMPC_EXD_037_001,Blinding  - Open field,other
+IMPC_EXD_038_001,Blinding  - Gross pathology collection,other
+IMPC_EXD_039_001,Blinding  - Gross pathology annotation,other
+IMPC_EXD_040_001,Blinding - ECG,other
+IMPC_EXD_041_001,Blinding  - Echo,other
+IMPC_EXD_042_001,Blinding  - Plethysmography,other
+IMPC_EXD_043_001,Blinding  - Adult Lac Z collection,other
+IMPC_EXD_044_001,Blinding  - Adult Lac Z annotation,other
+IMPC_EXD_045_001,Blinding  - Embryo Lac Z collection,other
+IMPC_EXD_046_001,Blinding  - Embryo Lac Z annotation,other
+IMPC_EXD_047_001,Instrumentation effects - Body weight,Weight
+IMPC_EXD_048_001,Instrumentation effects - Heart weight,Weight
+IMPC_EXD_049_001,Instrumentation effects - Grip strength,Grip Strength
+IMPC_EXD_050_001,Instrumentation effects - Acoustic startle,other
+IMPC_EXD_051_001,Instrumentation effects - Calorimetry,other
+IMPC_EXD_052_001,Instrumentation effects - IPGTT,other
+IMPC_EXD_053_001,Instrumentation effects - ABR,other
+IMPC_EXD_054_001,Instrumentation effects - DEXA,other
+IMPC_EXD_055_001,Instrumentation effects - Slit lamp,other
+IMPC_EXD_056_001,Instrumentation effects - Ophthalmoscope,other
+IMPC_EXD_057_001,Instrumentation effects - Hematology,other
+IMPC_EXD_058_001,Instrumentation effects - Clinical chemistry,other
+IMPC_EXD_059_001,Instrumentation effects - Immunophenotyping,other
+IMPC_EXD_060_001,Instrumentation effects - Open field,other
+IMPC_EXD_061_001,Instrumentation effects - ECG,other
+IMPC_EXD_062_001,Instrumentation effects - Echo,other
+IMPC_EXD_063_001,Instrumentation effects - Plethysmography,other
+IMPC_EXD_064_001,Instrumentation effects - Gross pathology,other
+IMPC_EXD_065_001,Instrumentation effects - Insulin,other
+IMPC_EXD_066_001,Instrumentation effects - Embryo Lac Z,other
+IMPC_EXD_067_001,Instrumentation effects - Adult Lac Z,other
+IMPC_EXD_068_001,Instrumentation effects - X-ray,other
+IMPC_EXD_069_001,Operator effects - Body weight,Weight
+IMPC_EXD_070_001,Operator effects - Open field,other
+IMPC_EXD_071_001,Operator effects - CSD,other
+IMPC_EXD_072_001,Operator effects - Grip strength,Grip Strength
+IMPC_EXD_073_001,Operator effects - Acoustic startle,other
+IMPC_EXD_074_001,Operator effects - Calorimetry,other
+IMPC_EXD_075_001,Operator effects - IPGTT,other
+IMPC_EXD_076_001,Operator effects - ABR collection,other
+IMPC_EXD_077_001,Operator effects - ABR annotation,other
+IMPC_EXD_078_001,Operator effects - DEXA,other
+IMPC_EXD_079_001,Operator effects - X-ray imaging,other
+IMPC_EXD_080_001,Operator effects - X-ray annotation,other
+IMPC_EXD_081_001,Operator effects - Slit lamp,other
+IMPC_EXD_082_001,Operator effects - Ophthalmoscope,other
+IMPC_EXD_083_001,Operator effects - Hematology,other
+IMPC_EXD_084_001,Operator effects - Clinical chemistry,other
+IMPC_EXD_085_001,Operator effects - Immunophenotyping collection,other
+IMPC_EXD_086_001,Operator effects - Immunophenotyping analysis,other
+IMPC_EXD_087_001,Operator effects - Heart weight,Weight
+IMPC_EXD_088_001,Operator effects - Gross pathology collection,other
+IMPC_EXD_089_001,Operator effects - Gross pathology annotation,other
+IMPC_EXD_090_001,Operator effects - ECG,other
+IMPC_EXD_091_001,Operator effects - Echo,other
+IMPC_EXD_092_001,Operator effects - Plethysmography,other
+IMPC_EXD_093_001,Operator effects - Insulin,other
+IMPC_EXD_094_001,Operator effects - Embryo Lac Z collection,other
+IMPC_EXD_095_001,Operator effects - Embryo Lac Z annotation,other
+IMPC_EXD_096_001,Operator effects - Adult Lac Z collection,other
+IMPC_EXD_097_001,Operator effects - Adult Lac Z annotation,other
+IMPC_EXD_098_001,Time effects,other
+IMPC_EXD_099_001,Order effects - Body weight,Weight
+IMPC_EXD_100_001,Order effects - CSD,other
+IMPC_EXD_101_001,Order effects - Grip strength,Grip Strength
+IMPC_EXD_102_001,Order effects - Acoustic startle,other
+IMPC_EXD_103_001,Order effects - Calorimetry,other
+IMPC_EXD_104_001,Order effects - IPGTT,other
+IMPC_EXD_105_001,Order effects - ABR collection,other
+IMPC_EXD_106_001,Order effects - ABR annotation,other
+IMPC_EXD_107_001,Order effects - DEXA,other
+IMPC_EXD_108_001,Order effects - X-ray imaging,other
+IMPC_EXD_109_001,Order effects - X-ray annotation,other
+IMPC_EXD_110_001,Order effects - Slit lamp,other
+IMPC_EXD_111_001,Order effects - Ophthalmoscope,other
+IMPC_EXD_112_001,Order effects - Hematology,other
+IMPC_EXD_113_001,Order effects - Clinical chemistry,other
+IMPC_EXD_114_001,Order effects - Immunophenotyping,other
+IMPC_EXD_115_001,Order effects - Heart weight,Weight
+IMPC_EXD_116_001,Order effects - Open field,other
+IMPC_EXD_117_001,Order effects - Gross pathology collection,other
+IMPC_EXD_118_001,Order effects - Gross pathology annotation,other
+IMPC_EXD_119_001,Order effects - ECG,other
+IMPC_EXD_120_001,Order effects - Echo,other
+IMPC_EXD_121_001,Order effects - Plethysmography,other
+IMPC_EXD_122_001,Order effects - Insulin,other
+IMPC_EXD_123_001,Order effects - Embryo Lac Z,other
+IMPC_EXD_124_001,Order effects - Adult Lac Z,other
+IMPC_EXD_125_001,Subject selection - ABR,other
+IMPC_EXD_126_001,Subject selection - Gross pathology,other
+IMPC_VIA_034_001,Gene category,other
+IMPC_VIA_035_001,Male parents genotype,other
+IMPC_VIA_036_001,Female parents genotype,other
+IMPC_VIA_037_001,Litter male parent specimen id,other
+IMPC_VIA_038_001,Litter female parent 1 specimen id,other
+IMPC_VIA_039_001,Litter female parent 2 specimen id,other
+IMPC_VIA_040_001,Litter date of birth,other
+IMPC_VIA_041_001,Number of WT males,other
+IMPC_VIA_042_001,Number of WT females,other
+IMPC_VIA_043_001,Number of heterozygous males,other
+IMPC_VIA_044_001,Number of heterozygous females,other
+IMPC_VIA_045_001,Number of homozygous males,other
+IMPC_VIA_046_001,Number of homozygous females,other
+IMPC_VIA_047_001,Number of hemizygous males,other
+IMPC_VIA_048_001,Number of anzygous females,other
+IMPC_VIA_049_001,Total WT males,other
+IMPC_VIA_050_001,Total WT females,other
+IMPC_VIA_051_001,Total heterozygous males,other
+IMPC_VIA_052_001,Total heterozygous females,other
+IMPC_VIA_053_001,Total homozygous males,other
+IMPC_VIA_054_001,Total homozygous females,other
+IMPC_VIA_055_001,Total of hemizygous males,other
+IMPC_VIA_056_001,Total anzygous females,other
+IMPC_VIA_057_001,Total pups,other
+IMPC_VIA_058_001,Total WTs,other
+IMPC_VIA_059_001,Total heterozygotes,other
+IMPC_VIA_060_001,Total homozygotes,other
+IMPC_VIA_061_001,Total males,other
+IMPC_VIA_062_001,Total females,other
+IMPC_VIA_026_001,Female age earliest start,other
+IMPC_VIA_027_001,Female age oldest end,other
+IMPC_VIA_030_001,Age of pups at genotype,other
+IMPC_VIA_063_001,Homozygous males viability,other
+IMPC_VIA_064_001,Homozygous females viability,other
+IMPC_VIA_065_001,Hemizygous males viability,other
+IMPC_VIA_066_001,Heterozygous animals viability,other
+IMPC_VIA_067_001,Homozygous animals viability,other
+IMPC_VIA_068_001,Embryo Vignette,other
+IMPC_DXA_001_001,Body weight,Weight
+IMPC_DXA_011_001,Equipment ID,other
+IMPC_DXA_012_001,Equipment manufacturer,other
+IMPC_DXA_013_001,Equipment model,other
+IMPC_DXA_014_001,Mouse Status,other
+IMPC_DXA_015_001,Anesthesia,other
+IMPC_DXA_016_001,Experimenter ID,other
+IMPC_DXA_017_001,Date equipment last calibrated,other
+IMPC_DXA_018_001,HAW,other
+IMPC_OWT_001_001,Body weight,Weight
+IMPC_OWT_002_001,Spleen weight,Weight
+IMPC_OWT_003_001,Left kidney weight,Weight
+IMPC_OWT_004_001,Right kidney weight,Weight
+IMPC_OWT_005_001,Epididymis weight,Weight
+IMPC_OWT_007_001,Seminal vesicle weight,Weight
+IMPC_OWT_008_001,Spleen weight to body weight ratio,Weight
+IMPC_OWT_009_001,Left kidney weight to body weight ratio,Weight
+IMPC_OWT_010_001,Right kidney weight to body weight ratio,Weight
+IMPC_OWT_012_001,Epididymis weight to body weight ratio,Weight
+IMPC_OWT_013_001,Seminal vesicle weight to body weight ratio,Weight
+IMPC_OWT_014_001,Experimenter ID,other
+IMPC_OWT_015_001,Date of sacrifice,other
+IMPC_OWT_016_001,Method of sacrifice,other
+IMPC_OWT_017_001,Equipment ID,other
+IMPC_OWT_018_001,Date equipment last calibrated,other
+IMPC_OWT_019_001,Equipment manufacturer,other
+IMPC_OWT_020_001,Equipment model,other
+IMPC_OWT_021_001,Left testis weight,Weight
+IMPC_OWT_022_001,Right testis weight,Weight
+IMPC_OWT_023_001,Whole liver weight,Weight
+IMPC_OWT_024_001,Right lung all lobes weight,Weight
+IMPC_OWT_025_001,Left lung weight,Weight
+IMPC_OWT_026_001,Left testis weight to body weight ratio,Weight
+IMPC_OWT_027_001,Right testis weight to body weight ratio,Weight
+IMPC_OWT_028_001,Whole liver weight to body weight ratio,Weight
+IMPC_OWT_029_001,Right lung all lobes weight to body weight ratio,Weight
+IMPC_OWT_030_001,Left lung weight to body weight ratio,Weight
+IMPC_OWT_031_001,Whole lung weight,Weight
+IMPC_XRY_002_001,Zygomatic bone,other
+IMPC_XRY_004_001,Mandibles,other
+IMPC_XRY_006_001,Scapulae,other
+IMPC_XRY_007_001,Clavicle,other
+IMPC_XRY_008_001,Number of ribs right,other
+IMPC_XRY_009_001,Number of ribs left,other
+IMPC_XRY_010_001,Shape of ribs,other
+IMPC_XRY_011_001,Fusion of ribs,other
+IMPC_XRY_012_001,Pelvis,other
+IMPC_XRY_013_001,Number of cervical vertebrae,other
+IMPC_XRY_014_001,Number of thoracic vertebrae,other
+IMPC_XRY_015_001,Number of lumbar vertebrae,other
+IMPC_XRY_016_001,Number of pelvic vertebrae,other
+IMPC_XRY_017_001,Number of caudal vertebrae,other
+IMPC_XRY_018_001,Shape of vertebrae,other
+IMPC_XRY_020_001,Processes on vertebrae,other
+IMPC_XRY_021_001,Humerus,other
+IMPC_XRY_022_001,Radius,other
+IMPC_XRY_023_001,Ulna,other
+IMPC_XRY_024_001,Femur,other
+IMPC_XRY_025_001,Tibia,other
+IMPC_XRY_026_001,Fibula,other
+IMPC_XRY_027_001,Joints,other
+IMPC_XRY_028_001,Number of digits,other
+IMPC_XRY_029_001,Syndactylism,other
+IMPC_XRY_030_001,Brachydactyly,other
+IMPC_XRY_031_001,Digit integrity,other
+IMPC_XRY_032_001,Comment on XRay image,other
+IMPC_XRY_034_001,XRay Images Whole Body Dorso Ventral,other
+IMPC_XRY_035_001,Alive,other
+IMPC_XRY_036_001,Xray equipment ID,other
+IMPC_XRY_037_001,Xray equipment manufacturer,other
+IMPC_XRY_038_001,Xray equipment model,other
+IMPC_XRY_039_001,Settings time of exposure,other
+IMPC_XRY_040_001,Settings level,other
+IMPC_XRY_041_001,Experimenter ID (scan),other
+IMPC_XRY_042_001,Experimenter ID (analysis),other
+IMPC_XRY_043_001,Voltage settings,other
+IMPC_XRY_044_001,Scanner equipment ID,other
+IMPC_XRY_045_001,Scanner equipment manufacturer,other
+IMPC_XRY_046_001,Scanner equipment model,other
+IMPC_XRY_047_001,Date Xray equipment last calibrated,other
+IMPC_XRY_048_001,XRay Images Whole Body Lateral Orientation,other
+IMPC_XRY_049_001,XRay Images Forepaw,other
+IMPC_XRY_050_001,XRay Images Skull Lateral Orientation,other
+IMPC_XRY_051_001,XRay Images Skull Dorso Ventral Orientation,other
+IMPC_XRY_052_001,XRay Images Hind Leg and Hip,other
+IMPC_XRY_053_001,Date Scanner equipment last calibrated,other
+IMPC_XRY_054_001,Free Ontology,other
+IMPC_XRY_055_001,Shape of spine,other
+IMPC_XRY_056_001,Scoliosis,other
+IMPC_XRY_057_001,Kyphosis,other
+IMPC_XRY_058_001,Lordosis,other
+IMPC_XRY_059_001,Shape of ribcage,other
+IMPC_XRY_060_001,Transitional vertebrae,other
+IMPC_XRY_061_001,Fusion of processes,other
+IMPC_XRY_062_001,Polysyndactylism,other
+IMPC_XRY_063_001,Cervical processes,other
+IMPC_XRY_064_001,Thoracic processes,other
+IMPC_XRY_065_001,Lumbar processes,other
+IMPC_XRY_066_001,Sacral processes,other
+IMPC_XRY_067_001,Caudal processes,other
+IMPC_XRY_068_001,Missing cranial rib,other
+IMPC_XRY_069_001,Rib morphology,other
+IMPC_XRY_070_001,Cervical vertebrae morphology,other
+IMPC_XRY_071_001,Thoracic vertebrae morphology,other
+IMPC_XRY_072_001,Lumbar vertebrae morphology,other
+IMPC_XRY_073_001,Pelvic vertebrae morphology,other
+IMPC_XRY_074_001,Caudal vertebrae morphology,other
+IMPC_GPL_001_001,Placenta Development,other
+IMPC_GPL_002_001,Placenta Morphology,other
+IMPC_GPL_003_001,Placenta Vasculature,other
+IMPC_GPL_004_001,Placenta Size,other
+IMPC_GPL_005_001,Umbilical cord morphology,other
+IMPC_GPL_006_001,Comment on image,other
+IMPC_GPL_007_001,Images,other
+IMPC_GPL_008_001,Experimenter ID,other
+IMPC_GPL_009_001,Equipment ID,other
+IMPC_GPL_010_001,Equipment Manufacturer,other
+IMPC_GPL_011_001,Equipment Model,other
+IMPC_GPL_012_001,Fixative,other
+IMPC_GPL_013_001,Time of Dissection,other
+IMPC_GPL_014_001,Somite Stage,other
+IMPC_GPL_015_001,Time of dark cycle start,other
+IMPC_GPL_016_001,Time of dark cycle end,other
+IMPC_GPL_017_001,Date equipment last calibrated,other
+IMPC_HIS_001_001,Brain - MPATH diagnostic term,Brain
+IMPC_HIS_002_001,Brain - Free text diagnostic term,Brain
+IMPC_HIS_003_001,Brain - MPATH process term,Brain
+IMPC_HIS_004_001,Brain - Severity score,Brain
+IMPC_HIS_005_001,Brain - Descriptor PATO,Brain
+IMPC_HIS_006_001,Brain - Description,Brain
+IMPC_HIS_007_001,Eye with optic nerve - MPATH diagnostic term,other
+IMPC_HIS_008_001,Eye with optic nerve - Free text diagnostic term,other
+IMPC_HIS_009_001,Eye with optic nerve - MPATH process term,other
+IMPC_HIS_010_001,Eye with optic nerve - Severity score,other
+IMPC_HIS_011_001,Eye with optic nerve - Descriptor PATO,other
+IMPC_HIS_012_001,Eye with optic nerve - Description,other
+IMPC_HIS_013_001,Spinal cord - MPATH diagnostic term,other
+IMPC_HIS_014_001,Spinal cord - Free text diagnostic term,other
+IMPC_HIS_015_001,Spinal cord - MPATH process term,other
+IMPC_HIS_016_001,Spinal cord - Severity score,other
+IMPC_HIS_017_001,Spinal cord - Descriptor PATO,other
+IMPC_HIS_018_001,Spinal cord - Description,other
+IMPC_HIS_019_001,Thymus - MPATH diagnostic term,other
+IMPC_HIS_020_001,Thymus - Free text diagnostic term,other
+IMPC_HIS_021_001,Thymus - MPATH process term,other
+IMPC_HIS_022_001,Thymus - Severity score,other
+IMPC_HIS_023_001,Thymus - Descriptor PATO,other
+IMPC_HIS_024_001,Thymus - Description,other
+IMPC_HIS_025_001,Thyroid - MPATH diagnostic term,other
+IMPC_HIS_026_001,Thyroid - Free text diagnostic term,other
+IMPC_HIS_027_001,Thyroid - MPATH process term,other
+IMPC_HIS_028_001,Thyroid - Severity score,other
+IMPC_HIS_029_001,Thyroid - Descriptor PATO,other
+IMPC_HIS_030_001,Thyroid - Description,other
+IMPC_HIS_031_001,Heart - MPATH diagnostic term,other
+IMPC_HIS_032_001,Heart - Free text diagnostic term,other
+IMPC_HIS_033_001,Heart - MPATH process term,other
+IMPC_HIS_034_001,Heart - Severity score,other
+IMPC_HIS_035_001,Heart - Descriptor PATO,other
+IMPC_HIS_036_001,Heart - Description,other
+IMPC_HIS_037_001,Trachea - MPATH diagnostic term,other
+IMPC_HIS_038_001,Trachea - Free text diagnostic term,other
+IMPC_HIS_039_001,Trachea - MPATH process term,other
+IMPC_HIS_040_001,Trachea - Severity score,other
+IMPC_HIS_041_001,Trachea - Descriptor PATO,other
+IMPC_HIS_042_001,Trachea - Description,other
+IMPC_HIS_043_001,Esophagus - MPATH diagnostic term,other
+IMPC_HIS_044_001,Esophagus - Free text diagnostic term,other
+IMPC_HIS_045_001,Esophagus - MPATH process term,other
+IMPC_HIS_046_001,Esophagus - Severity score,other
+IMPC_HIS_047_001,Esophagus - Descriptor PATO,other
+IMPC_HIS_048_001,Esophagus - Description,other
+IMPC_HIS_049_001,Lung - MPATH diagnostic term,other
+IMPC_HIS_050_001,Lung - Free text diagnostic term,other
+IMPC_HIS_051_001,Lung - MPATH process term,other
+IMPC_HIS_052_001,Lung - Severity score,other
+IMPC_HIS_053_001,Lung - Descriptor PATO,other
+IMPC_HIS_054_001,Lung - Description,other
+IMPC_HIS_055_001,Liver - MPATH diagnostic term,other
+IMPC_HIS_056_001,Liver - Free text diagnostic term,other
+IMPC_HIS_057_001,Liver - MPATH process term,other
+IMPC_HIS_058_001,Liver - Severity score,other
+IMPC_HIS_059_001,Liver - Descriptor PATO,other
+IMPC_HIS_060_001,Liver - Description,other
+IMPC_HIS_061_001,Gall bladder - MPATH diagnostic term,other
+IMPC_HIS_062_001,Gall bladder - Free text diagnostic term,other
+IMPC_HIS_063_001,Gall bladder - MPATH process term,other
+IMPC_HIS_064_001,Gall bladder - Severity score,other
+IMPC_HIS_065_001,Gall bladder - Descriptor PATO,other
+IMPC_HIS_066_001,Gall bladder - Description,other
+IMPC_HIS_067_001,Stomach - MPATH diagnostic term,other
+IMPC_HIS_068_001,Stomach - Free text diagnostic term,other
+IMPC_HIS_069_001,Stomach - MPATH process term,other
+IMPC_HIS_070_001,Stomach - Severity score,other
+IMPC_HIS_071_001,Stomach - Descriptor PATO,other
+IMPC_HIS_072_001,Stomach - Description,other
+IMPC_HIS_073_001,Small intestine - MPATH diagnostic term,other
+IMPC_HIS_074_001,Small intestine - Free text diagnostic term,other
+IMPC_HIS_075_001,Small intestine - MPATH process term,other
+IMPC_HIS_076_001,Small intestine - Severity score,other
+IMPC_HIS_077_001,Small intestine - Descriptor PATO,other
+IMPC_HIS_078_001,Small intestine - Description,other
+IMPC_HIS_079_001,Large intestine - MPATH diagnostic term,other
+IMPC_HIS_080_001,Large intestine - Free text diagnostic term,other
+IMPC_HIS_081_001,Large intestine - MPATH process term,other
+IMPC_HIS_082_001,Large intestine - Severity score,other
+IMPC_HIS_083_001,Large intestine - Descriptor PATO,other
+IMPC_HIS_084_001,Large intestine - Description,other
+IMPC_HIS_085_001,Pancreas - MPATH diagnostic term,other
+IMPC_HIS_086_001,Pancreas - Free text diagnostic term,other
+IMPC_HIS_087_001,Pancreas - MPATH process term,other
+IMPC_HIS_088_001,Pancreas - Severity score,other
+IMPC_HIS_089_001,Pancreas - Descriptor PATO,other
+IMPC_HIS_090_001,Pancreas - Description,other
+IMPC_HIS_091_001,Spleen - MPATH diagnostic term,other
+IMPC_HIS_092_001,Spleen - Free text diagnostic term,other
+IMPC_HIS_093_001,Spleen - MPATH process term,other
+IMPC_HIS_094_001,Spleen - Severity score,other
+IMPC_HIS_095_001,Spleen - Descriptor PATO,other
+IMPC_HIS_096_001,Spleen - Description,other
+IMPC_HIS_097_001,Kidney - MPATH diagnostic term,other
+IMPC_HIS_098_001,Kidney - Free text diagnostic term,other
+IMPC_HIS_099_001,Kidney - MPATH process term,other
+IMPC_HIS_100_001,Kidney - Severity score,other
+IMPC_HIS_101_001,Kidney - Descriptor PATO,other
+IMPC_HIS_102_001,Kidney - Description,other
+IMPC_HIS_103_001,Adrenal gland - MPATH diagnostic term,other
+IMPC_HIS_104_001,Adrenal gland - Free text diagnostic term,other
+IMPC_HIS_105_001,Adrenal gland - MPATH process term,other
+IMPC_HIS_106_001,Adrenal gland - Severity score,other
+IMPC_HIS_107_001,Adrenal gland - Descriptor PATO,other
+IMPC_HIS_108_001,Adrenal gland - Description,other
+IMPC_HIS_109_001,Mammary gland - MPATH diagnostic term,other
+IMPC_HIS_110_001,Mammary gland - Free text diagnostic term,other
+IMPC_HIS_111_001,Mammary gland - MPATH process term,other
+IMPC_HIS_112_001,Mammary gland - Severity score,other
+IMPC_HIS_113_001,Mammary gland - Descriptor PATO,other
+IMPC_HIS_114_001,Mammary gland - Description,other
+IMPC_HIS_115_001,Lymph node - MPATH diagnostic term,other
+IMPC_HIS_116_001,Lymph node - Free text diagnostic term,other
+IMPC_HIS_117_001,Lymph node - MPATH process term,other
+IMPC_HIS_118_001,Lymph node - Severity score,other
+IMPC_HIS_119_001,Lymph node - Descriptor PATO,other
+IMPC_HIS_120_001,Lymph node - Description,other
+IMPC_HIS_121_001,Skin - MPATH diagnostic term,other
+IMPC_HIS_122_001,Skin - Free text diagnostic term,other
+IMPC_HIS_123_001,Skin - MPATH process term,other
+IMPC_HIS_124_001,Skin - Severity score,other
+IMPC_HIS_125_001,Skin - Descriptor PATO,other
+IMPC_HIS_126_001,Skin - Description,other
+IMPC_HIS_127_001,Skeletal muscle - MPATH diagnostic term,other
+IMPC_HIS_128_001,Skeletal muscle - Free text diagnostic term,other
+IMPC_HIS_129_001,Skeletal muscle - MPATH process term,other
+IMPC_HIS_130_001,Skeletal muscle - Severity score,other
+IMPC_HIS_131_001,Skeletal muscle - Descriptor PATO,other
+IMPC_HIS_132_001,Skeletal muscle - Description,other
+IMPC_HIS_133_001,Urinary bladder - MPATH diagnostic term,other
+IMPC_HIS_134_001,Urinary bladder - Free text diagnostic term,other
+IMPC_HIS_135_001,Urinary bladder - MPATH process term,other
+IMPC_HIS_136_001,Urinary bladder - Severity score,other
+IMPC_HIS_137_001,Urinary bladder - Descriptor PATO,other
+IMPC_HIS_138_001,Urinary bladder - Description,other
+IMPC_HIS_139_001,Testes - MPATH diagnostic term,other
+IMPC_HIS_140_001,Testes - Free text diagnostic term,other
+IMPC_HIS_141_001,Testes - MPATH process term,other
+IMPC_HIS_142_001,Testes - Severity score,other
+IMPC_HIS_143_001,Testes - Descriptor PATO,other
+IMPC_HIS_144_001,Testes - Description,other
+IMPC_HIS_145_001,Epididymis - MPATH diagnostic term,other
+IMPC_HIS_146_001,Epididymis - Free text diagnostic term,other
+IMPC_HIS_147_001,Epididymis - MPATH process term,other
+IMPC_HIS_148_001,Epididymis - Severity score,other
+IMPC_HIS_149_001,Epididymis - Descriptor PATO,other
+IMPC_HIS_150_001,Epididymis - Description,other
+IMPC_HIS_151_001,Prostate - MPATH diagnostic term,other
+IMPC_HIS_152_001,Prostate - Free text diagnostic term,other
+IMPC_HIS_153_001,Prostate - MPATH process term,other
+IMPC_HIS_154_001,Prostate - Severity score,other
+IMPC_HIS_155_001,Prostate - Descriptor PATO,other
+IMPC_HIS_156_001,Prostate - Description,other
+IMPC_HIS_157_001,Seminal vesicle - MPATH diagnostic term,other
+IMPC_HIS_158_001,Seminal vesicle - Free text diagnostic term,other
+IMPC_HIS_159_001,Seminal vesicle - MPATH process term,other
+IMPC_HIS_160_001,Seminal vesicle - Severity score,other
+IMPC_HIS_161_001,Seminal vesicle - Descriptor PATO,other
+IMPC_HIS_162_001,Seminal vesicle - Description,other
+IMPC_HIS_163_001,Ovary - MPATH diagnostic term,other
+IMPC_HIS_164_001,Ovary - Free text diagnostic term,other
+IMPC_HIS_165_001,Ovary - MPATH process term,other
+IMPC_HIS_166_001,Ovary - Severity score,other
+IMPC_HIS_167_001,Ovary - Descriptor PATO,other
+IMPC_HIS_168_001,Ovary - Description,other
+IMPC_HIS_169_001,Uterus - MPATH diagnostic term,other
+IMPC_HIS_170_001,Uterus - Free text diagnostic term,other
+IMPC_HIS_171_001,Uterus - MPATH process term,other
+IMPC_HIS_172_001,Uterus - Severity score,other
+IMPC_HIS_173_001,Uterus - Descriptor PATO,other
+IMPC_HIS_174_001,Uterus - Description,other
+IMPC_HIS_175_001,Stain,other
+IMPC_HIS_176_001,Section thickness,other
+IMPC_HIS_177_001,Images,other
+IMPC_HIS_178_001,Severity maximum score,other
+IMPC_HIS_208_001,Experimenter ID,other
+IMPC_HIS_209_001,Salivary gland - MPATH diagnostic term,other
+IMPC_HIS_210_001,Salivary gland - Free text diagnostic term,other
+IMPC_HIS_211_001,Salivary gland - MPATH process term,other
+IMPC_HIS_212_001,Salivary gland - Severity score,other
+IMPC_HIS_213_001,Salivary gland - Descriptor PATO,other
+IMPC_HIS_214_001,Salivary gland - Description,other
+IMPC_HIS_215_001,Salivary gland - Significance score,other
+IMPC_HIS_216_001,Sternum - MPATH diagnostic term,other
+IMPC_HIS_217_001,Sternum - Free text diagnostic term,other
+IMPC_HIS_218_001,Sternum - MPATH process term,other
+IMPC_HIS_219_001,Sternum - Severity score,other
+IMPC_HIS_220_001,Sternum - Descriptor PATO,other
+IMPC_HIS_221_001,Sternum - Description,other
+IMPC_HIS_222_001,Sternum - Significance score,other
+IMPC_HIS_223_001,Femur - MPATH diagnostic term,other
+IMPC_HIS_224_001,Femur - Free text diagnostic term,other
+IMPC_HIS_225_001,Femur - MPATH process term,other
+IMPC_HIS_226_001,Femur - Severity score,other
+IMPC_HIS_227_001,Femur - Descriptor PATO,other
+IMPC_HIS_228_001,Femur - Description,other
+IMPC_HIS_229_001,Femur - Significance score,other
+IMPC_HIS_230_001,Bone marrow - MPATH diagnostic term,other
+IMPC_HIS_231_001,Bone marrow - Free text diagnostic term,other
+IMPC_HIS_232_001,Bone marrow - MPATH process term,other
+IMPC_HIS_233_001,Bone marrow - Severity score,other
+IMPC_HIS_234_001,Bone marrow - Descriptor PATO,other
+IMPC_HIS_235_001,Bone marrow - Description,other
+IMPC_HIS_236_001,Bone marrow - Significance score,other
+IMPC_HIS_237_001,Brown adipose tissue - MPATH diagnostic term,other
+IMPC_HIS_238_001,Brown adipose tissue - Free text diagnostic term,other
+IMPC_HIS_239_001,Brown adipose tissue - MPATH process term,other
+IMPC_HIS_240_001,Brown adipose tissue - Severity score,other
+IMPC_HIS_241_001,Brown adipose tissue - Descriptor PATO,other
+IMPC_HIS_242_001,Brown adipose tissue - Description,other
+IMPC_HIS_243_001,Brown adipose tissue - Significance score,other
+IMPC_HIS_244_001,Tibia - MPATH diagnostic term,other
+IMPC_HIS_245_001,Tibia - Free text diagnostic term,other
+IMPC_HIS_246_001,Tibia - MPATH process term,other
+IMPC_HIS_247_001,Tibia - Severity score,other
+IMPC_HIS_248_001,Tibia - Descriptor PATO,other
+IMPC_HIS_249_001,Tibia - Description,other
+IMPC_HIS_250_001,Tibia - Significance score,other
+IMPC_HIS_251_001,Knee joint - MPATH diagnostic term,other
+IMPC_HIS_252_001,Knee joint - Free text diagnostic term,other
+IMPC_HIS_253_001,Knee joint - MPATH process term,other
+IMPC_HIS_254_001,Knee joint - Severity score,other
+IMPC_HIS_255_001,Knee joint - Descriptor PATO,other
+IMPC_HIS_256_001,Knee joint - Description,other
+IMPC_HIS_257_001,Knee joint - Significance score,other
+IMPC_HIS_258_001,Trigeminal V nerve - MPATH diagnostic term,other
+IMPC_HIS_259_001,Trigeminal V nerve - Free text diagnostic term,other
+IMPC_HIS_260_001,Trigeminal V nerve - MPATH process term,other
+IMPC_HIS_261_001,Trigeminal V nerve - Severity score,other
+IMPC_HIS_262_001,Trigeminal V nerve - Descriptor PATO,other
+IMPC_HIS_263_001,Trigeminal V nerve - Description,other
+IMPC_HIS_264_001,Trigeminal V nerve - Significance score,other
+IMPC_HIS_265_001,Nasal cavity - MPATH diagnostic term,other
+IMPC_HIS_266_001,Nasal cavity - Free text diagnostic term,other
+IMPC_HIS_267_001,Nasal cavity - MPATH process term,other
+IMPC_HIS_268_001,Nasal cavity - Severity score,other
+IMPC_HIS_269_001,Nasal cavity - Descriptor PATO,other
+IMPC_HIS_270_001,Nasal cavity - Description,other
+IMPC_HIS_271_001,Nasal cavity - Significance score,other
+IMPC_HIS_272_001,Ear - MPATH diagnostic term,other
+IMPC_HIS_273_001,Ear - Free text diagnostic term,other
+IMPC_HIS_274_001,Ear - MPATH process term,other
+IMPC_HIS_275_001,Ear - Severity score,other
+IMPC_HIS_276_001,Ear - Descriptor PATO,other
+IMPC_HIS_277_001,Ear - Description,other
+IMPC_HIS_278_001,Ear - Significance score,other
+IMPC_HIS_279_001,Tooth - MPATH diagnostic term,other
+IMPC_HIS_280_001,Tooth - Free text diagnostic term,other
+IMPC_HIS_281_001,Tooth - MPATH process term,other
+IMPC_HIS_282_001,Tooth - Severity score,other
+IMPC_HIS_283_001,Tooth - Descriptor PATO,other
+IMPC_HIS_284_001,Tooth - Description,other
+IMPC_HIS_285_001,Tooth - Significance score,other
+IMPC_HIS_286_001,Tongue - MPATH diagnostic term,other
+IMPC_HIS_287_001,Tongue - Free text diagnostic term,other
+IMPC_HIS_288_001,Tongue - MPATH process term,other
+IMPC_HIS_289_001,Tongue - Severity score,other
+IMPC_HIS_290_001,Tongue - Descriptor PATO,other
+IMPC_HIS_291_001,Tongue - Description,other
+IMPC_HIS_292_001,Tongue - Significance score,other
+IMPC_HIS_293_001,Sciatic nerve - MPATH diagnostic term,other
+IMPC_HIS_294_001,Sciatic nerve - Free text diagnostic term,other
+IMPC_HIS_295_001,Sciatic nerve - MPATH process term,other
+IMPC_HIS_296_001,Sciatic nerve - Severity score,other
+IMPC_HIS_297_001,Sciatic nerve - Descriptor PATO,other
+IMPC_HIS_298_001,Sciatic nerve - Description,other
+IMPC_HIS_299_001,Sciatic nerve - Significance score,other
+IMPC_HIS_300_001,Brain,Brain
+IMPC_HIS_301_001,Eye with optic nerve,other
+IMPC_HIS_302_001,Spinal cord,other
+IMPC_HIS_303_001,Thymus,other
+IMPC_HIS_304_001,Thyroid,other
+IMPC_HIS_305_001,Heart,other
+IMPC_HIS_306_001,Trachea,other
+IMPC_HIS_307_001,Esophagus,other
+IMPC_HIS_308_001,Lung,other
+IMPC_HIS_309_001,Liver,other
+IMPC_HIS_310_001,Gall bladder,other
+IMPC_HIS_311_001,Stomach,other
+IMPC_HIS_312_001,Small intestine,other
+IMPC_HIS_313_001,Large intestine,other
+IMPC_HIS_314_001,Pancreas,other
+IMPC_HIS_315_001,Spleen,other
+IMPC_HIS_316_001,Kidney,other
+IMPC_HIS_317_001,Adrenal gland,other
+IMPC_HIS_318_001,Mammary gland,other
+IMPC_HIS_319_001,Lymph node,other
+IMPC_HIS_320_001,Skin,other
+IMPC_HIS_321_001,Skeletal muscle,other
+IMPC_HIS_322_001,Urinary bladder,other
+IMPC_HIS_323_001,Testes,other
+IMPC_HIS_324_001,Epididymis,other
+IMPC_HIS_325_001,Prostate,other
+IMPC_HIS_326_001,Seminal vesicle,other
+IMPC_HIS_327_001,Ovary,other
+IMPC_HIS_328_001,Uterus,other
+IMPC_HIS_329_001,Salivary gland,other
+IMPC_HIS_330_001,Sternum,other
+IMPC_HIS_331_001,Femur,other
+IMPC_HIS_332_001,Bone marrow,other
+IMPC_HIS_333_001,Brown adipose tissue,other
+IMPC_HIS_334_001,Tibia,other
+IMPC_HIS_335_001,Knee joint,other
+IMPC_HIS_336_001,Trigeminal V nerve,other
+IMPC_HIS_337_001,Nasal cavity,other
+IMPC_HIS_338_001,Ear,other
+IMPC_HIS_339_001,Tooth,other
+IMPC_HIS_340_001,Tongue,other
+IMPC_HIS_341_001,Sciatic nerve,other
+IMPC_HIS_342_001,Bone - MPATH diagnostic term,other
+IMPC_HIS_343_001,Bone - Free text diagnostic term,other
+IMPC_HIS_344_001,Bone - MPATH process term,other
+IMPC_HIS_345_001,Bone - Severity score,other
+IMPC_HIS_346_001,Bone - Descriptor PATO,other
+IMPC_HIS_347_001,Bone - Description,other
+IMPC_HIS_348_001,Bone - Significance score,other
+IMPC_HIS_349_001,Bone,other
+IMPC_HIS_179_002,Brain - Significance score,Brain
+IMPC_HIS_180_002,Eye with optic nerve - Significance score,other
+IMPC_HIS_181_002,Spinal cord - Significance score,other
+IMPC_HIS_182_002,Thymus - Significance score,other
+IMPC_HIS_183_002,Thyroid - Significance score,other
+IMPC_HIS_184_002,Heart - Significance score,other
+IMPC_HIS_185_002,Trachea - Significance score,other
+IMPC_HIS_186_002,Esophagus - Significance score,other
+IMPC_HIS_187_002,Lung - Significance score,other
+IMPC_HIS_188_002,Liver - Significance score,other
+IMPC_HIS_189_002,Gall bladder - Significance score,other
+IMPC_HIS_190_002,Stomach - Significance score,other
+IMPC_HIS_191_002,Small intestine - Significance score,other
+IMPC_HIS_192_002,Large intestine - Significance score,other
+IMPC_HIS_193_002,Pancreas - Significance score,other
+IMPC_HIS_194_002,Spleen - Significance score,other
+IMPC_HIS_195_002,Kidney - Significance score,other
+IMPC_HIS_196_002,Adrenal gland - Significance score,other
+IMPC_HIS_197_002,Mammary gland - Significance score,other
+IMPC_HIS_198_002,Lymph node - Significance score,other
+IMPC_HIS_199_002,Skin - Significance score,other
+IMPC_HIS_200_002,Skeletal muscle - Significance score,other
+IMPC_HIS_201_002,Urinary bladder - Significance score,other
+IMPC_HIS_202_002,Testes - Significance score,other
+IMPC_HIS_203_002,Epididymis - Significance score,other
+IMPC_HIS_204_002,Prostate - Significance score,other
+IMPC_HIS_205_002,Seminal vesicle - Significance score,other
+IMPC_HIS_206_002,Ovary - Significance score,other
+IMPC_HIS_207_002,Uterus - Significance score,other
+IMPC_FOR_002_001,Total number of lick/bite events,other
+IMPC_FOR_003_001,Total duration of drag/limp behaviour,other
+IMPC_FOR_004_001,Total number of drag/limp events,other
+IMPC_FOR_005_001,Total duration of flinch behaviour,other
+IMPC_FOR_006_001,Total number of flinch events,other
+IMPC_FOR_007_001,Anaesthetic,other
+IMPC_FOR_008_001,Formalin Concentration,other
+IMPC_FOR_009_001,Amount of formalin injected,other
+IMPC_FOR_010_001,Syringe Gauge,other
+IMPC_FOR_011_001,Site of formalin injection,other
+IMPC_FOR_012_001,Arena Manufacturer,other
+IMPC_FOR_013_001,Size of testing arena,other
+IMPC_FOR_014_001,Recording Software,other
+IMPC_FOR_015_001,Data scoring method,other
+IMPC_FOR_016_001,Annotation Software,other
+IMPC_FOR_017_001,Duration of observation period,other
+IMPC_FOR_018_001,Camera Position,other
+IMPC_FOR_019_001,Disinfectant,other
+IMPC_FOR_020_001,Duration of lick/bite behaviour,other
+IMPC_FOR_021_001,Duration of drag/limp behaviour,other
+IMPC_FOR_022_001,Duration of flinch behaviour,other
+IMPC_FOR_023_001,Duration of licking/biting behavior (10-60 minutes),other
+IMPC_FOR_024_001,Time per bin/increment,other
+IMPC_FOR_025_001,Time bins excluded,other
+IMPC_FOR_026_001,Experimenter ID,other
+IMPC_GPM_001_001,Placenta Development,other
+IMPC_GPM_002_001,Placenta Morphology,other
+IMPC_GPM_003_001,Placenta Vasculature,other
+IMPC_GPM_004_001,Placenta Size,other
+IMPC_GPM_005_001,Umbilical cord morphology,other
+IMPC_GPM_006_001,Comment on image,other
+IMPC_GPM_007_001,Images,other
+IMPC_GPM_008_001,Experimenter ID,other
+IMPC_GPM_009_001,Equipment ID,other
+IMPC_GPM_010_001,Equipment Manufacturer,other
+IMPC_GPM_011_001,Equipment Model,other
+IMPC_GPM_012_001,Fixative,other
+IMPC_GPM_013_001,Time of Dissection,other
+IMPC_GPM_014_001,Somite Stage,other
+IMPC_GPM_015_001,Time of dark cycle start,other
+IMPC_GPM_016_001,Time of dark cycle end,other
+IMPC_GPM_017_001,Date equipment last calibrated,other
+IMPC_GPM_018_001,Placenta color,other
+IMPC_EYE_020_001,Retina,other
+IMPC_EYE_021_001,Retinal Pigmentation,other
+IMPC_EYE_022_001,Retinal Structure,other
+IMPC_EML_010_001,Camera to Source,other
+IMPC_EML_006_001,Equipment Version,other
+IMPC_EML_007_001,Image Pixel Size,other
+IMPC_EML_014_001,Date of Scan,other
+IMPC_EML_004_001,Equipment Manufacturer,other
+IMPC_EML_003_001,Equipment ID,other
+IMPC_EML_008_001,E9.5 MicroCT Preparation protocol,other
+IMPC_EML_017_001,Screenshots,other
+IMPC_EML_009_001,Object to Source,other
+IMPC_EML_016_001,Source Current,other
+IMPC_EML_012_001,Date of Sacrifice,other
+IMPC_EML_013_001,Date Preparation Finished,other
+IMPC_EML_001_001,Embryo reconstruction,other
+IMPC_EML_002_001,Experimenter ID,other
+IMPC_EML_015_001,Source Voltage,other
+IMPC_EML_011_001,Date equipment last calibrated,other
+IMPC_EML_005_001,Equipment Model,other
+IMPC_FEA_001_001,Conditioning Baseline Freeze Count,other
+IMPC_FEA_002_001,Conditioning Baseline Freezing Time,other
+IMPC_FEA_003_001,Conditioning Baseline % Freezing Time,other
+IMPC_FEA_004_001,Conditioning Baseline Average Motion Index,other
+IMPC_FEA_005_001,Conditioning Baseline Minimum Motion Index,other
+IMPC_FEA_006_001,Conditioning Baseline Maximum Motion Index,other
+IMPC_FEA_007_001,Context Freeze Count,other
+IMPC_FEA_008_001,Context Freezing Time,other
+IMPC_FEA_009_001,Context % Freezing Time,other
+IMPC_FEA_010_001,Context Average Motion Index,other
+IMPC_FEA_011_001,Context Minimum Motion Index,other
+IMPC_FEA_012_001,Context Maximum Motion Index,other
+IMPC_FEA_013_001,Cue Baseline Freeze Count,other
+IMPC_FEA_014_001,Cue Baseline Freezing Time,other
+IMPC_FEA_015_001,Cue Baseline % Freezing Time,other
+IMPC_FEA_016_001,Cue Baseline Average Motion Index,other
+IMPC_FEA_017_001,Cue Baseline Minimum Motion Index,other
+IMPC_FEA_018_001,Cue Baseline Maximum Motion Index,other
+IMPC_FEA_019_001,Cue Tone Freeze Count,other
+IMPC_FEA_020_001,Cue Tone Freezing Time,other
+IMPC_FEA_021_001,Cue Tone % Freezing Time,other
+IMPC_FEA_022_001,Cue Tone Average Motion Index,other
+IMPC_FEA_023_001,Cue Tone Minimum Motion Index,other
+IMPC_FEA_024_001,Cue Tone Maximum Motion Index,other
+IMPC_FEA_025_001,Conditioning: Date and time,other
+IMPC_FEA_026_001,Conditioning: Room acclimation time,other
+IMPC_FEA_027_001,Conditioning: White house light level in arena,other
+IMPC_FEA_028_001,Conditioning: Olfactory cue,other
+IMPC_FEA_029_001,Conditioning: Mouse arena shape,other
+IMPC_FEA_030_001,Conditioning: Mouse arena dimension,other
+IMPC_FEA_031_001,Conditioning: Mouse arena colour,other
+IMPC_FEA_032_001,Conditioning: Mouse arena floor,other
+IMPC_FEA_033_001,Conditioning: Length of time baseline,other
+IMPC_FEA_034_001,Conditioning: Tone stimulus intensity ( dB; conditioned stimulus),other
+IMPC_FEA_035_001,Conditioning: Tone stimulus frequency (Hz; conditioned stimulus),other
+IMPC_FEA_036_001,Conditioning: Length of time tone stimulus,other
+IMPC_FEA_037_001,Conditioning: Shock stimulus intensity (unconditioned stimulus),other
+IMPC_FEA_038_001,Conditioning: Length of time shock stimulus,other
+IMPC_FEA_039_001,Conditioning: Length of time no stimulus,other
+IMPC_FEA_040_001,Conditioning: Total time,other
+IMPC_FEA_041_001,Context: Date and time,other
+IMPC_FEA_042_001,Context: Room acclimation time,other
+IMPC_FEA_043_001,Context: White house light level in arena,other
+IMPC_FEA_044_001,Context: Olfactory cue,other
+IMPC_FEA_045_001,Context: Mouse arena shape,other
+IMPC_FEA_046_001,Context: Mouse arena dimension,other
+IMPC_FEA_047_001,Context: Mouse arena colour,other
+IMPC_FEA_048_001,Context: Mouse arena floor,other
+IMPC_FEA_049_001,Context: Total time,other
+IMPC_FEA_050_001,Cue: Date and time,other
+IMPC_FEA_051_001,Cue: White house light level in arena,other
+IMPC_FEA_052_001,Cue: Olfactory cue,other
+IMPC_FEA_053_001,Cue: Mouse arena shape,other
+IMPC_FEA_054_001,Cue: Mouse arena dimension,other
+IMPC_FEA_055_001,Cue: Mouse arena colour,other
+IMPC_FEA_056_001,Cue: Mouse arena floor,other
+IMPC_FEA_057_001,Cue: Length of time baseline,other
+IMPC_FEA_058_001,Cue: Tone stimulus intensity  (conditioned stimulus),other
+IMPC_FEA_059_001,Cue: Tone stimulus frequency (Hz; conditioned stimulus),other
+IMPC_FEA_060_001,Cue: tone response measurement time,other
+IMPC_FEA_061_001,Cue: Length of time no stimulus,other
+IMPC_FEA_062_001,Cue: Total time,other
+IMPC_FEA_063_001,Mouse arenaID,other
+IMPC_FEA_064_001,Equipment ID,other
+IMPC_FEA_065_001,Equipment Manufacturer,other
+IMPC_FEA_066_001,Equipment Model,other
+IMPC_FEA_067_001,Tracking Method,other
+IMPC_FEA_068_001,Software,other
+IMPC_FEA_069_001,Sound generator manufacturer,other
+IMPC_FEA_070_001,Sound generator model,other
+IMPC_FEA_071_001,Sound-proof box dimension,other
+IMPC_FEA_072_001,Experimenter ID,other
+IMPC_FEA_073_001,Experimenter ID  day 2,other
+IMPC_FEA_074_001,Experimenter ID day 2 cue,other
+IMPC_FEA_075_001,Date equipment last calibrated (shock),other
+IMPC_FEA_076_001,Date equipment last calibrated (tone),other
+IMPC_FEA_077_001,Freeze definition,other
+IMPC_FEA_078_001,Conditioning: Near infra red light  arena,other
+IMPC_FEA_079_001,Context: Near infra red light  arena,other
+IMPC_FEA_080_001,Cue: Near infra red light  arena,other
+IMPC_FEA_081_001,Conditioning: Start time of baseline,other
+IMPC_FEA_082_001,Conditioning: Start time of each tone stimulus,other
+IMPC_FEA_083_001,Conditioning: Start time of each shock stimulus,other
+IMPC_FEA_084_001,Conditioning: Start time of no stimulus,other
+IMPC_FEA_085_001,Cue: Start time of baseline,other
+IMPC_FEA_086_001,Cue: Start time of each tone stimulus,other
+IMPC_FEA_087_001,Cue: Start time of no stimulus,other
+IMPC_FEA_088_001,Cue: arena rotation,other
+IMPC_FEA_089_001,Conditioning Tone Freeze Count,other
+IMPC_FEA_090_001,Conditioning Tone Freezing Time,other
+IMPC_FEA_091_001,Conditioning Tone % Freezing Time,other
+IMPC_FEA_092_001,Conditioning Tone Average Motion Index,other
+IMPC_FEA_093_001,Conditioning Tone Minimum Motion Index,other
+IMPC_FEA_094_001,Conditioning Tone Maximum Motion Index,other
+IMPC_FEA_095_001,Conditioning Shock Average Motion Index,other
+IMPC_FEA_096_001,Conditioning Shock Minimum Motion Index,other
+IMPC_FEA_097_001,Conditioning Shock Maximum Motion Index,other
+IMPC_FEA_098_001,Conditioning Post-shock Freeze Count,other
+IMPC_FEA_099_001,Conditioning Post-shock Freezing Time,other
+IMPC_FEA_100_001,Conditioning Post-shock % Freezing Time,other
+IMPC_FEA_101_001,Conditioning Post-shock Average Motion Index,other
+IMPC_FEA_102_001,Conditioning Post-shock Minimum Motion Index,other
+IMPC_FEA_103_001,Conditioning Post-shock Maximum Motion Index,other
+IMPC_FEA_104_001,Freeze definition (minimum motion index),other
+IMPC_FEA_106_001,Difference in Cue Tone and Cue Baseline % Freezing,other
+IMPC_FEA_107_001,Difference in Conditioning Post-shock and Conditioning Baseline % Freezing,other
+IMPC_FEA_108_001,Cue: Length of time tone stimulus,other
+IMPC_GPO_001_001,Placenta Development,other
+IMPC_GPO_003_001,Placenta Vasculature,other
+IMPC_GPO_004_001,Placenta Size,other
+IMPC_GPO_005_001,Umbilical cord morphology,other
+IMPC_GPO_006_001,Comment on image,other
+IMPC_GPO_007_001,Images,other
+IMPC_GPO_008_001,Experimenter ID,other
+IMPC_GPO_009_001,Equipment ID,other
+IMPC_GPO_010_001,Equipment Manufacturer,other
+IMPC_GPO_011_001,Equipment Model,other
+IMPC_GPO_012_001,Fixative,other
+IMPC_GPO_013_001,Time of Dissection,other
+IMPC_GPO_014_001,Somite Stage,other
+IMPC_GPO_015_001,Time of dark cycle start,other
+IMPC_GPO_016_001,Time of dark cycle end,other
+IMPC_GPO_017_001,Date equipment last calibrated,other
+IMPC_GPO_018_001,Pale placenta,other
+IMPC_CAL_023_001,Room temperature max,other
+IMPC_CAL_024_001,Room temperature min,other
+IMPC_CAL_025_001,Chamber temperature min,other
+IMPC_CAL_026_001,Chamber temperature max,other
+IMPC_CAL_010_002,Time of dark cycle start,other
+IMPC_CAL_020_002,Time of dark cycle end,other
+IMPC_CAL_027_001,Outer dimension of cage,other
+IMPC_CAL_028_001,Inner dimension of cage,other
+IMPC_CAL_029_001,Height from platform to lid assembly,other
+IMPC_CAL_030_001,Available space for mouse,other
+IMPC_CAL_031_001,Infrared beam setting on X axis,other
+IMPC_CAL_032_001,Infrared beam setting on Y axis,other
+IMPC_CAL_033_001,Infrared beam setting on Z axis,other
+IMPC_CAL_034_001,Beam strip placement on exterior of chamber,other
+IMPC_CAL_035_001,Lightbeam wavelength,other
+IMPC_CAL_036_001,Scanning rate,other
+IMPC_CAL_037_001,Refractory period,other
+IMPC_CAL_038_001,Presence of bedding into the cage,other
+IMPC_CAL_039_001,Igloo in cage,other
+IMPC_CAL_040_001,Calibration method,other
+IMPC_CAL_041_001,Acclimation period,other
+IMPC_HIS_350_001,Adrenal gland - MA term,other
+IMPC_HIS_103_002,Adrenal gland - MPATH pathological entity term,other
+IMPC_HIS_105_002,Adrenal gland - MPATH pathological process term,other
+IMPC_HIS_351_001,Bone - MA term,other
+IMPC_HIS_342_002,Bone - MPATH pathological entity term,other
+IMPC_HIS_344_002,Bone - MPATH pathological process term,other
+IMPC_HIS_352_001,Bone marrow - MA term,other
+IMPC_HIS_230_002,Bone marrow - MPATH pathological entity term,other
+IMPC_HIS_232_002,Bone marrow - MPATH pathological process term,other
+IMPC_HIS_353_001,Brain - MA term,Brain
+IMPC_HIS_001_002,Brain - MPATH pathological entity term,Brain
+IMPC_HIS_003_002,Brain - MPATH pathological process term,Brain
+IMPC_HIS_354_001,Brown adipose tissue - MA term,other
+IMPC_HIS_237_002,Brown adipose tissue - MPATH pathological entity term,other
+IMPC_HIS_239_002,Brown adipose tissue - MPATH pathological process term,other
+IMPC_HIS_355_001,Ear - MA term,other
+IMPC_HIS_272_002,Ear - MPATH pathological entity term,other
+IMPC_HIS_274_002,Ear - MPATH pathological process term,other
+IMPC_HIS_356_001,Epididymis - MA term,other
+IMPC_HIS_145_002,Epididymis - MPATH pathological entity term,other
+IMPC_HIS_147_002,Epididymis - MPATH pathological process term,other
+IMPC_HIS_357_001,Esophagus - MA term,other
+IMPC_HIS_043_002,Esophagus - MPATH pathological entity term,other
+IMPC_HIS_045_002,Esophagus - MPATH pathological process term,other
+IMPC_HIS_358_001,Eye - MA term,other
+IMPC_HIS_007_002,Eye - MPATH pathological entity term,other
+IMPC_HIS_009_002,Eye - MPATH pathological process term,other
+IMPC_HIS_359_001,Femur - MA term,other
+IMPC_HIS_223_002,Femur - MPATH pathological entity term,other
+IMPC_HIS_225_002,Femur - MPATH pathological process term,other
+IMPC_HIS_360_001,Gall bladder - MA term,other
+IMPC_HIS_061_002,Gall bladder - MPATH pathological entity term,other
+IMPC_HIS_063_002,Gall bladder - MPATH pathological process term,other
+IMPC_HIS_361_001,Heart - MA term,other
+IMPC_HIS_031_002,Heart - MPATH pathological entity term,other
+IMPC_HIS_033_002,Heart - MPATH pathological process term,other
+IMPC_HIS_362_001,Kidney - MA term,other
+IMPC_HIS_097_002,Kidney - MPATH pathological entity term,other
+IMPC_HIS_099_002,Kidney - MPATH pathological process term,other
+IMPC_HIS_363_001,Knee joint - MA term,other
+IMPC_HIS_251_002,Knee joint - MPATH pathological entity term,other
+IMPC_HIS_253_002,Knee joint - MPATH pathological process term,other
+IMPC_HIS_364_001,Large intestine - MA term,other
+IMPC_HIS_079_002,Large intestine - MPATH pathological entity term,other
+IMPC_HIS_081_002,Large intestine - MPATH pathological process term,other
+IMPC_HIS_365_001,Liver - MA term,other
+IMPC_HIS_055_002,Liver - MPATH pathological entity term,other
+IMPC_HIS_057_002,Liver - MPATH pathological process term,other
+IMPC_HIS_366_001,Lung - MA term,other
+IMPC_HIS_049_002,Lung - MPATH pathological entity term,other
+IMPC_HIS_051_002,Lung - MPATH pathological process term,other
+IMPC_HIS_367_001,Lymph node - MA term,other
+IMPC_HIS_115_002,Lymph node - MPATH pathological entity term,other
+IMPC_HIS_117_002,Lymph node - MPATH pathological process term,other
+IMPC_HIS_368_001,Mammary gland - MA term,other
+IMPC_HIS_109_002,Mammary gland - MPATH pathological entity term,other
+IMPC_HIS_111_002,Mammary gland - MPATH pathological process term,other
+IMPC_HIS_369_001,Nasal cavity - MA term,other
+IMPC_HIS_265_002,Nasal cavity - MPATH pathological entity term,other
+IMPC_HIS_267_002,Nasal cavity - MPATH pathological process term,other
+IMPC_HIS_370_001,Ovary - MA term,other
+IMPC_HIS_163_002,Ovary - MPATH pathological entity term,other
+IMPC_HIS_165_002,Ovary - MPATH pathological process term,other
+IMPC_HIS_371_001,Pancreas - MA term,other
+IMPC_HIS_085_002,Pancreas - MPATH pathological entity term,other
+IMPC_HIS_087_002,Pancreas - MPATH pathological process term,other
+IMPC_HIS_373_001,Pituitary gland - Descriptor PATO,other
+IMPC_HIS_375_001,Pituitary gland - MA term,other
+IMPC_HIS_376_001,Pituitary gland - MPATH pathological entity term,other
+IMPC_HIS_377_001,Pituitary gland - MPATH pathological process term,other
+IMPC_HIS_380_001,Prostate gland - MA term,other
+IMPC_HIS_151_002,Prostate gland - MPATH pathological entity term,other
+IMPC_HIS_153_002,Prostate gland - MPATH pathological process term,other
+IMPC_HIS_381_001,Salivary gland - MA term,other
+IMPC_HIS_209_002,Salivary gland - MPATH pathological entity term,other
+IMPC_HIS_211_002,Salivary gland - MPATH pathological process term,other
+IMPC_HIS_382_001,Sciatic nerve - MA term,other
+IMPC_HIS_293_002,Sciatic nerve - MPATH pathological entity term,other
+IMPC_HIS_295_002,Sciatic nerve - MPATH pathological process term,other
+IMPC_HIS_383_001,Seminal vesicle - MA term,other
+IMPC_HIS_157_002,Seminal vesicle - MPATH pathological entity term,other
+IMPC_HIS_159_002,Seminal vesicle - MPATH pathological process term,other
+IMPC_HIS_384_001,Skeletal muscle - MA term,other
+IMPC_HIS_127_002,Skeletal muscle - MPATH pathological entity term,other
+IMPC_HIS_129_002,Skeletal muscle - MPATH pathological process term,other
+IMPC_HIS_385_001,Skin - MA term,other
+IMPC_HIS_121_002,Skin - MPATH pathological entity term,other
+IMPC_HIS_123_002,Skin - MPATH pathological process term,other
+IMPC_HIS_386_001,Small intestine - MA term,other
+IMPC_HIS_073_002,Small intestine - MPATH pathological entity term,other
+IMPC_HIS_075_002,Small intestine - MPATH pathological process term,other
+IMPC_HIS_387_001,Spinal cord - MA term,other
+IMPC_HIS_013_002,Spinal cord - MPATH pathological entity term,other
+IMPC_HIS_015_002,Spinal cord - MPATH pathological process term,other
+IMPC_HIS_388_001,Spleen - MA term,other
+IMPC_HIS_091_002,Spleen - MPATH pathological entity term,other
+IMPC_HIS_093_002,Spleen - MPATH pathological process term,other
+IMPC_HIS_389_001,Sternum - MA term,other
+IMPC_HIS_216_002,Sternum - MPATH pathological entity term,other
+IMPC_HIS_218_002,Sternum - MPATH pathological process term,other
+IMPC_HIS_390_001,Stomach - MA term,other
+IMPC_HIS_067_002,Stomach - MPATH pathological entity term,other
+IMPC_HIS_069_002,Stomach - MPATH pathological process term,other
+IMPC_HIS_391_001,Testis - MA term,other
+IMPC_HIS_139_002,Testis - MPATH pathological entity term,other
+IMPC_HIS_141_002,Testis - MPATH pathological process term,other
+IMPC_HIS_392_001,Thymus - MA term,other
+IMPC_HIS_019_002,Thymus - MPATH pathological entity term,other
+IMPC_HIS_021_002,Thymus - MPATH pathological process term,other
+IMPC_HIS_393_001,Thyroid - MA term,other
+IMPC_HIS_025_002,Thyroid - MPATH pathological entity term,other
+IMPC_HIS_027_002,Thyroid - MPATH pathological process term,other
+IMPC_HIS_394_001,Tibia - MA term,other
+IMPC_HIS_244_002,Tibia - MPATH pathological entity term,other
+IMPC_HIS_246_002,Tibia - MPATH pathological process term,other
+IMPC_HIS_395_001,Tongue - MA term,other
+IMPC_HIS_286_002,Tongue - MPATH pathological entity term,other
+IMPC_HIS_288_002,Tongue - MPATH pathological process term,other
+IMPC_HIS_396_001,Tooth - MA term,other
+IMPC_HIS_279_002,Tooth - MPATH pathological entity term,other
+IMPC_HIS_281_002,Tooth - MPATH pathological process term,other
+IMPC_HIS_397_001,Trachea - MA term,other
+IMPC_HIS_037_002,Trachea - MPATH pathological entity term,other
+IMPC_HIS_039_002,Trachea - MPATH pathological process term,other
+IMPC_HIS_398_001,Trigeminal V ganglion - MA term,other
+IMPC_HIS_258_002,Trigeminal V ganglion - MPATH pathological entity term,other
+IMPC_HIS_260_002,Trigeminal V ganglion - MPATH pathological process term,other
+IMPC_HIS_399_001,Urinary bladder - MA term,other
+IMPC_HIS_133_002,Urinary bladder - MPATH pathological entity term,other
+IMPC_HIS_135_002,Urinary bladder - MPATH pathological process term,other
+IMPC_HIS_400_001,Uterus - MA term,other
+IMPC_HIS_169_002,Uterus - MPATH pathological entity term,other
+IMPC_HIS_171_002,Uterus - MPATH pathological process term,other
+IMPC_HIS_402_001,White adipose tissue - Descriptor PATO,other
+IMPC_HIS_404_001,White adipose tissue - MA term,other
+IMPC_HIS_405_001,White adipose tissue - MPATH pathological entity term,other
+IMPC_HIS_406_001,White adipose tissue - MPATH pathological process term,other
+IMPC_HIS_345_002,Bone - Severity score,other
+IMPC_HIS_348_002,Bone - Significance score,other
+IMPC_HIS_372_001,Pituitary gland - Description,other
+IMPC_HIS_374_001,Pituitary gland - Free text diagnostic term,other
+IMPC_HIS_378_001,Pituitary gland - Severity score,other
+IMPC_HIS_379_001,Pituitary gland - Significance score,other
+IMPC_HIS_247_002,Tibia - Severity score,other
+IMPC_HIS_401_001,White adipose tissue - Description,other
+IMPC_HIS_403_001,White adipose tissue - Free text diagnostic term,other
+IMPC_HIS_407_001,White adipose tissue - Severity score,other
+IMPC_HIS_408_001,White adipose tissue - Significance score,other
+IMPC_HIS_409_001,Subcutaneous adipose tissue - Description,other
+IMPC_HIS_410_001,Subcutaneous adipose tissue - Descriptor PATO,other
+IMPC_HIS_411_001,Subcutaneous adipose tissue - Free text diagnostic term,other
+IMPC_HIS_412_001,Subcutaneous adipose tissue - MA term,other
+IMPC_HIS_413_001,Subcutaneous adipose tissue - MPATH pathological entity term,other
+IMPC_HIS_414_001,Subcutaneous adipose tissue - MPATH pathological process term,other
+IMPC_HIS_415_001,Subcutaneous adipose tissue - Severity score,other
+IMPC_HIS_416_001,Subcutaneous adipose tissue - Significance score,other
+IMPC_HIS_417_001,Optic II nerve - Description,other
+IMPC_HIS_418_001,Optic II nerve - Descriptor PATO,other
+IMPC_HIS_419_001,Optic II nerve - Free text diagnostic term,other
+IMPC_HIS_420_001,Optic II nerve - MA term,other
+IMPC_HIS_421_001,Optic II nerve - MPATH pathological entity term,other
+IMPC_HIS_422_001,Optic II nerve - MPATH pathological process term,other
+IMPC_HIS_423_001,Optic II nerve - Severity score,other
+IMPC_HIS_424_001,Optic II nerve - Significance score,other
+IMPC_HIS_425_001,Date of sacrifice,other
+IMPC_YMZ_001_001,Latency to leave start arm,other
+IMPC_YMZ_002_001,Total arm entries,other
+IMPC_YMZ_003_001,Number of triplets,other
+IMPC_YMZ_004_001,Number of spontaneous alternations,other
+IMPC_YMZ_005_001,Alternation ratio per number of triplets,other
+IMPC_YMZ_006_001,Number of alternate arm entries,other
+IMPC_YMZ_007_001,Alternate arm entry ratio per number of triplets,other
+IMPC_YMZ_008_001,Number of same arm entries by number of doublets,other
+IMPC_YMZ_009_001,Same arm entry ratio per total arm entries,other
+IMPC_YMZ_010_001,Feacal boli (count),other
+IMPC_YMZ_011_001,Acclimatisation time (minimum),other
+IMPC_YMZ_012_001,Arm dimensions,other
+IMPC_YMZ_013_001,Light level,other
+IMPC_YMZ_015_001,Placement in start arm,other
+IMPC_YMZ_016_001,Cleaning agent/disinfectant,other
+IMPC_YMZ_017_001,Tracking method,other
+IMPC_YMZ_018_001,Scoring method,other
+IMPC_YMZ_019_001,Duration at centre prior to arm re-entry,other
+IMPC_YMZ_020_001,Experimenter ID,other
+IMPC_YMZ_021_001,Maze ID,other
+IMPC_YMZ_022_001,Maze manufacturer,other
+IMPC_YMZ_023_001,Maze model,other
+IMPC_YMZ_024_001,Tracking equipment ID,other
+IMPC_YMZ_025_001,Tracking equipment manufacturer,other
+IMPC_YMZ_026_001,Tracking equipment model,other
+IMPC_YMZ_027_001,Date tracking equipment last calibrated,other
+IMPC_YMZ_028_001,Software,other
+IMPC_YMZ_029_001,Alternating start arm,other
+IMPC_LDT_001_001,Side changes,other
+IMPC_LDT_002_001,Light side time spent,other
+IMPC_LDT_003_001,Time mobile light side,other
+IMPC_LDT_004_001,Dark side time spent,other
+IMPC_LDT_005_001,Time mobile dark side,other
+IMPC_LDT_006_001,Latency to first transition into dark,other
+IMPC_LDT_009_001,Transition,other
+IMPC_LDT_010_001,Light side distance travelled,other
+IMPC_LDT_011_001,Dark side distance travelled,other
+IMPC_LDT_012_001,Vertical activity (rearing),other
+IMPC_LDT_013_001,Horizontal activity,other
+IMPC_LDT_014_001,Repetitive beam break ('stereotypy counts'),other
+IMPC_LDT_015_001,Total distance travelled,other
+IMPC_LDT_016_001,Light level light chamber,other
+IMPC_LDT_017_001,Light level dark chamber,other
+IMPC_LDT_018_001,Experimenter ID,other
+IMPC_LDT_019_001,Start time,other
+IMPC_LDT_020_001,Arena ID,other
+IMPC_LDT_021_001,Arena version,other
+IMPC_LDT_022_001,Equipment ID,other
+IMPC_LDT_023_001,Equipment manufacturer,other
+IMPC_LDT_024_001,Equipment model,other
+IMPC_LDT_025_001,Disinfectant,other
+IMPC_LDT_026_001,Starting position,other
+IMPC_LDT_027_001,Light-Dark box's walls opaque,other
+IMPC_LDT_028_001,Light-Dark box set-up,other
+IMPC_LDT_029_001,Light side arena dimensions (L x W x H in mm),other
+IMPC_LDT_030_001,Dark side arena dimensions (L x W x H in mm),other
+IMPC_LDT_031_001,Entry way dimensions (L x W x H in mm),other
+IMPC_LDT_032_001,Time spent in the light side in the first 5 minutes,other
+IMPC_LDT_033_001,Test duration,other
+IMPC_LDT_034_001,Software version,other
+IMPC_HEM_022_001,Date of measurement,other
+IMPC_GPP_001_001,Placenta Development,other
+IMPC_GPP_002_001,Placenta Morphology,other
+IMPC_GPP_003_001,Placenta Vasculature,other
+IMPC_GPP_004_001,Placenta Size,other
+IMPC_GPP_005_001,Umbilical cord morphology,other
+IMPC_GPP_006_001,Comment on image,other
+IMPC_GPP_007_001,Images,other
+IMPC_GPP_008_001,Experimenter ID,other
+IMPC_GPP_009_001,Equipment ID,other
+IMPC_GPP_010_001,Equipment Manufacturer,other
+IMPC_GPP_011_001,Equipment Model,other
+IMPC_GPP_012_001,Fixative,other
+IMPC_GPP_013_001,Time of Dissection,other
+IMPC_GPP_014_001,Somite Stage,other
+IMPC_GPP_015_001,Time of dark cycle start,other
+IMPC_GPP_016_001,Time of dark cycle end,other
+IMPC_GPP_017_001,Date equipment last calibrated,other
+IMPC_GPP_018_001,Placenta color,other
+IMPC_VIA_001_001,Viability Outcome,other
+IMPC_VIA_002_001,Additional Outcome,other
+IMPC_VIA_003_001,Total pups,other
+IMPC_VIA_004_001,Total pups WT,other
+IMPC_VIA_005_001,Total pups heterozygous,other
+IMPC_VIA_006_001,Total pups homozygous,other
+IMPC_VIA_007_001,Total male WT,other
+IMPC_VIA_008_001,Total male heterozygous,other
+IMPC_VIA_009_001,Total male homozygous,other
+IMPC_VIA_010_001,Total male pups,other
+IMPC_VIA_011_001,Total female WT,other
+IMPC_VIA_012_001,Total female heterozygous,other
+IMPC_VIA_013_001,Total female homozygous,other
+IMPC_VIA_014_001,Total female pups,other
+IMPC_VIA_015_001,% pups WT,other
+IMPC_VIA_016_001,Free Comment,other
+IMPC_VIA_017_001,Average litter size,other
+IMPC_VIA_018_001,% pups heterozygous,other
+IMPC_VIA_019_001,% pups homozygous,other
+IMPC_VIA_020_001,% male WT,other
+IMPC_VIA_021_001,% male heterozygous,other
+IMPC_VIA_022_001,% male homozygous,other
+IMPC_VIA_023_001,% female WT,other
+IMPC_VIA_024_001,% female heterozygous,other
+IMPC_VIA_025_001,% female homozygous,other
+IMPC_VIA_028_001,Time of dark cycle start,other
+IMPC_VIA_029_001,Time of dark cycle end,other
+IMPC_VIA_031_001,Breeding Strategy,other
+IMPC_VIA_032_001,P-value for outcome call,other
+IMPC_VIA_033_001,Additional Subviable Outcome,other
+IMPC_WEL_001_001,Welfare terms,other
+IMPC_WEL_002_001,Free-text comments,other
+IMPC_WEL_003_001,Images,other
+IMPC_WEL_004_001,Date of observation,other
+IMPC_WEL_005_001,Animal Status,other
+IMPC_EOL_001_001,Embryo reconstruction,other
+IMPC_EOL_002_001,Experimenter ID,other
+IMPC_EOL_003_001,Equipment ID,other
+IMPC_EOL_004_001,Equipment Manufacturer,other
+IMPC_EOL_005_001,Equipment Model,other
+IMPC_EOL_006_001,Image Pixel Size,other
+IMPC_EOL_007_001,E9.5 OPT preperation protocol,other
+IMPC_EOL_008_001,Date equipment last calibrated,other
+IMPC_EOL_009_001,Date of Sacrifice,other
+IMPC_EOL_010_001,Date Preparation Finished,other
+IMPC_EOL_011_001,Date of Scan,other
+IMPC_EOL_012_001,Screenshots,other
+IMPC_EMO_001_001,Embryo reconstruction,other
+IMPC_EMO_002_001,Experimenter ID,other
+IMPC_EMO_003_001,Equipment ID,other
+IMPC_EMO_004_001,Equipment Manufacturer,other
+IMPC_EMO_005_001,Equipment Model,other
+IMPC_EMO_006_001,Equipment Version,other
+IMPC_EMO_007_001,Image Pixel Size,other
+IMPC_EMO_008_001,E14.5-E15.5 MicroCT Preparation protocol,other
+IMPC_EMO_009_001,Object to Source,other
+IMPC_EMO_010_001,Camera to Source,other
+IMPC_EMO_011_001,Date equipment last calibrated,other
+IMPC_EMO_012_001,Date of Sacrifice,other
+IMPC_EMO_013_001,Date Preparation Finished,other
+IMPC_EMO_014_001,Date of Scan,other
+IMPC_EMO_015_001,Source Voltage,other
+IMPC_EMO_016_001,Source Current,other
+IMPC_EMO_017_002,Screenshots,other
+IMPC_EMO_018_001,3rd ventricle,other
+IMPC_EMO_019_001,Median sulcus,other
+IMPC_EMO_020_001,4th ventricle,other
+IMPC_EMO_021_001,Adrenal gland,other
+IMPC_EMO_022_001,Aorta,other
+IMPC_EMO_023_001,Arch of aorta,other
+IMPC_EMO_024_001,Heart atrium,other
+IMPC_EMO_025_001,basioccipital bone,other
+IMPC_EMO_026_001,Bladder,other
+IMPC_EMO_027_001,Bronchus,other
+IMPC_EMO_028_001,Brown fat,other
+IMPC_EMO_029_001,Dorsal root ganglia,other
+IMPC_EMO_030_001,Carotid artery,other
+IMPC_EMO_031_001,Cerbral aqueduct,other
+IMPC_EMO_032_001,Cerebellum,other
+IMPC_EMO_033_001,4th ventricle choroid plexus,other
+IMPC_EMO_034_001,lateral ventricle choroid plexus,other
+IMPC_EMO_035_001,Clavicle,other
+IMPC_EMO_036_001,Cochlea,other
+IMPC_EMO_037_001,Cerebral cortex,other
+IMPC_EMO_038_001,Ductus arteriosus,other
+IMPC_EMO_039_001,Diaphragm,other
+IMPC_EMO_040_001,Diencephalon,other
+IMPC_EMO_041_001,Limb digit,other
+IMPC_EMO_042_001,Dorsal aorta,other
+IMPC_EMO_043_001,Duodenum,other
+IMPC_EMO_044_001,Ejaculatory duct,other
+IMPC_EMO_045_001,Spinal cord cervical region,other
+IMPC_EMO_046_001,Epiglottis,other
+IMPC_EMO_047_001,Esophagus,other
+IMPC_EMO_048_001,Pharyngo-tympanic tube,other
+IMPC_EMO_049_001,Exoccipital bone,other
+IMPC_EMO_050_001,Eyelid,other
+IMPC_EMO_051_001,Femur,other
+IMPC_EMO_052_001,Fibula,other
+IMPC_EMO_053_001,T1 rib,other
+IMPC_EMO_054_001,Soft palate,other
+IMPC_EMO_055_001,Palate,other
+IMPC_EMO_056_001,Gallbladder,other
+IMPC_EMO_057_001,Gluteus maximus ,other
+IMPC_EMO_058_001,Hepatic duct,other
+IMPC_EMO_059_001,Midgut,other
+IMPC_EMO_060_001,herniated abdominal wall,other
+IMPC_EMO_061_001,Hindbrain,Brain
+IMPC_EMO_062_001,Hindgut,other
+IMPC_EMO_063_001,Hip,other
+IMPC_EMO_064_001,Hippocampus,other
+IMPC_EMO_065_001,Humerus,other
+IMPC_EMO_066_001,Hyaloid cavity,other
+IMPC_EMO_067_001,Hyoid bone,other
+IMPC_EMO_068_001,Hypothalamus,other
+IMPC_EMO_069_001,Inferior vena cava ,other
+IMPC_EMO_070_001,Pituitary gland,other
+IMPC_EMO_071_001,Pigmented retinal epiithelium,other
+IMPC_EMO_072_001,Innominate artery,other
+IMPC_EMO_073_001,Interventricular septum,other
+IMPC_EMO_074_001,Intraretinal space,other
+IMPC_EMO_075_001,Vomeronasal organ,other
+IMPC_EMO_076_001,Jejunum,other
+IMPC_EMO_077_001,Jugular lymph sac,other
+IMPC_EMO_078_001,Kidney,other
+IMPC_EMO_079_001,Kidney pelvis,other
+IMPC_EMO_080_001,Renal cortex,other
+IMPC_EMO_081_001,Renal medulla,other
+IMPC_EMO_082_001,Larynx,other
+IMPC_EMO_083_001,Lateral ventricle,other
+IMPC_EMO_084_001,Lens,other
+IMPC_EMO_085_001,Limb muscle,other
+IMPC_EMO_086_001,Liver,other
+IMPC_EMO_087_001,Liver lobe,other
+IMPC_EMO_088_001,Liver caudate lobe,other
+IMPC_EMO_089_001,Ductus venosus,other
+IMPC_EMO_090_001,Liver left lobe,other
+IMPC_EMO_091_001,Liver right lobe,other
+IMPC_EMO_092_001,Lower jaw molar,other
+IMPC_EMO_093_001,Right lung cranial lobe,other
+IMPC_EMO_094_001,Right lung accessory lobe,other
+IMPC_EMO_095_001,Right lung caudal lobe,other
+IMPC_EMO_096_001,Left lung,other
+IMPC_EMO_097_001,Right lung middle lobe,other
+IMPC_EMO_098_001,Mandible,other
+IMPC_EMO_099_001,Masseter,other
+IMPC_EMO_100_001,Meckel's cartilage,other
+IMPC_EMO_101_001,Medulla oblongata,other
+IMPC_EMO_102_001,Midbrain,Brain
+IMPC_EMO_103_001,Midbrain roof plate,Brain
+IMPC_EMO_104_001,Mitral valve,other
+IMPC_EMO_105_001,Nasal capsule,other
+IMPC_EMO_106_001,Nasal cavity,other
+IMPC_EMO_107_001,Nasal septum,other
+IMPC_EMO_108_001,Nasopharynx,other
+IMPC_EMO_109_001,Neural retina,other
+IMPC_EMO_110_001,Olfactory epithelium,other
+IMPC_EMO_111_001,Olfactory lobe,other
+IMPC_EMO_112_001,Optic nerve,other
+IMPC_EMO_113_001,Oropharynx,other
+IMPC_EMO_114_001,Oral cavity,other
+IMPC_EMO_115_001,Ovary,other
+IMPC_EMO_116_001,Palatal shelf,other
+IMPC_EMO_117_001,Pancreas,other
+IMPC_EMO_118_001,Parathyroid gland,other
+IMPC_EMO_119_001,Penis,other
+IMPC_EMO_120_001,Pericardial cavity,other
+IMPC_EMO_121_001,Pericardium,other
+IMPC_EMO_122_001,Peritoneal cavity,other
+IMPC_EMO_123_001,Pineal primordium,other
+IMPC_EMO_124_001,Pinna,other
+IMPC_EMO_125_001,Pons,other
+IMPC_EMO_126_001,Portal vein,other
+IMPC_EMO_127_001,Primary palate,other
+IMPC_EMO_128_001,Pulmonary artery,other
+IMPC_EMO_129_001,Quadriceps muscle ,other
+IMPC_EMO_130_001,Radius,other
+IMPC_EMO_131_001,Rathke's pouch,other
+IMPC_EMO_132_001,Rectum,other
+IMPC_EMO_133_001,Rib,other
+IMPC_EMO_134_001,S1 vertebral cartilage condensation,other
+IMPC_EMO_135_001,Scapula,other
+IMPC_EMO_136_001,Semicircular canal,other
+IMPC_EMO_137_001,Small intestine,other
+IMPC_EMO_138_001,Sphenoid bone,other
+IMPC_EMO_139_001,Spinal cord,other
+IMPC_EMO_140_001,Spinal cord central canal,other
+IMPC_EMO_141_001,Spleen primordium,other
+IMPC_EMO_142_001,Sternum,other
+IMPC_EMO_143_001,Stomach,other
+IMPC_EMO_144_001,Stomach lumen,other
+IMPC_EMO_145_001,Stomach wall,other
+IMPC_EMO_146_001,Stomach fundus,other
+IMPC_EMO_147_001,Stomach pyloric region,other
+IMPC_EMO_148_001,Subclavian artery,other
+IMPC_EMO_149_001,Submandibular gland,other
+IMPC_EMO_150_001,Tail,other
+IMPC_EMO_151_001,Nucleus pulposus,other
+IMPC_EMO_152_001,Temporal bone,other
+IMPC_EMO_153_001,Testis,other
+IMPC_EMO_154_001,Thalamus,other
+IMPC_EMO_155_001,Descending aorta,other
+IMPC_EMO_156_001,Thymus,other
+IMPC_EMO_157_001,Thyroid gland,other
+IMPC_EMO_158_001,Tibia,other
+IMPC_EMO_159_001,Tongue,other
+IMPC_EMO_160_001,Trachea,other
+IMPC_EMO_161_001,Tricuspid valve,other
+IMPC_EMO_162_001,Trigeminal V ganglion,other
+IMPC_EMO_163_001,Ulna,other
+IMPC_EMO_164_001,Upper jaw incisor,other
+IMPC_EMO_165_001,Upper jaw molar,other
+IMPC_EMO_166_001,Urethra,other
+IMPC_EMO_167_001,Vagal trunk,other
+IMPC_EMO_168_001,Vena cava,other
+IMPC_EMO_169_001,Heart ventricle,other
+IMPC_EMO_170_001,Vertebra,other
+IMPC_EMO_171_001,Vibrissa,other
+IMPC_EMO_172_001,Oedema,other
+IMPC_EMO_173_001,physiological umbilical hernia morphology,other
+IMPC_EMO_174_001,Cervical flexure morphology,other
+IMPC_EMO_175_001,Size,other
+IMPC_EMO_176_001,Spine curvature,other
+IMPC_EMO_177_001,Craniofacial morphology,other
+IMPC_EMO_178_001,Annotator ID,other
+IMPC_EMO_179_001,Date of Annotation,other
+IMPC_CBC_047_001,Date of measurement,other
+IMPC_CBC_060_001,Reagent manufacturer,other
+IMPC_CSD_035_001,Touch escape,other
+IMPC_EMO_017_001,Screenshots,other
+IMPC_IMM_001_002,Spleen weight,Weight
+IMPC_IMM_002_002,Live leukocytes (Panel A) -  % of total events,other
+IMPC_IMM_003_002,T cells (Panel A) - % of live leukocytes (Panel A),other
+IMPC_IMM_004_002,NKT cells (panel A) - % of live leukocytes (Panel A),other
+IMPC_IMM_007_002,CD4 T cells - % of live leukocytes (Panel A),other
+IMPC_IMM_008_002,CD8+ T cells - % of live leukocytes (Panel A),other
+IMPC_IMM_011_002,CD4+ NKT cells - % of live leukocytes (Panel A),other
+IMPC_IMM_013_002,CD4- NKT cells - % of live leukocytes (Panel A),other
+IMPC_IMM_014_002,Treg cells - % of live leukocytes (Panel A),other
+IMPC_IMM_015_002,CD4+ T helper cells - % of live leukocytes (Panel A),other
+IMPC_IMM_026_002,Total events (Panel A),other
+IMPC_IMM_027_002,Total events (Panel B),other
+IMPC_IMM_028_002,Effector CD4+ T helper cells - % of live leukocytes (Panel A),other
+IMPC_IMM_029_002,Resting CD4+ T helper cells - % of live leukocytes (Panel A),other
+IMPC_IMM_032_002,Effector CD8+ T cells - % of live leukocytes (Panel A),other
+IMPC_IMM_033_002,NaÃÂ¯ve CD8+ T cells - % of live leukocytes (Panel A),other
+IMPC_IMM_034_002,Resting CD8+ T cells - % of live leukocytes (Panel A),other
+IMPC_IMM_040_002,Effector CD4+ NKT cells - % of live leukocytes (Panel A),other
+IMPC_IMM_041_002,Resting CD4+ NKT cells - % of live leukocytes (Panel A),other
+IMPC_IMM_046_002,Effector CD4- NKT cells - % of live leukocytes (Panel A),other
+IMPC_IMM_047_002,Resting CD4- NKT cells - % of live leukocytes (Panel A),other
+IMPC_IMM_049_002,Live leukocytes (Panel B) -  % of total events (Panel B),other
+IMPC_IMM_050_002,Granulocytes - % of live leukocytes (Panel B),other
+IMPC_IMM_051_002,Monocytes - % of live leukocytes (Panel B),other
+IMPC_IMM_052_002,Eosinophils - % of live leukocytes (Panel B),other
+IMPC_IMM_053_002,NK cells (Panel B) - % of live leukocytes (Panel B),other
+IMPC_IMM_054_002,Ly6C+ CD11b- NK cells - % of live leukocytes (Panel B),other
+IMPC_IMM_055_002,Ly6C+ CD11b+ NK cells - % of live leukocytes (Panel B),other
+IMPC_IMM_056_002,CD11b- NK cells - % of live leukocytes (Panel B),other
+IMPC_IMM_057_002,CD11b+ NK cells - % of live leukocytes (Panel B),other
+IMPC_IMM_058_002,NKT cells (panel B) - % of live leukocytes (Panel B),other
+IMPC_IMM_059_002,Ly6C+ NKT cells - % of live leukocytes (Panel B),other
+IMPC_IMM_061_002,T cells (panel B) - % of live leukocytes (Panel B),other
+IMPC_IMM_063_002,B cells - % of live leukocytes (Panel B),other
+IMPC_IMM_067_002,Follicular B cells  - % of B cells (Panel B),other
+IMPC_IMM_071_002,Marginal zone B cells  - % of B cells (Panel B),other
+IMPC_IMM_072_002,Conventional DC - % of live leukocytes (Panel B),other
+IMPC_IMM_074_002,Plasmacytoid DC- % of live leukocytes (Panel B),other
+IMPC_IMM_075_002,Macrophages- % of live leukocytes (Panel B),other
+IMPC_IMM_077_002,Equipment name,other
+IMPC_IMM_078_002,Equipment manufacturer,other
+IMPC_IMM_079_002,Equipment model,other
+IMPC_IMM_080_002,CS&T Bead lot,other
+IMPC_IMM_081_002,Anesthesia,other
+IMPC_IMM_082_002,Cell digestion,other
+IMPC_IMM_083_002,Cell digestion agent,other
+IMPC_IMM_084_002,Cell digestion agent manufacturer,other
+IMPC_IMM_085_002,Cell digestion agent catalog number,other
+IMPC_IMM_086_002,Cell counting performed,other
+IMPC_IMM_087_002,Cell counting equipment manufacturer,other
+IMPC_IMM_088_002,Cell counting equipment model,other
+IMPC_IMM_089_002,Cell counting equipment name,other
+IMPC_IMM_090_002,Cell lysis buffer manufacturer,other
+IMPC_IMM_091_002,Cell lysis buffer catalog number,other
+IMPC_IMM_092_002,Date and time of sacrifice,other
+IMPC_IMM_093_002,Date and time of sample preparation,other
+IMPC_IMM_094_002,Sample storage temperature until analysis (in Celsius),other
+IMPC_IMM_095_002,FCS repository reference (URL/ID),other
+IMPC_IMM_096_002,Balanced salt solution type,other
+IMPC_IMM_097_002,Balanced salt solution manufacturer,other
+IMPC_IMM_098_002,Balanced salt solution catalog number,other
+IMPC_IMM_099_002,RPMI manufacturer,other
+IMPC_IMM_100_002,RPMI catalog number,other
+IMPC_IMM_101_002,DNAse I manufacturer,other
+IMPC_IMM_102_002,DNAse I catalog number,other
+IMPC_IMM_103_002,Dead cell exclusion dye,other
+IMPC_IMM_104_002,Dead cell exclusion dye manufacturer,other
+IMPC_IMM_105_002,Dead cell exclusion dye catalog number,other
+IMPC_IMM_106_002,Cell digestion temperature (in Celsius),other
+IMPC_IMM_107_002,Panel A FCS file(s),other
+IMPC_IMM_108_002,Panel B FCS file(s),other
+IMPC_IMM_109_002,Automated analysis,other
+IMPC_IMM_110_002,Collection buffer manufacturer,other
+IMPC_IMM_111_002,Collection buffer catalog number number,other
+IMPC_IMM_112_002,FACS buffer manufacturer,other
+IMPC_IMM_113_002,FACS buffer catalog number,other
+IMPC_IMM_114_002,Enzyme buffer manufacturer,other
+IMPC_IMM_115_002,Enzyme buffer catalog number,other
+IMPC_IMM_116_001,Total spleen leukocyte count,other
+IMPC_IMM_117_001,Clog- events (Panel A),other
+IMPC_IMM_118_001,FSC/SSC Singlets (Panel A),other
+IMPC_IMM_119_001,Effector NK cells - % of live leukocytes (Panel A),other
+IMPC_IMM_120_001,Effector Treg cells - % of live leukocytes (Panel A),other
+IMPC_IMM_121_001,Effector γδ T cells - % of live leukocytes (Panel A),other
+IMPC_IMM_122_001,Klrg1+ CD4- NKT cells - % of live leukocytes (Panel A),other
+IMPC_IMM_123_001,Klrg1+ CD4+ NKT cells - % of live leukocytes (Panel A),other
+IMPC_IMM_124_001,Klrg1+ CD4+ T helper cells - % of live leukocytes (Panel A),other
+IMPC_IMM_125_001,Klrg1+ CD8 T cells - % of live leukocytes (Panel A),other
+IMPC_IMM_126_001,Klrg1+ NK cells - % of live leukocytes (Panel A),other
+IMPC_IMM_127_001,Klrg1+ Treg cells - % of live leukocytes (Panel A),other
+IMPC_IMM_128_001,Klrg1+ γδ T cells - % of live leukocytes (Panel A),other
+IMPC_IMM_129_001,Resting NK cells - % of live leukocytes (Panel A),other
+IMPC_IMM_130_001,Resting Treg cells - % of live leukocytes (Panel A),other
+IMPC_IMM_131_001,Resting γδ T cells - % of live leukocytes (Panel A),other
+IMPC_IMM_132_001,αβ T cells - % of live leukocytes (Panel A),other
+IMPC_IMM_133_001,γδ T cells - % of live leukocytes (Panel A),other
+IMPC_IMM_134_001,CD4- NKT cells - % of NKT cells (Panel A),other
+IMPC_IMM_135_001,CD4+ NKT cells - % of NKT cells (Panel A),other
+IMPC_IMM_136_001,CD4+ T cells - % of T cells,other
+IMPC_IMM_137_001,CD4+ T helper cells - % of CD4 T cells,other
+IMPC_IMM_138_001,CD8+ T cells - % of T cells,other
+IMPC_IMM_139_001,Effector CD4- NKT cells  - % of CD4- NKT cells,other
+IMPC_IMM_140_001,Effector CD4+ NKT cells  - % of CD4+ NKT cells,other
+IMPC_IMM_141_001,Effector CD4+ T helper cells - % of CD4+ T helper cells,other
+IMPC_IMM_142_001,Effector CD8+ T cells - % of CD8+ T cells,other
+IMPC_IMM_143_001,Effector NK cells - % of NK cells (Panel A),other
+IMPC_IMM_144_001,Effector Treg cells - % of Treg cells,other
+IMPC_IMM_145_001,Effector γδ T cells - % of γδ T cells,other
+IMPC_IMM_146_001,Klrg1+ CD4- NKT cells  - % of CD4- NKT cells,other
+IMPC_IMM_147_001,Klrg1+ CD4+ NKT cells  - % of CD4+ NKT cells,other
+IMPC_IMM_148_001,Klrg1+ CD4+ T helper cells  - % of CD4+ T helper cells,other
+IMPC_IMM_149_001,Klrg1+ CD8 T cells - % of CD8+ T cells,other
+IMPC_IMM_150_001,Klrg1+ NK cells - % of NK cells (Panel A),other
+IMPC_IMM_151_001,Klrg1+ Treg cells - % of Treg cells,other
+IMPC_IMM_152_001,Klrg1+ γδ T cells - % of γδ T cells,other
+IMPC_IMM_153_001,Naïve CD8+ T cells - % of CD8+ T cells,other
+IMPC_IMM_154_001,Resting CD4- NKT cells  - % of CD4- NKT cells,other
+IMPC_IMM_155_001,Resting CD4+ NKT cells  - % of CD4+ NKT cells,other
+IMPC_IMM_156_001,Resting CD4+ T helper cells  - % of CD4+ T helper cells,other
+IMPC_IMM_157_001,Resting CD8+ T cells - % of CD8+ T cells,other
+IMPC_IMM_158_001,Resting NK cells - % of NK cells (Panel A),other
+IMPC_IMM_159_001,Resting Treg cells - % of Treg cells,other
+IMPC_IMM_160_001,Resting γδ T cells - % of γδ T cells,other
+IMPC_IMM_161_001,Treg cells - % of CD4 T cells,other
+IMPC_IMM_162_001,Clog- events (Panel B),other
+IMPC_IMM_163_001,FSC/SSC Singlets (Panel B),other
+IMPC_IMM_164_001,B1a cells  - % of B cells (Panel B),other
+IMPC_IMM_165_001,B1b cells  - % of B cells (Panel B),other
+IMPC_IMM_166_001,CD11b-high cDC - % of conventional DC (Panel B),other
+IMPC_IMM_167_001,CD11b-low cDC - % of conventional DC (Panel B),other
+IMPC_IMM_168_001,CD161+ B cells - % of live leukocytes (Panel B),other
+IMPC_IMM_169_001,Transitional 1 B cells  - % of B cells (Panel B),other
+IMPC_IMM_170_001,Transitional 2 B cells  - % of B cells (Panel B),other
+IMPC_IMM_171_001,CD11b- NK cells - % of NK cells (Panel B),other
+IMPC_IMM_172_001,CD11b+ NK cells - % of NK cells (Panel B),other
+IMPC_IMM_173_001,CD161+ B cells - % of B cells,other
+IMPC_IMM_174_001,Follicular B cells  - % of B cells,other
+IMPC_IMM_175_001,Ly6C+ CD11b- NK cells - % of NK cells (Panel B),other
+IMPC_IMM_176_001,Ly6C+ CD11b+ NK cells - % of NK cells (Panel B),other
+IMPC_IMM_177_001,Ly6C+ NKT cells - % of NKT cells (Panel B),other
+IMPC_IMM_178_001,Marginal zone B cells  - % of B cells,other
+IMPC_IMM_179_001,Transitional 1 Bcells  - % of B cells,other
+IMPC_IMM_180_001,Transitional 2 B cells  - % of B cells,other
+IMPC_IMM_181_001,T cells (Panel A) - cell count,other
+IMPC_IMM_182_001,αβ T cells - cell count,other
+IMPC_IMM_183_001,CD8+ T cells - cell count,other
+IMPC_IMM_184_001,Effector CD8+ T cells - cell count,other
+IMPC_IMM_185_001,Resting CD8+ T cells - cell count,other
+IMPC_IMM_186_001,Naïve CD8+ T cells - cell count,other
+IMPC_IMM_187_001,Klrg1+ CD8 T cells - cell count,other
+IMPC_IMM_188_001,CD4 T cells - cell count,other
+IMPC_IMM_189_001,CD4+ T helper cells - cell count,other
+IMPC_IMM_190_001,Effector CD4+ T helper cells - cell count,other
+IMPC_IMM_191_001,Resting CD4+ T helper cells - cell count,other
+IMPC_IMM_192_001,Klrg1+ CD4+ T helper cells - cell count,other
+IMPC_IMM_193_001,Treg cells - cell count,other
+IMPC_IMM_194_001,Effector Treg cells - cell count,other
+IMPC_IMM_195_001,Resting Treg cells - cell count,other
+IMPC_IMM_196_001,Klrg1+ Treg cells - cell count,other
+IMPC_IMM_197_001,γδ T cells - cell count,other
+IMPC_IMM_198_001,Effector γδ T cells - cell count,other
+IMPC_IMM_199_001,Resting γδ T cells - cell count,other
+IMPC_IMM_200_001,Klrg1+ γδ T cells - cell count,other
+IMPC_IMM_201_001,NKT cells (panel A) - cell count,other
+IMPC_IMM_202_001,CD4+ NKT cells - cell count,other
+IMPC_IMM_203_001,Effector CD4+ NKT cells - cell count,other
+IMPC_IMM_204_001,Resting CD4+ NKT cells - cell count,other
+IMPC_IMM_205_001,Klrg1+ CD4+ NKT cells - cell count,other
+IMPC_IMM_206_001,CD4- NKT cells - cell count,other
+IMPC_IMM_207_001,Effector CD4- NKT cells - cell count,other
+IMPC_IMM_208_001,Resting CD4- NKT cells - cell count,other
+IMPC_IMM_209_001,Klrg1+ CD4- NKT cells - cell count,other
+IMPC_IMM_210_001,NK cells (Panel A) - cell count,other
+IMPC_IMM_211_001,Effector NK cells - cell count,other
+IMPC_IMM_212_001,Resting NK cells - cell count,other
+IMPC_IMM_213_001,Klrg1+ NK cells - cell count,other
+IMPC_IMM_214_001,T cells (panel B) - cell count,other
+IMPC_IMM_215_001,NKT cells (panel B) - cell count,other
+IMPC_IMM_216_001,Ly6C+ NKT cells - cell count,other
+IMPC_IMM_217_001,NK cells (Panel B) - cell count,other
+IMPC_IMM_218_001,CD11b- NK cells - cell count,other
+IMPC_IMM_219_001,Ly6C+ CD11b- NK cells - cell count,other
+IMPC_IMM_220_001,CD11b+ NK cells - cell count,other
+IMPC_IMM_221_001,Ly6C+ CD11b+ NK cells - cell count,other
+IMPC_IMM_222_001,B cells - cell count,other
+IMPC_IMM_223_001,B1a cells - cell count,other
+IMPC_IMM_224_001,B1b cells - cell count,other
+IMPC_IMM_225_001,Follicular B cells - cell count,other
+IMPC_IMM_226_001,Marginal zone B cells - cell count,other
+IMPC_IMM_227_001,Transitional 1 B cells - cell count,other
+IMPC_IMM_228_001,Transitional 2 B cells - cell count,other
+IMPC_IMM_229_001,CD161+ B cells - cell count,other
+IMPC_IMM_230_001,Conventional DC - cell count,other
+IMPC_IMM_231_001,CD11b-low cDC - cell count,other
+IMPC_IMM_232_001,CD11b-high cDC - cell count,other
+IMPC_IMM_233_001,Plasmacytoid DC - cell count,other
+IMPC_IMM_234_001,Macrophages - cell count,other
+IMPC_IMM_235_001,Monocytes - cell count,other
+IMPC_IMM_236_001,Granulocytes - cell count,other
+IMPC_IMM_237_001,Eosinophils - cell count,other
+IMPC_IMM_238_001,Panel A anti-CD5 clone,other
+IMPC_IMM_239_001,Panel A anti-CD5 fluorochrome,other
+IMPC_IMM_240_001,Panel A anti-CD5 RRID,other
+IMPC_IMM_241_001,Panel A anti-CD4 clone,other
+IMPC_IMM_242_001,Panel A anti-CD4 fluorochrome,other
+IMPC_IMM_243_001,Panel A anti-CD4 RRID,other
+IMPC_IMM_244_001,Panel A anti-CD44 clone,other
+IMPC_IMM_245_001,Panel A anti-CD44 fluorochrome,other
+IMPC_IMM_246_001,Panel A anti-CD44 RRID,other
+IMPC_IMM_247_001,Panel A anti-CD8a clone,other
+IMPC_IMM_248_001,Panel A anti-CD8a fluorochrome,other
+IMPC_IMM_249_001,Panel A anti-CD8a RRID,other
+IMPC_IMM_250_001,Panel A anti-CD25 clone,other
+IMPC_IMM_251_001,Panel A anti-CD25 fluorochrome,other
+IMPC_IMM_252_001,Panel A anti-CD25 RRID,other
+IMPC_IMM_253_001,Panel A anti-CD161 clone,other
+IMPC_IMM_254_001,Panel A anti-CD161 fluorochrome,other
+IMPC_IMM_255_001,Panel A anti-CD161 RRID,other
+IMPC_IMM_256_001,Panel A anti-CD62L clone,other
+IMPC_IMM_257_001,Panel A anti-CD62L fluorochrome,other
+IMPC_IMM_258_001,Panel A anti-CD62L RRID,other
+IMPC_IMM_259_001,Panel A Live/Dead stain,other
+IMPC_IMM_260_001,Panel A additional maker 1 name,other
+IMPC_IMM_261_001,Panel A additional marker 1 clone,other
+IMPC_IMM_262_001,Panel A additional marker 1 fluorochrome,other
+IMPC_IMM_263_001,Panel A additional marker 1 RRID,other
+IMPC_IMM_264_001,Panel A additional maker 2 name,other
+IMPC_IMM_265_001,Panel A additional marker 2 clone,other
+IMPC_IMM_266_001,Panel A additional marker 2 fluorochrome,other
+IMPC_IMM_267_001,Panel A additional marker 2 RRID,other
+IMPC_IMM_268_001,Panel A additional maker 3 name,other
+IMPC_IMM_269_001,Panel A additional marker 3 clone,other
+IMPC_IMM_270_001,Panel A additional marker 3 fluorochrome,other
+IMPC_IMM_271_001,Panel A additional marker 3 RRID,other
+IMPC_IMM_272_001,Panel A additional maker 4 name,other
+IMPC_IMM_273_001,Panel A additional marker 4 clone,other
+IMPC_IMM_274_001,Panel A additional marker 4 fluorochrome,other
+IMPC_IMM_275_001,Panel A additional marker 4 RRID,other
+IMPC_IMM_276_001,Panel A additional maker 5 name,other
+IMPC_IMM_277_001,Panel A additional marker 5 clone,other
+IMPC_IMM_278_001,Panel A additional marker 5 fluorochrome,other
+IMPC_IMM_279_001,Panel A additional marker 5 RRID,other
+IMPC_IMM_280_001,Panel B anti-CD5 clone,other
+IMPC_IMM_281_001,Panel B anti-CD5 fluorochrome,other
+IMPC_IMM_282_001,Panel B anti-CD5 RRID,other
+IMPC_IMM_283_001,Panel B anti-Ly6G clone,other
+IMPC_IMM_284_001,Panel B anti-Ly6G fluorochrome,other
+IMPC_IMM_285_001,Panel B anti-Ly6G RRID,other
+IMPC_IMM_286_001,Panel B anti-CD19 clone,other
+IMPC_IMM_287_001,Panel B anti-CD19 fluorochrome,other
+IMPC_IMM_288_001,Panel B anti-CD19 RRID,other
+IMPC_IMM_289_001,Panel B anti-Ly6C clone,other
+IMPC_IMM_290_001,Panel B anti-Ly6c fluorochrome,other
+IMPC_IMM_291_001,Panel B anti-Ly6c RRID,other
+IMPC_IMM_292_001,Panel B anti-CD21/35 clone,other
+IMPC_IMM_293_001,Panel B anti-CD21/35 fluorochrome,other
+IMPC_IMM_294_001,Panel B anti-CD21/35 RRID,other
+IMPC_IMM_295_001,Panel B anti-CD11b clone,other
+IMPC_IMM_296_001,Panel B anti-CD11b fluorochrome,other
+IMPC_IMM_297_001,Panel B anti-CD11b RRID,other
+IMPC_IMM_298_001,Panel B anti-CD11c clone,other
+IMPC_IMM_299_001,Panel B anti-CD11c fluorochrome,other
+IMPC_IMM_300_001,Panel B anti-CD11c RRID,other
+IMPC_IMM_301_001,Panel B anti-CD161 clone,other
+IMPC_IMM_302_001,Panel B anti-CD161 fluorochrome,other
+IMPC_IMM_303_001,Panel B anti-CD161 RRID,other
+IMPC_IMM_304_001,Panel B anti-MHCII clone,other
+IMPC_IMM_305_001,Panel B anti-MHCII fluorochrome,other
+IMPC_IMM_306_001,Panel B anti-MHCII RRID,other
+IMPC_IMM_307_001,Panel B Live/Dead stain,other
+IMPC_IMM_308_001,Panel B additional maker 1 name,other
+IMPC_IMM_309_001,Panel B additional marker 1 clone,other
+IMPC_IMM_310_001,Panel B additional marker 1 fluorochrome,other
+IMPC_IMM_311_001,Panel B additional marker 1 RRID,other
+IMPC_IMM_312_001,Panel B additional maker 2 name,other
+IMPC_IMM_313_001,Panel B additional marker 2 clone,other
+IMPC_IMM_314_001,Panel B additional marker 2 fluorochrome,other
+IMPC_IMM_315_001,Panel B additional marker 2 RRID,other
+IMPC_IMM_316_001,Panel B additional maker 3 name,other
+IMPC_IMM_317_001,Panel B additional marker 3 clone,other
+IMPC_IMM_318_001,Panel B additional marker 3 fluorochrome,other
+IMPC_IMM_319_001,Panel B additional marker 3 RRID,other
+IMPC_IMM_320_001,Panel B additional maker 4 name,other
+IMPC_IMM_321_001,Panel B additional marker 4 clone,other
+IMPC_IMM_322_001,Panel B additional marker 4 fluorochrome,other
+IMPC_IMM_323_001,Panel B additional marker 4 RRID,other
+IMPC_IMM_324_001,Panel B additional maker 5 name,other
+IMPC_IMM_325_001,Panel B additional marker 5 clone,other
+IMPC_IMM_326_001,Panel B additional marker 5 fluorochrome,other
+IMPC_IMM_327_001,Panel B additional marker 5 RRID,other
+IMPC_IMM_328_001,Analysis results file,other
+IMPC_INS_013_001,Date of measurement,other
+IMPC_ELZ_001_001,Embryo,other
+IMPC_ELZ_002_001,Head,other
+IMPC_ELZ_003_001,Forelimb,other
+IMPC_ELZ_004_001,Forearm,other
+IMPC_ELZ_005_001,Radius-ulna pre cartilage condensation,other
+IMPC_ELZ_006_001,Upper arm,other
+IMPC_ELZ_007_001,Humerus pre-cartilage condensation,other
+IMPC_ELZ_008_001,Handplate,other
+IMPC_ELZ_009_001,Hindlimb,other
+IMPC_ELZ_010_001,Footplate,other
+IMPC_ELZ_011_001,Lower leg,other
+IMPC_ELZ_012_001,Upper leg,other
+IMPC_ELZ_013_001,Femur pre-cartilage condensation,other
+IMPC_ELZ_014_001,Head mesenchyme,other
+IMPC_ELZ_015_001,Trunk mesenchyme,other
+IMPC_ELZ_016_001,Notochord,other
+IMPC_ELZ_017_001,Skin,other
+IMPC_ELZ_018_001,Vibrissa,other
+IMPC_ELZ_019_001,Oral cavity,other
+IMPC_ELZ_020_001,Mandibular process,other
+IMPC_ELZ_021_001,Meckel's cartilage,other
+IMPC_ELZ_022_001,Maxillary process,other
+IMPC_ELZ_023_001,Gut,other
+IMPC_ELZ_024_001,Pharynx,other
+IMPC_ELZ_025_001,Tongue,other
+IMPC_ELZ_026_001,Stomach,other
+IMPC_ELZ_027_001,Pancreas,other
+IMPC_ELZ_028_001,Liver,other
+IMPC_ELZ_029_001,Urinary system,other
+IMPC_ELZ_030_001,Metanephros,other
+IMPC_ELZ_031_001,Mesonephros of male,other
+IMPC_ELZ_032_001,Mesonephros of female,other
+IMPC_ELZ_033_001,Lung,other
+IMPC_ELZ_034_001,Trachea,other
+IMPC_ELZ_035_001,Umbilical artery embryonic part,other
+IMPC_ELZ_036_001,Heart,other
+IMPC_ELZ_037_001,Atrium,other
+IMPC_ELZ_038_001,Outflow tract,other
+IMPC_ELZ_039_001,Pericardium,other
+IMPC_ELZ_040_001,Heart ventricle,other
+IMPC_ELZ_041_001,Umbilical vein embryonic part,other
+IMPC_ELZ_042_001,Brain,Brain
+IMPC_ELZ_043_001,Forebrain,Brain
+IMPC_ELZ_044_001,Midbrain,Brain
+IMPC_ELZ_045_001,Central nervous system ganglion,other
+IMPC_ELZ_046_001,Spinal cord,other
+IMPC_ELZ_047_001,Dorsal root ganglion,other
+IMPC_ELZ_048_001,Ear,other
+IMPC_ELZ_049_001,External ear,other
+IMPC_ELZ_050_001,Inner Ear,other
+IMPC_ELZ_051_001,Eye,other
+IMPC_ELZ_052_001,Nose,other
+IMPC_ELZ_053_001,Nasal septum,other
+IMPC_ELZ_054_001,Fronto-nasal process,other
+IMPC_ELZ_055_001,Skeleton,other
+IMPC_ELZ_056_001,Axial skeleton,other
+IMPC_ELZ_057_001,Rib pre-cartilage condensation,other
+IMPC_ELZ_058_001,Thoracic vertebral cartilage condensation,other
+IMPC_ELZ_059_001,Cranium,other
+IMPC_ELZ_060_001,Tail,other
+IMPC_ELZ_061_001,Tail somite group,other
+IMPC_ELZ_062_001,Intestine,other
+IMPC_ELZ_063_001,LacZ images section,other
+IMPC_ELZ_064_001,LacZ images wholemount,other
+IMPC_ELZ_065_001,Free ontology,other
+IMPC_ELZ_066_001,Free ontology annotation reason,other
+IMPC_ELZ_067_001,Free text comment,other
+IMPC_ELZ_068_001,Microscope equipment id,other
+IMPC_ELZ_069_001,Microscope equipment manufacturer,other
+IMPC_ELZ_070_001,Microscope equipment model,other
+IMPC_ELZ_071_001,Date Microscope last calibrated,other
+IMPC_ELZ_072_001,Detector equipment manufacturer,other
+IMPC_ELZ_073_001,Detector equipment model,other
+IMPC_ELZ_074_001,Objective equipment company,other
+IMPC_ELZ_075_001,Objective equipment model,other
+IMPC_ELZ_076_001,Objective magnification,other
+IMPC_ELZ_077_001,Illumination source manufacturer,other
+IMPC_ELZ_079_001,Sample preparation stain name,other
+IMPC_ELZ_080_001,Sample preparation reference impc,other
+IMPC_ELZ_081_001,Bit depth,other
+IMPC_ELZ_082_001,Colorspace,other
+IMPC_ELZ_083_001,Experimental category,other
+IMPC_ELZ_084_001,Orientation,other
+IMPC_ELZ_085_001,Pixels per millimeter before processing,other
+IMPC_ELZ_086_001,Pixels per millimeter after processing,other
+IMPC_ELZ_087_001,Showcase image,other
+IMPC_ELZ_088_001,Date of sacrifice,other
+IMPC_ELZ_089_001,Date of staining,other
+IMPC_ELZ_090_001,Date of annotation,other
+IMPC_ELZ_091_001,Date of image capture,other
+IMPC_ELZ_092_001,Hindbrain,Brain
+IMPC_ELZ_093_001,Placenta,other
+IMPC_PAT_001_001,Brain,Brain
+IMPC_PAT_002_001,Eye with optic nerve,other
+IMPC_PAT_003_001,Spinal cord,other
+IMPC_PAT_004_001,Thymus,other
+IMPC_PAT_005_001,Thyroid,other
+IMPC_PAT_006_001,Heart,other
+IMPC_PAT_007_001,Trachea,other
+IMPC_PAT_008_001,Esophagus,other
+IMPC_PAT_009_001,Lung,other
+IMPC_PAT_010_001,Liver,other
+IMPC_PAT_011_001,Gall bladder,other
+IMPC_PAT_012_001,Stomach,other
+IMPC_PAT_013_001,Small intestine,other
+IMPC_PAT_014_001,Large intestine,other
+IMPC_PAT_015_001,Pancreas,other
+IMPC_PAT_016_001,Spleen,other
+IMPC_PAT_017_001,Kidney,other
+IMPC_PAT_018_001,Adrenal gland,other
+IMPC_PAT_019_001,Mammary gland,other
+IMPC_PAT_020_001,Lymph node,other
+IMPC_PAT_021_001,Skin,other
+IMPC_PAT_022_001,Skeletal muscle,other
+IMPC_PAT_023_001,Urinary bladder,other
+IMPC_PAT_024_001,Testes,other
+IMPC_PAT_025_001,Epididymis,other
+IMPC_PAT_026_001,Prostate,other
+IMPC_PAT_027_001,Seminal vesicle,other
+IMPC_PAT_028_001,Ovary,other
+IMPC_PAT_029_001,Uterus,other
+IMPC_PAT_049_001,Body Weight,Weight
+IMPC_PAT_052_001,Experimenter ID,other
+IMPC_PAT_054_001,Method of sacrifice,other
+IMPC_PAT_055_001,Method of Blood Collection,other
+IMPC_PAT_056_001,Equipment ID,other
+IMPC_PAT_057_001,Images,other
+IMPC_PAT_058_001,Fixative,other
+IMPC_PAT_059_001,Date equipment last calibrated,other
+IMPC_PAT_060_001,Equipment manufacturer,other
+IMPC_PAT_061_001,Equipment model,other
+IMPC_PAT_030_001,Date of sacrifice,other
+IMPC_PAT_031_001,ID for sample banking protocol,other
+IMPC_PAT_032_001,Comments (in English),other
+IMPC_HOU_001_001,Submitter ID,other
+IMPC_HOU_002_001,Phenotyping project(s),other
+IMPC_HOU_003_001,Pipeline ID(s),other
+IMPC_HOU_004_001,Start Date,other
+IMPC_HOU_005_001,End Date,other
+IMPC_HOU_006_001,Stage of the pipeline(s) - Start Week,other
+IMPC_HOU_007_001,Stage of the pipeline(s) - End Week,other
+IMPC_HOU_008_001,Procedure IDs associated with this block,other
+IMPC_HOU_010_001,Housing - temperature range - Minimum,other
+IMPC_HOU_011_001,Housing - temperature range - Maximum,other
+IMPC_HOU_013_001,Housing - relative humidity range - Minimum,other
+IMPC_HOU_014_001,Housing - relative humidity range - Maximum,other
+IMPC_HOU_016_001,Housing - air changes per hour in the room - Minimum,other
+IMPC_HOU_017_001,Housing - air changes per hour in the room - Maximum,other
+IMPC_HOU_018_001,Housing - air changes per hour in the room - Units,other
+IMPC_HOU_020_001,Housing - air changes per hour in the IVC unit - Minimum,other
+IMPC_HOU_021_001,Housing - air changes per hour in the IVC unit - Maximum,other
+IMPC_HOU_022_001,Housing - air changes per hour in the IVC unit - Units,other
+IMPC_HOU_024_001,Housing - can you quantify the light intensity range experienced,other
+IMPC_HOU_025_001,Housing - light intensity range - Minimum,other
+IMPC_HOU_026_001,Housing - light intensity range - Maximum,other
+IMPC_HOU_029_001,Housing - cage manufacturer and racking system,other
+IMPC_HOU_030_001,Housing - cage dimensions - Height,other
+IMPC_HOU_031_001,Housing - cage dimensions - Length,other
+IMPC_HOU_032_001,Housing - cage dimensions - Width,other
+IMPC_HOU_033_001,Housing - animals per cage - Minimum,other
+IMPC_HOU_034_001,Housing - animals per cage - Maximum,other
+IMPC_HOU_035_001,Housing - bedding type,other
+IMPC_HOU_037_001,Housing - cage enrichment,other
+IMPC_HOU_039_001,Housing - frequency of handling,other
+IMPC_HOU_040_001,Nutrition - supplier and product ID of diet,other
+IMPC_HOU_042_001,Nutrition - do you know the composition of the diet (average based on mass),other
+IMPC_HOU_043_001,Nutrition - average composition (based on mass) - Carbohydrate,other
+IMPC_HOU_044_001,Nutrition - average composition (based on mass) - Fat,other
+IMPC_HOU_045_001,Nutrition - average composition (based on mass) - Protein,other
+IMPC_HOU_046_001,Nutrition - do you know the composition of the diet (average based on calorific content),other
+IMPC_HOU_047_001,Nutrition - average composition (based on calorific content) - Carbohydrate,other
+IMPC_HOU_048_001,Nutrition - average composition (based on calorific content) - Fat,other
+IMPC_HOU_049_001,Nutrition - average composition (based on calorific content) - Protein,other
+IMPC_HOU_051_001,Nutrition - source of lipids,other
+IMPC_HOU_053_001,Water - pre-treatment,other
+IMPC_HOU_057_001,Microbiological status - method used to protect the status,other
+IMPC_HOU_058_001,Microbiological status - closed barrier detail,other
+IMPC_HOU_059_001,Microbiological status - quarantine method,other
+IMPC_HOU_060_001,Microbiological status - live animals allowed to join the unit,other
+IMPC_HOU_061_001,Microbiological status - acclimation period for live animals - Minimum,other
+IMPC_HOU_062_001,Microbiological status - acclimation period for live animals - Maximum,other
+IMPC_HOU_063_001,Microbiological status - pathogens tested for,other
+IMPC_HOU_064_001,Microbiological status - is your unit positive for any of the pathogens tested,other
+IMPC_HOU_065_001,Microbiological status - pathogens your unit is positive for,other
+IMPC_HOU_066_001,Nutrition - do you know the source of lipids,other
+IMPC_HOU_067_001,Block descriptor,other
+IMPC_CAL_010_003,Time of dark cycle start,other
+IMPC_CAL_020_003,Time of dark cycle end,other
+IMPC_CAL_042_001,Respiratory Exchange Ratio series,other
+IMPC_HWT_003_001,Experimenter ID,other
+IMPC_HWT_005_001,Method of sacrifice,other
+IMPC_HWT_006_001,Equipment ID,other
+IMPC_HWT_007_001,Body weight,Weight
+IMPC_HWT_009_001,Date equipment last calibrated,other
+IMPC_HWT_010_001,Equipment manufacturer,other
+IMPC_HWT_011_001,Equipment model,other
+IMPC_HWT_001_001,Date of sacrifice,other
+IMPC_HWT_012_001,Heart weight normalised against body weight,Weight
+IMPC_HWT_013_001,Heart weight normalised against tibia length,Weight
+IMPC_IMM_001_001,Spleen weight,Weight
+IMPC_IMM_002_001,Percentage of live gated events in Panel A,other
+IMPC_IMM_003_001,T cells (panel A),other
+IMPC_IMM_004_001,NKT cells (panel A),other
+IMPC_IMM_005_001,NK cells (panel A),other
+IMPC_IMM_006_001,Others,other
+IMPC_IMM_007_001,CD4 T cells,other
+IMPC_IMM_008_001,CD8 T cells,other
+IMPC_IMM_009_001,DN T cells,other
+IMPC_IMM_010_001,DP T cells,other
+IMPC_IMM_011_001,CD4 NKT cells,other
+IMPC_IMM_012_001,CD8 NKT cells,other
+IMPC_IMM_013_001,DN NKT cells,other
+IMPC_IMM_014_001,CD4 CD25+ T cells,other
+IMPC_IMM_015_001,CD4 CD25- T cells,other
+IMPC_IMM_016_001,CD8 CD25+ T cells,other
+IMPC_IMM_017_001,CD8 CD25- T cells,other
+IMPC_IMM_018_001,DN CD25+ T cells,other
+IMPC_IMM_019_001,DN CD25- T cells,other
+IMPC_IMM_020_001,CD4 CD25+ NKT cells,other
+IMPC_IMM_021_001,CD4 CD25- NKT cells,other
+IMPC_IMM_022_001,CD8 CD25+ NKT cells,other
+IMPC_IMM_023_001,CD8 CD25- NKT cells,other
+IMPC_IMM_024_001,DN CD25+ NKT cells,other
+IMPC_IMM_025_001,DN CD25- NKT cells,other
+IMPC_IMM_028_001,CD4 CD44+CD62L- T cells,other
+IMPC_IMM_029_001,CD4 CD44+CD62L+ T cells,other
+IMPC_IMM_030_001,CD4 CD44-CD62L+ T cells,other
+IMPC_IMM_031_001,CD4 CD44-CD62L- T cells,other
+IMPC_IMM_032_001,CD8 CD44+CD62L- T cells,other
+IMPC_IMM_033_001,CD8 CD44+CD62L+ T cells,other
+IMPC_IMM_034_001,CD8 CD44-CD62L+ T cells,other
+IMPC_IMM_035_001,CD8 CD44-CD62L- T cells,other
+IMPC_IMM_036_001,DN CD44+CD62L- T cells,other
+IMPC_IMM_037_001,DN CD44+CD62L+ T cells,other
+IMPC_IMM_038_001,DN CD44-CD62L+ T cells,other
+IMPC_IMM_039_001,DN CD44-CD62L- T cells,other
+IMPC_IMM_040_001,CD4 CD44+CD62L- NKT cells,other
+IMPC_IMM_041_001,CD4 CD44+CD62L+ NKT cells,other
+IMPC_IMM_042_001,CD4 CD44-CD62L+ NKT cells,other
+IMPC_IMM_043_001,CD8 CD44+CD62L- NKT cells,other
+IMPC_IMM_044_001,CD8 CD44+CD62L+ NKT cells,other
+IMPC_IMM_045_001,CD8 CD44-CD62L+ NKT cells,other
+IMPC_IMM_046_001,DN CD44+CD62L- NKT cells,other
+IMPC_IMM_047_001,DN CD44+CD62L+ NKT cells,other
+IMPC_IMM_048_001,DN CD44-CD62L+ NKT cells,other
+IMPC_IMM_049_001,Percentage of live gated events in Panel B,other
+IMPC_IMM_050_001,Neutrophils,other
+IMPC_IMM_051_001,Monocytes,other
+IMPC_IMM_052_001,Eosinophils,other
+IMPC_IMM_053_001,NK Cells (panel B),other
+IMPC_IMM_054_001,NK Subsets (Q1),other
+IMPC_IMM_055_001,NK Subsets (Q2),other
+IMPC_IMM_056_001,NK Subsets (Q3),other
+IMPC_IMM_057_001,NK Subsets (Q4),other
+IMPC_IMM_058_001,NKT Cells (panel B),other
+IMPC_IMM_059_001,NKT Subsets (Q1),other
+IMPC_IMM_060_001,NKT Subsets (Q3),other
+IMPC_IMM_061_001,T Cells (panel B),other
+IMPC_IMM_062_001,T Subset,other
+IMPC_IMM_063_001,B Cells,other
+IMPC_IMM_064_001,B1B Cells,other
+IMPC_IMM_065_001,B2B Cells,other
+IMPC_IMM_066_001,Follicular B Cells,other
+IMPC_IMM_067_001,Follicular B Cells (CD21/35+),other
+IMPC_IMM_068_001,Transitional B Cells,other
+IMPC_IMM_069_001,Transitional B Cells (CD21/35 low),other
+IMPC_IMM_070_001,MZB,other
+IMPC_IMM_071_001,MZB (CD21/35 high),other
+IMPC_IMM_072_001,cDCs,other
+IMPC_IMM_073_001,cDCs CD11b Type,other
+IMPC_IMM_074_001,pDCs,other
+IMPC_IMM_075_001,RP Macrophage (F4/80+),other
+IMPC_IMM_076_001,RP Macrophage (CD19-  CD11c-),other
+IMPC_IMM_077_001,Equipment name,other
+IMPC_IMM_078_001,Equipment manufacturer,other
+IMPC_IMM_079_001,Equipment model,other
+IMPC_IMM_080_001,CS&T Bead lot,other
+IMPC_IMM_081_001,Anesthesia,other
+IMPC_IMM_082_001,Cell digestion,other
+IMPC_IMM_083_001,Cell digestion agent,other
+IMPC_IMM_084_001,Cell digestion agent manufacturer,other
+IMPC_IMM_085_001,Cell digestion agent catalog number,other
+IMPC_IMM_086_001,Cell counting,other
+IMPC_IMM_087_001,Cell counting equipment manufacturer,other
+IMPC_IMM_088_001,Cell counting equipment model,other
+IMPC_IMM_089_001,Cell counting equipment name,other
+IMPC_IMM_090_001,Cell lysis buffer manufacturer,other
+IMPC_IMM_091_001,Cell lysis buffer catalog number,other
+IMPC_IMM_092_001,Date and time of sacrifice,other
+IMPC_IMM_093_001,Date and time of sample preparation,other
+IMPC_IMM_094_001,Sample storage temperature until analysis (in Celsius),other
+IMPC_IMM_095_001,FCS repository reference (URL/ID),other
+IMPC_IMM_026_001,Total number of acquired events in Panel A,other
+IMPC_IMM_027_001,Total number of acquired events in Panel B,other
+IMPC_IMM_096_001,Balanced salt solution type,other
+IMPC_IMM_097_001,Balanced salt solution manufacturer,other
+IMPC_IMM_098_001,Balanced salt solution catalog number,other
+IMPC_IMM_099_001,RPMI manufacturer,other
+IMPC_IMM_100_001,RPMI catalog number,other
+IMPC_IMM_101_001,DNAse I manufacturer,other
+IMPC_IMM_102_001,DNAse I catalog number,other
+IMPC_IMM_103_001,Dead cell exclusion dye,other
+IMPC_IMM_104_001,Dead cell exclusion dye manufacturer,other
+IMPC_IMM_105_001,Dead cell exclusion dye catalog number,other
+IMPC_IMM_106_001,Cell digestion temperature (in Celsius),other
+IMPC_IMM_107_001,Panel A FCS file(s),other
+IMPC_IMM_108_001,Panel B FCS file(s),other
+IMPC_IMM_109_001,Automated analysis,other
+IMPC_IMM_110_001,Collection buffer manufacturer,other
+IMPC_IMM_111_001,Collection buffer catalog number number,other
+IMPC_IMM_112_001,FACS buffer manufacturer,other
+IMPC_IMM_113_001,FACS buffer catalog number,other
+IMPC_IMM_114_001,Enzyme buffer manufacturer,other
+IMPC_IMM_115_001,Enzyme buffer catalog number,other
+IMPC_GEL_001_001,Alive,other
+IMPC_GEL_002_001,Scored,other
+IMPC_GEL_003_001,Cardiovascular System,other
+IMPC_GEL_004_001,Cardiovascular Development,other
+IMPC_GEL_005_001,Vascular Development,other
+IMPC_GEL_006_001,Pericardium Morphology,other
+IMPC_GEL_007_001,Failure heart looping,other
+IMPC_GEL_008_001,Absent heartbeat,other
+IMPC_GEL_009_001,Embryogenesis Phenotype,other
+IMPC_GEL_010_001,Abnormal Gastrulation,other
+IMPC_GEL_011_001,Embryo turning,other
+IMPC_GEL_012_001,Incomplete embryo turning,other
+IMPC_GEL_013_001,Extraembryonic tissue morphology,other
+IMPC_GEL_014_001,Allantois Morphology,other
+IMPC_GEL_015_001,Vitelline vasculature morphology,other
+IMPC_GEL_016_001,Vitelline vein morphology,other
+IMPC_GEL_017_001,Pale yolk sac,other
+IMPC_GEL_018_001,Visceral yolk sac morphology,other
+IMPC_GEL_019_001,Chorioallantoic fusion,other
+IMPC_GEL_020_001,Developmental Patterning,other
+IMPC_GEL_021_001,Left-right axis patterning,other
+IMPC_GEL_022_001,Direction of heart looping,other
+IMPC_GEL_023_001,Somite development,other
+IMPC_GEL_024_001,Branchial arch morphology,other
+IMPC_GEL_025_001,Neural fold mophology,other
+IMPC_GEL_026_001,Neural tube morphology/development,other
+IMPC_GEL_027_001,Neural tube closure,other
+IMPC_GEL_028_001,Forebrain,Brain
+IMPC_GEL_029_001,Midbrain,Brain
+IMPC_GEL_030_001,Hindbrain,Brain
+IMPC_GEL_031_001,Spinal cord,other
+IMPC_GEL_032_001,Embryo Size,other
+IMPC_GEL_033_001,Tail bud morphology,other
+IMPC_GEL_034_001,Integument,other
+IMPC_GEL_035_001,Skin Appearance,other
+IMPC_GEL_036_001,Pallor,other
+IMPC_GEL_037_001,Blebs,other
+IMPC_GEL_038_001,Limb Bud Morphology,other
+IMPC_GEL_039_001,Vision/Eye,other
+IMPC_GEL_040_001,Eye development,other
+IMPC_GEL_041_001,Hearing/Vestibular/Ear,other
+IMPC_GEL_042_001,Otic vesicle morphology,other
+IMPC_GEL_043_001,Comment on image,other
+IMPC_GEL_044_001,Images,other
+IMPC_GEL_045_001,Experimenter ID,other
+IMPC_GEL_046_001,Equipment ID,other
+IMPC_GEL_047_001,Equipment Manufacturer,other
+IMPC_GEL_048_001,Equipment Model,other
+IMPC_GEL_049_001,Fixative,other
+IMPC_GEL_050_001,Time of Dissection,other
+IMPC_GEL_051_001,Somite Stage,other
+IMPC_GEL_052_001,Time of dark cycle start,other
+IMPC_GEL_053_001,Time of dark cycle end,other
+IMPC_GEL_054_001,Date equipment last calibrated,other
+IMPC_BLK_003_001,Experimenter ID,other
+IMPC_BLK_006_001,Fixative,other
+IMPC_BLK_007_001,Tissue storage ID(s),other
+IMPC_BLK_008_001,Embedding medium,other
+IMPC_BLK_009_001,Embedding orientation,other
+IMPC_BLK_010_001,Brain,Brain
+IMPC_BLK_011_001,Eye 1 with optic nerve (optic nerve parallel to cassette surface),other
+IMPC_BLK_012_001,Eye 2 with optic nerve (within skull),other
+IMPC_BLK_013_001,Spinal cord,other
+IMPC_BLK_014_001,Thymus,other
+IMPC_BLK_015_001,Thyroid,other
+IMPC_BLK_016_001,Heart,other
+IMPC_BLK_017_001,Trachea,other
+IMPC_BLK_018_001,Esophagus,other
+IMPC_BLK_019_001,Lung,other
+IMPC_BLK_020_001,Liver,other
+IMPC_BLK_021_001,Gall bladder,other
+IMPC_BLK_022_001,Stomach,other
+IMPC_BLK_023_001,Small intestine,other
+IMPC_BLK_024_001,Large intestine,other
+IMPC_BLK_025_001,Pancreas,other
+IMPC_BLK_026_001,Spleen,other
+IMPC_BLK_027_001,Left Kidney,other
+IMPC_BLK_028_001,Right Kidney,other
+IMPC_BLK_029_001,Left Adrenal gland,other
+IMPC_BLK_030_001,Right Adrenal gland,other
+IMPC_BLK_031_001,Mammary gland,other
+IMPC_BLK_032_001,Lymph node,other
+IMPC_BLK_033_001,Skin,other
+IMPC_BLK_034_001,Skeletal muscle,other
+IMPC_BLK_035_001,Urinary bladder,other
+IMPC_BLK_036_001,Testes,other
+IMPC_BLK_037_001,Epididymis,other
+IMPC_BLK_038_001,Prostate,other
+IMPC_BLK_039_001,Seminal vesicles,other
+IMPC_BLK_040_001,Ovary,other
+IMPC_BLK_041_001,Uterus,other
+IMPC_BLK_042_001,Additional tissues,other
+IMPC_BLK_001_001,Date of sacrifice,other
+IMPC_BLK_002_001,Date of necropsy,other
+IMPC_BLK_043_001,Salivary gland,other
+IMPC_BLK_044_001,Sternum,other
+IMPC_BLK_045_001,Femur,other
+IMPC_BLK_046_001,Bone marrow,other
+IMPC_BLK_047_001,Brown fat,other
+IMPC_BLK_048_001,Tibia,other
+IMPC_BLK_049_001,Knee joint,other
+IMPC_BLK_050_001,Trigeminal V nerve,other
+IMPC_BLK_051_001,Nasal cavity,other
+IMPC_BLK_052_001,Ear,other
+IMPC_BLK_053_001,Tooth,other
+IMPC_BLK_054_001,Tongue,other
+IMPC_BLK_055_001,Sciatic nerve,other
+IMPC_BLK_056_001,Bone,other
+IMPC_GEL_007_002,Failure heart looping,other
+IMPC_GEL_008_002,Absent heartbeat,other
+IMPC_GEL_012_002,Incomplete embryo turning,other
+IMPC_GEL_017_002,Pale yolk sac,other
+IMPC_GEL_036_002,Pallor,other
+IMPC_GEL_037_002,Blebs,other
+IMPC_GEL_055_001,Severely Dysmorphic,other
+IMPC_ACS_040_001,Acoustic startle response measure,other
+IMPC_GEL_057_001,Heart looping,other
+IMPC_GEL_059_001,Hemorrhage,other
+IMPC_GEL_060_001,Neural tube morphology,other
+IMPC_GEL_061_001,Optic vesicle morphology,other
+IMPC_GEL_062_001,CRL,other
+IMPC_GEL_063_001,Delayed embryonic development,other
+IMPC_GEL_065_001,Left-right axis patterning,other
+IMPC_GEL_066_001,Vascular morphology,other
+IMPC_HIS_179_001,Brain - Significance score,Brain
+IMPC_HIS_180_001,Eye with optic nerve - Significance score,other
+IMPC_HIS_181_001,Spinal cord - Significance score,other
+IMPC_HIS_182_001,Thymus - Significance score,other
+IMPC_HIS_183_001,Thyroid - Significance score,other
+IMPC_HIS_184_001,Heart - Significance score,other
+IMPC_HIS_185_001,Trachea - Significance score,other
+IMPC_HIS_186_001,Esophagus - Significance score,other
+IMPC_HIS_187_001,Lung - Significance score,other
+IMPC_HIS_188_001,Liver - Significance score,other
+IMPC_HIS_189_001,Gall bladder - Significance score,other
+IMPC_HIS_190_001,Stomach - Significance score,other
+IMPC_HIS_191_001,Small intestine - Significance score,other
+IMPC_HIS_192_001,Large intestine - Significance score,other
+IMPC_HIS_193_001,Pancreas - Significance score,other
+IMPC_HIS_194_001,Spleen - Significance score,other
+IMPC_HIS_195_001,Kidney - Significance score,other
+IMPC_HIS_196_001,Adrenal gland - Significance score,other
+IMPC_HIS_197_001,Mammary gland - Significance score,other
+IMPC_HIS_198_001,Lymph node - Significance score,other
+IMPC_HIS_199_001,Skin - Significance score,other
+IMPC_HIS_200_001,Skeletal muscle - Significance score,other
+IMPC_HIS_201_001,Urinary bladder - Significance score,other
+IMPC_HIS_202_001,Testes - Significance score,other
+IMPC_HIS_203_001,Epididymis - Significance score,other
+IMPC_HIS_204_001,Prostate - Significance score,other
+IMPC_HIS_205_001,Seminal vesicle - Significance score,other
+IMPC_HIS_206_001,Ovary - Significance score,other
+IMPC_HIS_207_001,Uterus - Significance score,other
+IMPC_GEM_001_001,Alive,other
+IMPC_GEM_002_001,Scored,other
+IMPC_GEM_003_001,Cardiovascular System,other
+IMPC_GEM_004_001,Cardiovascular Development,other
+IMPC_GEM_005_001,Vascular Development,other
+IMPC_GEM_006_001,Outflow tract development,other
+IMPC_GEM_008_001,Absent heartbeat,other
+IMPC_GEM_009_001,Craniofacial,other
+IMPC_GEM_010_001,Craniofacial Development,other
+IMPC_GEM_011_001,Embryogenesis Phenotype,other
+IMPC_GEM_012_001,Extraembryonic tissue morphology,other
+IMPC_GEM_013_001,Allantois Morphology,other
+IMPC_GEM_014_001,Vitelline vasculature morphology,other
+IMPC_GEM_015_001,Vitelline vein morphology,other
+IMPC_GEM_016_001,Pale yolk sac,other
+IMPC_GEM_018_001,Chorioallantoic fusion,other
+IMPC_GEM_020_001,Hearing/Vestibular/Ear Phenotype,other
+IMPC_GEM_022_001,Ear Development,other
+IMPC_GEM_023_001,Integument,other
+IMPC_GEM_025_001,Pallor,other
+IMPC_GEM_026_001,Blebs,other
+IMPC_GEM_030_001,Liver/Biliary,other
+IMPC_GEM_031_001,Liver Morphology,other
+IMPC_GEM_033_001,Pale Liver,other
+IMPC_GEM_034_001,Gastroschisis (herniated abdominal wall),other
+IMPC_GEM_035_001,Nervous System,other
+IMPC_GEM_037_001,Forebrain development,Brain
+IMPC_GEM_038_001,Midbrain development,Brain
+IMPC_GEM_039_001,Hindbrain development,Brain
+IMPC_GEM_040_001,Vision/Eye,other
+IMPC_GEM_042_001,Eye Size,other
+IMPC_GEM_043_001,Microphthalmia,other
+IMPC_GEM_044_001,Anophthalmia,other
+IMPC_GEM_045_001,Failure heart looping,other
+IMPC_GEM_046_001,Gastrulation,other
+IMPC_EVL_001_001,Outcome,other
+IMPC_EVL_002_001,Total embryos,other
+IMPC_EVL_003_001,% embryos WT,other
+IMPC_EVL_004_001,Time of dark cycle start,other
+IMPC_EVL_005_001,Decision,other
+IMPC_EVL_006_001,Comment on Decision (in English),other
+IMPC_EVL_007_001,Total embryos WT,other
+IMPC_EVL_008_001,Total embryos heterozygous,other
+IMPC_EVL_009_001,Total embryos homozygous,other
+IMPC_EVL_010_001,Total dead embryos,other
+IMPC_EVL_011_001,Total dead WT,other
+IMPC_EVL_012_001,Total dead heterozygous,other
+IMPC_EVL_013_001,Total dead homozygous,other
+IMPC_EVL_014_001,Total gross defect at dissection (alive or dead) embryos,other
+IMPC_EVL_015_001,Total gross defect at dissection (alive or dead) WT,other
+IMPC_EVL_016_001,Total gross defect at dissection (alive or dead) heterozygous,other
+IMPC_EVL_017_001,Total gross defect at dissection (alive or dead) homozygous,other
+IMPC_EVL_018_001,Number of reabsorptions,other
+IMPC_EVL_019_001,% embryos heterozygous,other
+IMPC_EVL_020_001,% embryos homozygous,other
+IMPC_EVL_021_001,Average Litter Size,other
+IMPC_EVL_022_001,Time of dark cycle end,other
+IMPC_EVL_023_001,Embryo medium,other
+IMPC_EVL_024_001,Total live embryos,other
+IMPC_EVL_025_001,Total live heterozygous,other
+IMPC_EVL_026_001,Total live WT,other
+IMPC_EVL_027_001,Total live homozygous,other
+IMPC_BWT_001_001,Body weight,Weight
+IMPC_BWT_002_001,General comments about the mouse,other
+IMPC_BWT_003_001,Equipment ID,other
+IMPC_BWT_004_001,Equipment manufacturer,other
+IMPC_BWT_005_001,Experimenter ID,other
+IMPC_BWT_006_001,Date equipment last calibrated,other
+IMPC_BWT_007_001,Equipment model,other
+IMPC_BWT_008_001,Body weight curve,Weight
+IMPC_OFD_005_001,Distance travelled,other
+IMPC_OFD_006_001,Number of Rears,other
+IMPC_OFD_008_001,Whole arena permanence,other
+IMPC_OFD_011_001,Periphery resting time,other
+IMPC_OFD_015_001,Center resting time,other
+IMPC_OFD_018_001,Latency to center entry,other
+IMPC_OFD_021_001,Number of rears - total,other
+IMPC_OFD_023_001,Equipment ID,other
+IMPC_OFD_024_001,Equipment manufacturer,other
+IMPC_OFD_025_001,Equipment model,other
+IMPC_OFD_026_001,Central zone surface area,other
+IMPC_OFD_027_001,Light intensity in the centre of the arena,other
+IMPC_OFD_028_001,Number of animals per cage,other
+IMPC_OFD_029_001,Color of arena,other
+IMPC_OFD_030_001,Height of the wall,other
+IMPC_OFD_031_001,Distance from light source: if direct illumination,other
+IMPC_OFD_032_001,Periphery zone,other
+IMPC_OFD_033_001,Type of analysis,other
+IMPC_OFD_034_001,Arena Size,other
+IMPC_OFD_035_001,Experimenter ID,other
+IMPC_OFD_036_001,Disinfectant,other
+IMPC_OFD_037_001,Start Time,other
+IMPC_OFD_038_001,Arena ID,other
+IMPC_OFD_039_001,Software Version,other
+IMPC_OFD_040_001,Arena Material,other
+IMPC_OFD_041_001,Date equipment last calibrated,other
+IMPC_OFD_001_001,Whole arena resting time series,other
+IMPC_OFD_002_001,Whole arena average speed series,other
+IMPC_OFD_003_001,Periphery distance travelled series,other
+IMPC_OFD_004_001,Periphery resting time series,other
+IMPC_OFD_042_001,Periphery permanence time series,other
+IMPC_OFD_043_001,Periphery average speed series,other
+IMPC_OFD_044_001,Center distance travelled series,other
+IMPC_OFD_045_001,Center resting time series,other
+IMPC_OFD_046_001,Center permanence time series,other
+IMPC_OFD_047_001,Center average speed series,other
+IMPC_OFD_048_001,Number of center entries series,other
+IMPC_OFD_049_001,Light beam barrier height (Z axis),other
+IMPC_OFD_050_001,Percentage center movement time,other
+IMPC_OFD_051_001,Resting definition threshold,other
+IMPC_OFD_052_001,Rearing definition threshold,other
+IMPC_GEO_007_001,Absent heartbeat,other
+IMPC_GEO_009_001,Hemorrhage,other
+IMPC_GEO_010_001,Skin Hemorrhage,other
+IMPC_GEO_017_001,Facial Cleft,other
+IMPC_GEO_018_001,Cleft Palate,other
+IMPC_GEO_025_001,Hydrops fetalis (fetal adema),other
+IMPC_GEO_026_001,Gastroschisis (herniated abdominal wall),other
+IMPC_GEO_034_001,Polydactyly,other
+IMPC_GEO_038_001,Pale Liver,other
+IMPC_GEO_041_001,Exencephaly,other
+IMPC_GEO_042_001,Holoprosencephaly,other
+IMPC_GEO_043_001,spina bifida,other
+IMPC_GEO_047_001,Microphthalmia,other
+IMPC_GEO_048_001,Anophthalmia,other
+IMPC_EVM_001_001,Outcome,other
+IMPC_EVM_002_001,Decision,other
+IMPC_EVM_003_001,Comment on Decision (in English),other
+IMPC_EVM_004_001,Total embryos WT,other
+IMPC_EVM_005_001,Total embryos heterozygous,other
+IMPC_EVM_006_001,Total embryos homozygous,other
+IMPC_EVM_007_001,Total dead embryos,other
+IMPC_EVM_008_001,Total dead WT,other
+IMPC_EVM_009_001,Total dead heterozygous,other
+IMPC_EVM_010_001,Total dead homozygous,other
+IMPC_EVM_011_001,Total gross defect at dissection (alive or dead) embryos,other
+IMPC_EVM_012_001,Total gross defect at dissection (alive or dead) WT,other
+IMPC_EVM_013_001,Total gross defect at dissection (alive or dead) heterozygous,other
+IMPC_EVM_014_001,Total gross defect at dissection (alive or dead) homozygous,other
+IMPC_EVM_015_001,Number of reabsorptions,other
+IMPC_EVM_016_001,% embryos WT,other
+IMPC_EVM_017_001,% embryos heterozygous,other
+IMPC_EVM_018_001,% embryos homozygous,other
+IMPC_EVM_019_001,Average Litter Size,other
+IMPC_EVM_020_001,Time of dark cycle start,other
+IMPC_EVM_021_001,Time of dark cycle end,other
+IMPC_EVM_022_001,Embryo medium,other
+IMPC_EVM_023_001,Total embryos,other
+IMPC_EVM_024_001,Total live embryos,other
+IMPC_EVM_025_001,Total live heterozygous,other
+IMPC_EVM_026_001,Total live WT,other
+IMPC_EVM_027_001,Total live homozygous,other
+IMPC_GEP_004_001,No spontaneous movement,other
+IMPC_GEP_005_001,Unresponsive to tactile stimuli,other
+IMPC_GEP_011_001,Hemorrhage,other
+IMPC_GEP_012_001,Skin Hemorrhage,other
+IMPC_GEP_018_001,Facial Cleft,other
+IMPC_GEP_019_001,Cleft Palate,other
+IMPC_GEP_029_001,Cyanosis,other
+IMPC_GEP_030_001,Edema,other
+IMPC_GEP_031_001,Hydrops fetalis (fetal adema),other
+IMPC_GEP_039_001,Polydactyly,other
+IMPC_GEP_047_001,Exencephaly,other
+IMPC_GEP_048_001,Holoprosencephaly,other
+IMPC_GEP_049_001,spina bifida,other
+IMPC_GEP_055_001,Respiratory Failure,other
+IMPC_GEP_059_001,Microphthalmia,other
+IMPC_GEP_060_001,Anophthalmia,other
+IMPC_GEP_061_001,Failure of Eyelid Fusion,other
+IMPC_CSD_040_001,Forepaw - size,other
+IMPC_CSD_041_001,Hindpaw - size,other
+IMPC_CSD_042_001,Forepaw - shape,other
+IMPC_CSD_043_001,Hindpaw - shape,other
+IMPC_CSD_044_001,Forelimb digit - number,other
+IMPC_CSD_045_001,Hindlimb digit - number,other
+IMPC_CSD_048_001,Forelimb digit - shape,other
+IMPC_CSD_049_001,Hindlimb digit - shape,other
+IMPC_CSD_050_001,Forelimb nail - number,other
+IMPC_CSD_051_001,Hindlimb nail - number,other
+IMPC_CSD_052_001,Forelimb nail - length,other
+IMPC_CSD_053_001,Hindlimb nail - length,other
+IMPC_CSD_054_001,Forelimb nail - shape,other
+IMPC_CSD_055_001,Hindlimb nail - shape,other
+IMPC_FER_001_001,Gross Findings Male,other
+IMPC_FER_002_001,Pups born (primary),other
+IMPC_FER_003_001,Total matings (primary),other
+IMPC_FER_004_001,Total litters (primary),other
+IMPC_FER_005_001,Total pups with dissection (primary),other
+IMPC_FER_006_001,Pups born (Male screen),other
+IMPC_FER_007_001,Total matings (Male screen),other
+IMPC_FER_008_001,Total litters (Male screen),other
+IMPC_FER_009_001,Total pups/embryos (Male Screen),other
+IMPC_FER_010_001,Pups born (Female Screen),other
+IMPC_FER_011_001,Total matings (Female Screen),other
+IMPC_FER_012_001,Total litters (Female Screen),other
+IMPC_FER_013_001,Total pups/embryos (Female Screen),other
+IMPC_FER_014_001,Age of set up,other
+IMPC_FER_015_001,Time spent in breeding,other
+IMPC_FER_016_001,Test strain genotype,other
+IMPC_FER_017_001,Test strain background secondary  (MGI ID),other
+IMPC_FER_018_001,Date of matings,other
+IMPC_FER_019_001,Gross Findings Female,other
+IMPC_FER_020_001,Age of set up (Male screen),other
+IMPC_FER_021_001,Age of set up (Female screen),other
+IMPC_FER_022_001,Time spent in  breeding (Male screen),other
+IMPC_FER_023_001,Time spent in breeding (Female screen),other
+IMPC_FER_024_001,Heterozygous - Gross Findings Male,other
+IMPC_FER_025_001,Heterozygous - Gross Findings Female,other
+IMPC_EOL_013_001,Hindbrain,Brain
+IMPC_EOL_014_001,4th ventricle,other
+IMPC_EOL_015_001,Mesencephalic vesicle,other
+IMPC_EOL_016_001,Forebrain,Brain
+IMPC_EOL_017_001,Telecenphalic (lateral) ventricle,other
+IMPC_EOL_018_001,Rhombomeres,other
+IMPC_EOL_019_001,Notochord,other
+IMPC_EOL_020_001,Infundibular recess of 3rd ventricle,other
+IMPC_EOL_021_001,Rathke's pouch,other
+IMPC_EOL_022_001,Optic vesicle,other
+IMPC_EOL_023_001,Otocyst,other
+IMPC_EOL_024_001,1st branchial arch,other
+IMPC_EOL_025_001,1st arch artery,other
+IMPC_EOL_026_001,2nd branchial arch,other
+IMPC_EOL_027_001,2nd arch artery,other
+IMPC_EOL_028_001,Oropharynx,other
+IMPC_EOL_029_001,3rd branchial arch,other
+IMPC_EOL_030_001,3rd arch artery,other
+IMPC_EOL_031_001,Aortic sac,other
+IMPC_EOL_032_001,Common atrial chamber,other
+IMPC_EOL_033_001,Atrioventricular canal,other
+IMPC_EOL_034_001,Heart ventricle,other
+IMPC_EOL_035_001,Primitive heart tube cardiac muscle,other
+IMPC_EOL_036_001,Dorsal aorta,other
+IMPC_EOL_037_001,Hepatic primordium,other
+IMPC_EOL_038_001,Hindgut,other
+IMPC_EOL_039_001,Forelimb bud,other
+IMPC_EOL_040_001,Neural tube,other
+IMPC_EOL_041_001,Caudal neuropore,other
+IMPC_EOL_042_001,Somite,other
+IMPC_EOL_043_001,Somite count,other
+IMPC_EOL_044_001,Delayed embryonic development,other
+IMPC_EOL_045_001,Vitelline artery,other
+IMPC_EOL_046_001,Umbilical vein,other
+IMPC_EOL_047_001,Foregut,other
+IMPC_EOL_048_001,Midgut,other
+IMPC_EOL_049_001,Pericardial cavity,other
+IMPC_EOL_050_001,Peritoneal cavity,other
+IMPC_EOL_051_001,Sinus venosus,other
+IMPC_EOL_052_001,Annotator ID,other
+IMPC_EOL_053_001,Date of Annotation,other
+IMPC_EML_018_001,Hindbrain,Brain
+IMPC_EML_019_001,4th ventricle,other
+IMPC_EML_020_001,Mesencephalic vesicle,other
+IMPC_EML_021_001,Forebrain,Brain
+IMPC_EML_022_001,Telecenphalic (lateral) ventricle,other
+IMPC_EML_023_001,Rhombomeres,other
+IMPC_EML_024_001,Notochord,other
+IMPC_EML_025_001,Infundibular recess of 3rd ventricle,other
+IMPC_EML_026_001,Rathke's pouch,other
+IMPC_EML_027_001,Optic vesicle,other
+IMPC_EML_028_001,Otocyst,other
+IMPC_EML_029_001,1st branchial arch,other
+IMPC_EML_030_001,1st arch artery,other
+IMPC_EML_031_001,2nd branchial arch,other
+IMPC_EML_032_001,2nd arch artery,other
+IMPC_EML_033_001,Oropharynx,other
+IMPC_EML_034_001,3rd branchial arch,other
+IMPC_EML_035_001,3rd arch artery,other
+IMPC_EML_036_001,Aortic sac,other
+IMPC_EML_037_001,Common atrial chamber,other
+IMPC_EML_038_001,Atrioventricular canal,other
+IMPC_EML_039_001,Heart ventricle,other
+IMPC_EML_040_001,Primitive heart tube cardiac muscle,other
+IMPC_EML_041_001,Dorsal aorta,other
+IMPC_EML_042_001,Hepatic primordium,other
+IMPC_EML_043_001,Hindgut,other
+IMPC_EML_044_001,Forelimb bud,other
+IMPC_EML_045_001,Neural tube,other
+IMPC_EML_046_001,Caudal neuropore,other
+IMPC_EML_047_001,Somite,other
+IMPC_EML_048_001,Somite count,other
+IMPC_EML_049_001,Delayed embryonic development,other
+IMPC_EML_050_001,Vitelline artery,other
+IMPC_EML_051_001,Umbilical vein,other
+IMPC_EML_052_001,Foregut,other
+IMPC_EML_053_001,Midgut,other
+IMPC_EML_054_001,Pericardial cavity,other
+IMPC_EML_055_001,Peritoneal cavity,other
+IMPC_EML_056_001,Sinus venosus,other
+IMPC_EML_057_001,Annotator ID,other
+IMPC_EML_058_001,Date of Annotation,other
+IMPC_EVO_001_001,Outcome,other
+IMPC_EVO_002_001,Decision,other
+IMPC_EVO_003_001,Comment on Decision (in English),other
+IMPC_EVO_004_001,Total embryos,other
+IMPC_EVO_005_001,Total embryos WT,other
+IMPC_EVO_006_001,Total embryos heterozygous,other
+IMPC_EVO_007_001,Total embryos homozygous,other
+IMPC_EVO_008_001,Total dead embryos,other
+IMPC_EVO_009_001,Total dead WT,other
+IMPC_EVO_010_001,Total dead heterozygous,other
+IMPC_EVO_011_001,Total dead homozygous,other
+IMPC_EVO_012_001,Total gross defect at dissection (alive or dead) embryos,other
+IMPC_EVO_013_001,Total gross defect at dissection (alive or dead) WT,other
+IMPC_EVO_014_001,Total gross defect at dissection (alive or dead) heterozygous,other
+IMPC_EVO_015_001,Total gross defect at dissection (alive or dead) homozygous,other
+IMPC_EVO_016_001,Number of reabsorptions,other
+IMPC_EVO_017_001,Average Litter Size,other
+IMPC_EVO_018_001,% embryos WT,other
+IMPC_EVO_019_001,% embryos heterozygous,other
+IMPC_EVO_020_001,% embryos homozygous,other
+IMPC_EVO_021_001,Time of dark cycle start,other
+IMPC_EVO_022_001,Time of dark cycle end,other
+IMPC_EVO_023_001,Embryo medium,other
+IMPC_EVO_024_001,Total live embryos,other
+IMPC_EVO_025_001,Total live heterozygous,other
+IMPC_EVO_026_001,Total live WT,other
+IMPC_EVO_027_001,Total live homozygous,other
+IMPC_GEM_008_002,Absent Heartbeat,other
+IMPC_GEM_034_002,Gastroschisis (herniated abdominal wall),other

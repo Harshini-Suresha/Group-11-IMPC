@@ -4,7 +4,24 @@ format: html
 editor: visual
 ---
 
+## Loading necessary libraries
+
+```{r}
+library(dplyr)
+library("tidyverse")
+library(here)
+```
+
 ## Importing and Cleaning the Datasets
+
+```{r}
+library(here)
+
+# Find project root and build filepaths
+file_path <- here("IMPC_SOP.csv")
+df <- read.csv(file_path)
+
+```
 
 ```{r}
 setwd("~/Documents/Applied Bioinformatics MSc/Data Cleaning and Data Management/Group Project/Group11")
@@ -20,13 +37,6 @@ query_genes <- read.csv("query_genes.csv")
 impc_proc <- read.csv("IMPC_procedure.txt")
 impc_param_desc <- read.csv("IMPC_parameter_description.txt")
 disease_info <- read.csv("Disease_information.txt")
-```
-
-```{r}
-gene_accession_0a2s62i2fp71c44 <- read.csv("data/0a2s62i2fp71c44.csv", header = FALSE)
-gene_accession_0a2x2imt0xp9bdz <- read.csv("data/0a2x2imt0xp9bdz.csv", header = FALSE)
-gene_accession_0a3qg129l10axg2 <- read.csv("data/0a3qg129l10axg2.csv", header = FALSE)
-gene_accession_0aeew11653j6ftb <- read.csv("data/0aeew11653j6ftb.csv", header = FALSE)
 ```
 
 ## Cleaning IMPC_Param_Desc
@@ -73,8 +83,6 @@ impc_param_desc[duplicated(impc_param_desc$parameterId), ] #display duplicates o
 
 
 # remove whitespaces from all chr columns
-library(dplyr)
-
 impc_param_clean <- impc_param_desc %>%
   mutate(across(where(is.character), trimws))
 
@@ -92,12 +100,17 @@ summary(impc_param_clean)
 ### Saving the IMPC Param File
 
 ```{r}
-# Installing and loading tidyverse
-#install.packages("tidyverse")
-library("tidyverse")
+
+# Create the folder if it doesn't exist
+
+clean_files_dir <- here("Clean Files")
+
+if (!dir.exists(clean_files_dir)) {
+  dir.create(clean_files_dir, recursive = TRUE)
+}
 
 
-write_csv(impc_param_clean, "Clean Files/impc_param_clean.csv")
+write_csv(impc_param_clean, file.path(clean_files_dir, "impc_param_clean.csv"))
 ```
 
 ## Cleaning IMPC_Proc
@@ -125,8 +138,6 @@ sum(duplicated(impc_proc$impcParameterOrigId)) # number of duplicate (non-unique
 
 ```{r}
 # remove whitespaces from all chr columns
-library(dplyr)
-
 impc_proc_clean <- impc_proc %>%
   mutate(across(where(is.character), trimws))
 
@@ -138,25 +149,26 @@ cat("\n")
 summary(impc_proc_clean)
 ```
 
-**Setting True and False values to 1 and 0**
-
 ```{r}
+#Setting True and False values to 1 and 0
 impc_proc_clean$isMandatory <- as.integer(toupper(trimws(impc_proc$isMandatory)) == "TRUE")
-
-# table(impc_proc$isMandatory, useNA = "ifany") 
-# table(impc_proc_clean$isMandatory, useNA = "ifany")
 
 ```
 
 **Saving the IMPC Proc File**
 
 ```{r}
-# Installing and loading tidyverse
-#install.packages("tidyverse")
-#library("tidyverse")
+
+# Create the folder if it doesn't exist
+
+clean_files_dir <- here("Clean Files")
+
+if (!dir.exists(clean_files_dir)) {
+  dir.create(clean_files_dir, recursive = TRUE)
+}
 
 
-write_csv(impc_proc_clean, "Clean Files/impc_proc_clean.csv")
+write_csv(impc_proc_clean, file.path(clean_files_dir, "impc_proc_clean.csv"))
 ```
 
 ## Batch import data files
@@ -263,8 +275,6 @@ permissible_values %>% filter(is.na(mouse_life_stage)) # show the above values
 ```{r}
 permissible_values[duplicated(permissible_values), ] #display duplicate rows
 
-permissible_values[duplicated(permissible_values$analysis_id), ] #display duplicates of analysis_id
-
 permissible_values[duplicated(permissible_values$gene_accession_id), ] #display duplicates of gene_accession_id
 
 permissible_values[duplicated(permissible_values$parameter_id), ] #display duplicates of parameter_id
@@ -317,11 +327,34 @@ permissible_values %>% distinct(parameter_id, parameter_name) %>%
 # Combine paramID values from both tables into one
 parameter_clean <- bind_rows(
   permissible_values %>% distinct(parameter_id, parameter_name),
-  impc_param_clean %>% distinct(parameter_id = parameterId)) %>%
+  impc_param_clean %>% distinct(parameter_id = parameterId, name)) %>%
   
-  # group by param ID and keep one ID per grouping 
-  group_by(parameter_id) %>%
-  summarise(parameter_name = first(na.omit(parameter_name)), .groups = "drop")
+  #select value from 'name' column if 'parameter_name' is NA
+  mutate(parameter_name = coalesce(parameter_name, name)) %>%
+  select(-name) %>%
+  distinct()
+  
+
+
+# Check data types of each column
+glimpse(parameter_clean)
+
+cat("\n")
+
+# Summarise the data to get a snapshot
+summary(parameter_clean)
+```
+
+### Parameter Groupings
+
+```{r}
+parameter %>%
+  mutate(parameter_group = case_when(
+    str_detect(parameter_name, regex("grip strength", ignore_case = TRUE)) ~ "Grip Strength",
+    str_detect(parameter_name, regex("weight", ignore_case = TRUE)) ~ "Weight",
+    str_detect(parameter_name, regex("brain",  ignore_case = TRUE)) ~ "Brain",
+    .default = "other"
+  ))
 ```
 
 ### Saving results to .csv files
@@ -331,18 +364,32 @@ parameter_clean <- bind_rows(
 gene <- permissible_values %>% distinct(gene_accession_id, gene_symbol)
 
 # Save to .csv
-write_csv(gene, "Clean Files/gene_clean.csv")
+write_csv(gene, file.path(clean_files_dir, "gene_clean.csv"))
 
 
 # Save parameter table to .csv
-write_csv(parameter_clean, "Clean Files/parameter_clean.csv")
+write_csv(parameter_clean, file.path(clean_files_dir, "parameter_clean.csv"))
 
 
-# each row of analysis_id is already unique
+# create analysis table with parameter id from parameter table
 analysis <- permissible_values %>% select(analysis_id, gene_accession_id, parameter_id,
-                               mouse_strain, mouse_life_stage, pvalue) 
+                                          mouse_strain, mouse_life_stage, pvalue) %>%
+  left_join(parameter_clean %>% select(parameter_id),
+            by = "parameter_id")
+
 
 # Save to .csv
-write_csv(analysis, "Clean Files/analysis_clean.csv")
+write_csv(analysis, file.path(clean_files_dir, "analysis_clean.csv"))
 
+```
+
+```{r}
+#display number of duplicate analysis ID values
+sum(duplicated(analysis$analysis_id)) 
+
+#display number of NA values of analysis_ID
+length(analysis$analysis_id[analysis$analysis_id == "NA"])
+
+# display number of unique analysis ID values
+length(unique(analysis$analysis_id))
 ```
